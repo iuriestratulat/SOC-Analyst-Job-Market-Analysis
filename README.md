@@ -1,5 +1,7 @@
 # 🛡️ SOC Analyst Job Market Analysis
 
+![Dashboard Preview](dashboard_preview.png)
+
 ### 📊 Project Overview
 This project analyzes the current job market for **SOC Analysts** and **Cyber Security Specialists** in Europe. Unlike standard analyses based on pre-cleaned datasets, this project involves an **end-to-end data engineering pipeline**: scraping raw data using **Apify**, processing it with Python, and visualizing it in Tableau.
 
