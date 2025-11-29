@@ -1,0 +1,1238 @@
+[
+  {
+    "location": "Aschheim, Germany",
+    "country": "Germany",
+    "region": "Bavaria",
+    "city": "Aschheim"
+  },
+  {
+    "location": "München, Germany",
+    "country": "Germany",
+    "region": "Bavaria",
+    "city": "München"
+  },
+  {
+    "location": "Bonn, Germany",
+    "country": "Germany",
+    "region": "North Rhine-Westphalia",
+    "city": "Bonn"
+  },
+  {
+    "location": "Bergheim, Germany",
+    "country": "Germany",
+    "region": "North Rhine-Westphalia",
+    "city": "Bergheim"
+  },
+  {
+    "location": "Deutschland, Germany",
+    "country": "Germany",
+    "region": "Berlin",
+    "city": "Berlin"
+  },
+  {
+    "location": "Berlin, Germany",
+    "country": "Germany",
+    "region": "Berlin",
+    "city": "Berlin"
+  },
+  {
+    "location": "Hamburg, Germany",
+    "country": "Germany",
+    "region": "Hamburg",
+    "city": "Hamburg"
+  },
+  {
+    "location": "Braunschweig, Germany",
+    "country": "Germany",
+    "region": "Lower Saxony",
+    "city": "Braunschweig"
+  },
+  {
+    "location": "Frankfurt am main, Germany",
+    "country": "Germany",
+    "region": "Hesse",
+    "city": "Frankfurt am Main"
+  },
+  {
+    "location": "Friedrichshafen, Germany",
+    "country": "Germany",
+    "region": "Baden-Württemberg",
+    "city": "Friedrichshafen"
+  },
+  {
+    "location": "Portugal, Portugal",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "city": "Lisbon"
+  },
+  {
+    "location": "Leipzig, Germany",
+    "country": "Germany",
+    "region": "Saxony",
+    "city": "Leipzig"
+  },
+  {
+    "location": "Plankstadt, Germany",
+    "country": "Germany",
+    "region": "Baden-Württemberg",
+    "city": "Plankstadt"
+  },
+  {
+    "location": "Dresden, Germany",
+    "country": "Germany",
+    "region": "Saxony",
+    "city": "Dresden"
+  },
+  {
+    "location": "Raighar, Germany",
+    "country": "Germany",
+    "region": "Bavaria",
+    "city": "Raighar"
+  },
+  {
+    "location": "Bad homburg vor der höhe, Germany",
+    "country": "Germany",
+    "region": "Hesse",
+    "city": "Bad Homburg vor der Höhe"
+  },
+  {
+    "location": "Tittmoning, Germany",
+    "country": "Germany",
+    "region": "Bavaria",
+    "city": "Tittmoning"
+  },
+  {
+    "location": "Kirchberg, Germany",
+    "country": "Germany",
+    "region": "Rhineland-Palatinate",
+    "city": "Kirchberg"
+  },
+  {
+    "location": "Singen (hohentwiel), Germany",
+    "country": "Germany",
+    "region": "Baden-Württemberg",
+    "city": "Singen (Hohentwiel)"
+  },
+  {
+    "location": "Wuppertal, Germany",
+    "country": "Germany",
+    "region": "North Rhine-Westphalia",
+    "city": "Wuppertal"
+  },
+  {
+    "location": "Basel, Switzerland",
+    "country": "Switzerland",
+    "region": "Basel-Stadt",
+    "city": "Basel"
+  },
+  {
+    "location": "Thayngen, Switzerland",
+    "country": "Switzerland",
+    "region": "Schaffhausen",
+    "city": "Thayngen"
+  },
+  {
+    "location": "Gland, Switzerland",
+    "country": "Switzerland",
+    "region": "Vaud",
+    "city": "Gland"
+  },
+  {
+    "location": "Lupfig, Switzerland",
+    "country": "Switzerland",
+    "region": "Aargau",
+    "city": "Lupfig"
+  },
+  {
+    "location": "Genf, Switzerland",
+    "country": "Switzerland",
+    "region": "Geneva",
+    "city": "Geneva"
+  },
+  {
+    "location": "Olten, Switzerland",
+    "country": "Switzerland",
+    "region": "Solothurn",
+    "city": "Olten"
+  },
+  {
+    "location": "Zürich, Switzerland",
+    "country": "Switzerland",
+    "region": "Zurich",
+    "city": "Zurich"
+  },
+  {
+    "location": "Morges, Switzerland",
+    "country": "Switzerland",
+    "region": "Vaud",
+    "city": "Morges"
+  },
+  {
+    "location": "Schweiz, Switzerland",
+    "country": "Switzerland",
+    "region": "Bern",
+    "city": "Bern"
+  },
+  {
+    "location": "Bern, Switzerland",
+    "country": "Switzerland",
+    "region": "Bern",
+    "city": "Bern"
+  },
+  {
+    "location": "Boulogne-billancourt, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Boulogne-Billancourt"
+  },
+  {
+    "location": "Neuilly, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Neuilly-sur-Seine"
+  },
+  {
+    "location": "Lesquin, France",
+    "country": "France",
+    "region": "Hauts-de-France",
+    "city": "Lesquin"
+  },
+  {
+    "location": "Aix, France",
+    "country": "France",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "city": "Aix-en-Provence"
+  },
+  {
+    "location": "France, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Paris"
+  },
+  {
+    "location": "Lille, France",
+    "country": "France",
+    "region": "Hauts-de-France",
+    "city": "Lille"
+  },
+  {
+    "location": "Le kremlin-bicêtre, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Le Kremlin-Bicêtre"
+  },
+  {
+    "location": "Paris, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Paris"
+  },
+  {
+    "location": "Bordeaux, France",
+    "country": "France",
+    "region": "Nouvelle-Aquitaine",
+    "city": "Bordeaux"
+  },
+  {
+    "location": "Toulouse, France",
+    "country": "France",
+    "region": "Occitanie",
+    "city": "Toulouse"
+  },
+  {
+    "location": "Saint-cloud, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Saint-Cloud"
+  },
+  {
+    "location": "Niort, France",
+    "country": "France",
+    "region": "Nouvelle-Aquitaine",
+    "city": "Niort"
+  },
+  {
+    "location": "Brest, France",
+    "country": "France",
+    "region": "Brittany",
+    "city": "Brest"
+  },
+  {
+    "location": "Sèvres, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Sèvres"
+  },
+  {
+    "location": "Villeurbanne, France",
+    "country": "France",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Villeurbanne"
+  },
+  {
+    "location": "Massy, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Massy"
+  },
+  {
+    "location": "Lyon, France",
+    "country": "France",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Lyon"
+  },
+  {
+    "location": "Le plessis-robinson, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Le Plessis-Robinson"
+  },
+  {
+    "location": "Guyancourt, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Guyancourt"
+  },
+  {
+    "location": "Colomiers, France",
+    "country": "France",
+    "region": "Occitanie",
+    "city": "Colomiers"
+  },
+  {
+    "location": "Castres, France",
+    "country": "France",
+    "region": "Occitanie",
+    "city": "Castres"
+  },
+  {
+    "location": "Valence, France",
+    "country": "France",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Valence"
+  },
+  {
+    "location": "Labège, France",
+    "country": "France",
+    "region": "Occitanie",
+    "city": "Labège"
+  },
+  {
+    "location": "Grenoble, France",
+    "country": "France",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble"
+  },
+  {
+    "location": "Zurich, Switzerland",
+    "country": "Switzerland",
+    "region": "Zurich",
+    "city": "Zurich"
+  },
+  {
+    "location": "Genève, Switzerland",
+    "country": "Switzerland",
+    "region": "Geneva",
+    "city": "Geneva"
+  },
+  {
+    "location": "Plan-les-ouates, Switzerland",
+    "country": "Switzerland",
+    "region": "Geneva",
+    "city": "Plan-les-Ouates"
+  },
+  {
+    "location": "Suisse, Switzerland",
+    "country": "Switzerland",
+    "region": "Bern",
+    "city": "Bern"
+  },
+  {
+    "location": "Berne, Switzerland",
+    "country": "Switzerland",
+    "region": "Bern",
+    "city": "Bern"
+  },
+  {
+    "location": "Bâle, Switzerland",
+    "country": "Switzerland",
+    "region": "Basel-Stadt",
+    "city": "Basel"
+  },
+  {
+    "location": "Wiener neudorf, Austria",
+    "country": "Austria",
+    "region": "Lower Austria",
+    "city": "Wiener Neudorf"
+  },
+  {
+    "location": "Klaus, Austria",
+    "country": "Austria",
+    "region": "Vorarlberg",
+    "city": "Klaus"
+  },
+  {
+    "location": "Wien, Austria",
+    "country": "Austria",
+    "region": "Vienna",
+    "city": "Vienna"
+  },
+  {
+    "location": "Maria enzersdorf, Austria",
+    "country": "Austria",
+    "region": "Lower Austria",
+    "city": "Maria Enzersdorf"
+  },
+  {
+    "location": "Österreich, Austria",
+    "country": "Austria",
+    "region": "Vienna",
+    "city": "Vienna"
+  },
+  {
+    "location": "België, Belgium",
+    "country": "Belgium",
+    "region": "Brussels-Capital Region",
+    "city": "Brussels"
+  },
+  {
+    "location": "Diegem, Belgium",
+    "country": "Belgium",
+    "region": "Flemish Brabant",
+    "city": "Diegem"
+  },
+  {
+    "location": "Brussel, Belgium",
+    "country": "Belgium",
+    "region": "Brussels-Capital Region",
+    "city": "Brussels"
+  },
+  {
+    "location": "Leuven, Belgium",
+    "country": "Belgium",
+    "region": "Flemish Brabant",
+    "city": "Leuven"
+  },
+  {
+    "location": "Zaventem, Belgium",
+    "country": "Belgium",
+    "region": "Flemish Brabant",
+    "city": "Zaventem"
+  },
+  {
+    "location": "Merelbeke, Belgium",
+    "country": "Belgium",
+    "region": "East Flanders",
+    "city": "Merelbeke"
+  },
+  {
+    "location": "Nivelles, Belgium",
+    "country": "Belgium",
+    "region": "Walloon Brabant",
+    "city": "Nivelles"
+  },
+  {
+    "location": "Gent, Belgium",
+    "country": "Belgium",
+    "region": "East Flanders",
+    "city": "Ghent"
+  },
+  {
+    "location": "Halle, Belgium",
+    "country": "Belgium",
+    "region": "Flemish Brabant",
+    "city": "Halle"
+  },
+  {
+    "location": "Milano, Italy",
+    "country": "Italy",
+    "region": "Lombardy",
+    "city": "Milan"
+  },
+  {
+    "location": "Catania, Italy",
+    "country": "Italy",
+    "region": "Sicily",
+    "city": "Catania"
+  },
+  {
+    "location": "Roma, Italy",
+    "country": "Italy",
+    "region": "Lazio",
+    "city": "Rome"
+  },
+  {
+    "location": "Italia, Italy",
+    "country": "Italy",
+    "region": "Lazio",
+    "city": "Rome"
+  },
+  {
+    "location": "Modena, Italy",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "city": "Modena"
+  },
+  {
+    "location": "Bologna, Italy",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "city": "Bologna"
+  },
+  {
+    "location": "Pozzuoli, Italy",
+    "country": "Italy",
+    "region": "Campania",
+    "city": "Pozzuoli"
+  },
+  {
+    "location": "Grottaglie, Italy",
+    "country": "Italy",
+    "region": "Apulia",
+    "city": "Grottaglie"
+  },
+  {
+    "location": "Cinisello balsamo, Italy",
+    "country": "Italy",
+    "region": "Lombardy",
+    "city": "Cinisello Balsamo"
+  },
+  {
+    "location": "Ortucchio, Italy",
+    "country": "Italy",
+    "region": "Abruzzo",
+    "city": "Ortucchio"
+  },
+  {
+    "location": "Treviso, Italy",
+    "country": "Italy",
+    "region": "Veneto",
+    "city": "Treviso"
+  },
+  {
+    "location": "Brembate, Italy",
+    "country": "Italy",
+    "region": "Lombardy",
+    "city": "Brembate"
+  },
+  {
+    "location": "Bari, Italy",
+    "country": "Italy",
+    "region": "Apulia",
+    "city": "Bari"
+  },
+  {
+    "location": "Curtarolo, Italy",
+    "country": "Italy",
+    "region": "Veneto",
+    "city": "Curtarolo"
+  },
+  {
+    "location": "San donato milanese, Italy",
+    "country": "Italy",
+    "region": "Lombardy",
+    "city": "San Donato Milanese"
+  },
+  {
+    "location": "Belgique, Belgium",
+    "country": "Belgium",
+    "region": "Brussels-Capital Region",
+    "city": "Brussels"
+  },
+  {
+    "location": "Bruxelles, Belgium",
+    "country": "Belgium",
+    "region": "Brussels-Capital Region",
+    "city": "Brussels"
+  },
+  {
+    "location": "Waterloo, Belgium",
+    "country": "Belgium",
+    "region": "Walloon Brabant",
+    "city": "Waterloo"
+  },
+  {
+    "location": "Louvain, Belgium",
+    "country": "Belgium",
+    "region": "Flemish Brabant",
+    "city": "Leuven"
+  },
+  {
+    "location": "Gand, Belgium",
+    "country": "Belgium",
+    "region": "East Flanders",
+    "city": "Ghent"
+  },
+  {
+    "location": "Madrid, Spain",
+    "country": "Spain",
+    "region": "Community of Madrid",
+    "city": "Madrid"
+  },
+  {
+    "location": "España, Spain",
+    "country": "Spain",
+    "region": "Community of Madrid",
+    "city": "Madrid"
+  },
+  {
+    "location": "Boadilla del monte, Spain",
+    "country": "Spain",
+    "region": "Community of Madrid",
+    "city": "Boadilla del Monte"
+  },
+  {
+    "location": "Barcelona, Spain",
+    "country": "Spain",
+    "region": "Catalonia",
+    "city": "Barcelona"
+  },
+  {
+    "location": "Tres cantos, Spain",
+    "country": "Spain",
+    "region": "Community of Madrid",
+    "city": "Tres Cantos"
+  },
+  {
+    "location": "Dublin, Ireland",
+    "country": "Ireland",
+    "region": "Leinster",
+    "city": "Dublin"
+  },
+  {
+    "location": "Tralee, Ireland",
+    "country": "Ireland",
+    "region": "Munster",
+    "city": "Tralee"
+  },
+  {
+    "location": "Cork, Ireland",
+    "country": "Ireland",
+    "region": "Munster",
+    "city": "Cork"
+  },
+  {
+    "location": "Ireland, Ireland",
+    "country": "Ireland",
+    "region": "Leinster",
+    "city": "Dublin"
+  },
+  {
+    "location": "Carlow, Ireland",
+    "country": "Ireland",
+    "region": "Leinster",
+    "city": "Carlow"
+  },
+  {
+    "location": "Letterkenny, Ireland",
+    "country": "Ireland",
+    "region": "Ulster",
+    "city": "Letterkenny"
+  },
+  {
+    "location": "London, United kingdom",
+    "country": "United Kingdom",
+    "region": "Greater London",
+    "city": "London"
+  },
+  {
+    "location": "Marlow, United kingdom",
+    "country": "United Kingdom",
+    "region": "Buckinghamshire",
+    "city": "Marlow"
+  },
+  {
+    "location": "Didcot, United kingdom",
+    "country": "United Kingdom",
+    "region": "Oxfordshire",
+    "city": "Didcot"
+  },
+  {
+    "location": "Gabon, Gabon",
+    "country": "Gabon",
+    "region": "Estuaire",
+    "city": "Libreville"
+  },
+  {
+    "location": "Cambridge, United kingdom",
+    "country": "United Kingdom",
+    "region": "Cambridgeshire",
+    "city": "Cambridge"
+  },
+  {
+    "location": "Crawley, United kingdom",
+    "country": "United Kingdom",
+    "region": "West Sussex",
+    "city": "Crawley"
+  },
+  {
+    "location": "Ashby de la zouch, United kingdom",
+    "country": "United Kingdom",
+    "region": "Leicestershire",
+    "city": "Ashby-de-la-Zouch"
+  },
+  {
+    "location": "Reading, United kingdom",
+    "country": "United Kingdom",
+    "region": "Berkshire",
+    "city": "Reading"
+  },
+  {
+    "location": "Milton keynes, United kingdom",
+    "country": "United Kingdom",
+    "region": "Buckinghamshire",
+    "city": "Milton Keynes"
+  },
+  {
+    "location": "Welwyn garden city, United kingdom",
+    "country": "United Kingdom",
+    "region": "Hertfordshire",
+    "city": "Welwyn Garden City"
+  },
+  {
+    "location": "Lincoln, United kingdom",
+    "country": "United Kingdom",
+    "region": "Lincolnshire",
+    "city": "Lincoln"
+  },
+  {
+    "location": "High wycombe, United kingdom",
+    "country": "United Kingdom",
+    "region": "Buckinghamshire",
+    "city": "High Wycombe"
+  },
+  {
+    "location": "Kingston upon hull, United kingdom",
+    "country": "United Kingdom",
+    "region": "East Riding of Yorkshire",
+    "city": "Kingston upon Hull"
+  },
+  {
+    "location": "United kingdom, United kingdom",
+    "country": "United Kingdom",
+    "region": "Greater London",
+    "city": "London"
+  },
+  {
+    "location": "Coventry, United kingdom",
+    "country": "United Kingdom",
+    "region": "West Midlands",
+    "city": "Coventry"
+  },
+  {
+    "location": "Birmingham, United kingdom",
+    "country": "United Kingdom",
+    "region": "West Midlands",
+    "city": "Birmingham"
+  },
+  {
+    "location": "Manchester, United kingdom",
+    "country": "United Kingdom",
+    "region": "Greater Manchester",
+    "city": "Manchester"
+  },
+  {
+    "location": "Southampton, United kingdom",
+    "country": "United Kingdom",
+    "region": "Hampshire",
+    "city": "Southampton"
+  },
+  {
+    "location": "Watford, United kingdom",
+    "country": "United Kingdom",
+    "region": "Hertfordshire",
+    "city": "Watford"
+  },
+  {
+    "location": "Gloucester, United kingdom",
+    "country": "United Kingdom",
+    "region": "Gloucestershire",
+    "city": "Gloucester"
+  },
+  {
+    "location": "Newquay, United kingdom",
+    "country": "United Kingdom",
+    "region": "Cornwall",
+    "city": "Newquay"
+  },
+  {
+    "location": "Blackburn, United kingdom",
+    "country": "United Kingdom",
+    "region": "Lancashire",
+    "city": "Blackburn"
+  },
+  {
+    "location": "Leeds, United kingdom",
+    "country": "United Kingdom",
+    "region": "West Yorkshire",
+    "city": "Leeds"
+  },
+  {
+    "location": "Worthing, United kingdom",
+    "country": "United Kingdom",
+    "region": "West Sussex",
+    "city": "Worthing"
+  },
+  {
+    "location": "Maidenhead, United kingdom",
+    "country": "United Kingdom",
+    "region": "Berkshire",
+    "city": "Maidenhead"
+  },
+  {
+    "location": "Chester-le-street, United kingdom",
+    "country": "United Kingdom",
+    "region": "County Durham",
+    "city": "Chester-le-Street"
+  },
+  {
+    "location": "Durham, United kingdom",
+    "country": "United Kingdom",
+    "region": "County Durham",
+    "city": "Durham"
+  },
+  {
+    "location": "Cheltenham, United kingdom",
+    "country": "United Kingdom",
+    "region": "Gloucestershire",
+    "city": "Cheltenham"
+  },
+  {
+    "location": "Aberdeen, United kingdom",
+    "country": "United Kingdom",
+    "region": "Aberdeenshire",
+    "city": "Aberdeen"
+  },
+  {
+    "location": "Gatwick, United kingdom",
+    "country": "United Kingdom",
+    "region": "West Sussex",
+    "city": "Gatwick"
+  },
+  {
+    "location": "Bristol, United kingdom",
+    "country": "United Kingdom",
+    "region": "Bristol",
+    "city": "Bristol"
+  },
+  {
+    "location": "Belfast, United kingdom",
+    "country": "United Kingdom",
+    "region": "Northern Ireland",
+    "city": "Belfast"
+  },
+  {
+    "location": "Stevenage, United kingdom",
+    "country": "United Kingdom",
+    "region": "Hertfordshire",
+    "city": "Stevenage"
+  },
+  {
+    "location": "Newbury, United kingdom",
+    "country": "United Kingdom",
+    "region": "Berkshire",
+    "city": "Newbury"
+  },
+  {
+    "location": "Germany",
+    "country": "Germany",
+    "region": "Berlin",
+    "city": "Berlin"
+  },
+  {
+    "location": "Hannover-Braunschweig-Göttingen-Wolfsburg Region",
+    "country": "Germany",
+    "region": "Lower Saxony",
+    "city": "Hannover"
+  },
+  {
+    "location": "Greater Nuremberg Metropolitan Area",
+    "country": "Germany",
+    "region": "Bavaria",
+    "city": "Nuremberg"
+  },
+  {
+    "location": "Greater Munich Metropolitan Area",
+    "country": "Germany",
+    "region": "Bavaria",
+    "city": "Munich"
+  },
+  {
+    "location": "Greater Wurzburg Area",
+    "country": "Germany",
+    "region": "Bavaria",
+    "city": "Würzburg"
+  },
+  {
+    "location": "Greater Dusseldorf Area",
+    "country": "Germany",
+    "region": "North Rhine-Westphalia",
+    "city": "Düsseldorf"
+  },
+  {
+    "location": "London Area, United Kingdom",
+    "country": "United Kingdom",
+    "region": "Greater London",
+    "city": "London"
+  },
+  {
+    "location": "Helsinki Metropolitan Area",
+    "country": "Finland",
+    "region": "Uusimaa",
+    "city": "Helsinki"
+  },
+  {
+    "location": "Riga, Latvia",
+    "country": "Latvia",
+    "region": "Riga",
+    "city": "Riga"
+  },
+  {
+    "location": "Ireland",
+    "country": "Ireland",
+    "region": "Leinster",
+    "city": "Dublin"
+  },
+  {
+    "location": "Lithuania",
+    "country": "Lithuania",
+    "region": "Vilnius County",
+    "city": "Vilnius"
+  },
+  {
+    "location": "Vienna, Austria",
+    "country": "Austria",
+    "region": "Vienna",
+    "city": "Vienna"
+  },
+  {
+    "location": "Greater Stockholm Metropolitan Area",
+    "country": "Sweden",
+    "region": "Stockholm County",
+    "city": "Stockholm"
+  },
+  {
+    "location": "Flemish Region, Belgium",
+    "country": "Belgium",
+    "region": "Flemish Region",
+    "city": "Brussels"
+  },
+  {
+    "location": "Brussels Metropolitan Area",
+    "country": "Belgium",
+    "region": "Brussels-Capital Region",
+    "city": "Brussels"
+  },
+  {
+    "location": "Ghent Metropolitan Area",
+    "country": "Belgium",
+    "region": "East Flanders",
+    "city": "Ghent"
+  },
+  {
+    "location": "Brussels Region, Belgium",
+    "country": "Belgium",
+    "region": "Brussels-Capital Region",
+    "city": "Brussels"
+  },
+  {
+    "location": "Belgium",
+    "country": "Belgium",
+    "region": "Brussels-Capital Region",
+    "city": "Brussels"
+  },
+  {
+    "location": "Antwerp Metropolitan Area",
+    "country": "Belgium",
+    "region": "Antwerp",
+    "city": "Antwerp"
+  },
+  {
+    "location": "Île-de-France, France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Paris"
+  },
+  {
+    "location": "Greater Bordeaux Metropolitan Area",
+    "country": "France",
+    "region": "Nouvelle-Aquitaine",
+    "city": "Bordeaux"
+  },
+  {
+    "location": "France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Paris"
+  },
+  {
+    "location": "Greater Paris Metropolitan Region",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Paris"
+  },
+  {
+    "location": "The Randstad, Netherlands",
+    "country": "Netherlands",
+    "region": "North Holland / South Holland",
+    "city": "Amsterdam"
+  },
+  {
+    "location": "Amsterdam Area",
+    "country": "Netherlands",
+    "region": "North Holland",
+    "city": "Amsterdam"
+  },
+  {
+    "location": "Netherlands",
+    "country": "Netherlands",
+    "region": "North Holland",
+    "city": "Amsterdam"
+  },
+  {
+    "location": "Brabantine City Row",
+    "country": "Netherlands",
+    "region": "North Brabant",
+    "city": "Eindhoven"
+  },
+  {
+    "location": "Utrecht, Netherlands",
+    "country": "Netherlands",
+    "region": "Utrecht",
+    "city": "Utrecht"
+  },
+  {
+    "location": "South Holland, Netherlands",
+    "country": "Netherlands",
+    "region": "South Holland",
+    "city": "The Hague"
+  },
+  {
+    "location": "Eindhoven Area",
+    "country": "Netherlands",
+    "region": "North Brabant",
+    "city": "Eindhoven"
+  },
+  {
+    "location": "Rotterdam and The Hague",
+    "country": "Netherlands",
+    "region": "South Holland",
+    "city": "Rotterdam"
+  },
+  {
+    "location": "Arnhem-Nijmegen Region",
+    "country": "Netherlands",
+    "region": "Gelderland",
+    "city": "Arnhem"
+  },
+  {
+    "location": "Schaffhausen, Switzerland",
+    "country": "Switzerland",
+    "region": "Schaffhausen",
+    "city": "Schaffhausen"
+  },
+  {
+    "location": "Switzerland",
+    "country": "Switzerland",
+    "region": "Bern",
+    "city": "Bern"
+  },
+  {
+    "location": "Geneva, Switzerland",
+    "country": "Switzerland",
+    "region": "Geneva",
+    "city": "Geneva"
+  },
+  {
+    "location": "Basel Metropolitan Area",
+    "country": "Switzerland",
+    "region": "Basel-Stadt",
+    "city": "Basel"
+  },
+  {
+    "location": "Italy",
+    "country": "Italy",
+    "region": "Lazio",
+    "city": "Rome"
+  },
+  {
+    "location": "Piedmont, Italy",
+    "country": "Italy",
+    "region": "Piedmont",
+    "city": "Turin"
+  },
+  {
+    "location": "Lombardy, Italy",
+    "country": "Italy",
+    "region": "Lombardy",
+    "city": "Milan"
+  },
+  {
+    "location": "Lisbon, Portugal",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "city": "Lisbon"
+  },
+  {
+    "location": "Porto Metropolitan Area",
+    "country": "Portugal",
+    "region": "Porto",
+    "city": "Porto"
+  },
+  {
+    "location": "Porto, Portugal",
+    "country": "Portugal",
+    "region": "Porto",
+    "city": "Porto"
+  },
+  {
+    "location": "Portugal",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "city": "Lisbon"
+  },
+  {
+    "location": "Lisbon Metropolitan Area",
+    "country": "Portugal",
+    "region": "Lisbon",
+    "city": "Lisbon"
+  },
+  {
+    "location": "Belgrade, Serbia",
+    "country": "Serbia",
+    "region": "Belgrade",
+    "city": "Belgrade"
+  },
+  {
+    "location": "Bulgaria",
+    "country": "Bulgaria",
+    "region": "Sofia City Province",
+    "city": "Sofia"
+  },
+  {
+    "location": "Greater Madrid Metropolitan Area",
+    "country": "Spain",
+    "region": "Community of Madrid",
+    "city": "Madrid"
+  },
+  {
+    "location": "Greater Barcelona Metropolitan Area",
+    "country": "Spain",
+    "region": "Catalonia",
+    "city": "Barcelona"
+  },
+  {
+    "location": "Spain",
+    "country": "Spain",
+    "region": "Community of Madrid",
+    "city": "Madrid"
+  },
+  {
+    "location": "Budapest, Hungary",
+    "country": "Hungary",
+    "region": "Budapest",
+    "city": "Budapest"
+  },
+  {
+    "location": "Budapest Metropolitan Area",
+    "country": "Hungary",
+    "region": "Budapest",
+    "city": "Budapest"
+  },
+  {
+    "location": "Hungary",
+    "country": "Hungary",
+    "region": "Budapest",
+    "city": "Budapest"
+  },
+  {
+    "location": "Santo Domingo, Dominican Republic",
+    "country": "Dominican Republic",
+    "region": "Distrito Nacional",
+    "city": "Santo Domingo"
+  },
+  {
+    "location": "Distrito Nacional, Dominican Republic",
+    "country": "Dominican Republic",
+    "region": "Distrito Nacional",
+    "city": "Santo Domingo"
+  },
+  {
+    "location": "Dominican Republic",
+    "country": "Dominican Republic",
+    "region": "Distrito Nacional",
+    "city": "Santo Domingo"
+  },
+  {
+    "location": "Bucharest Metropolitan Area",
+    "country": "Romania",
+    "region": "Ilfov",
+    "city": "Bucharest"
+  },
+  {
+    "location": "Bucharest, Romania",
+    "country": "Romania",
+    "region": "Bucharest",
+    "city": "Bucharest"
+  },
+  {
+    "location": "Ilfov, Romania",
+    "country": "Romania",
+    "region": "Ilfov",
+    "city": "Bucharest"
+  },
+  {
+    "location": "Romania",
+    "country": "Romania",
+    "region": "Bucharest",
+    "city": "Bucharest"
+  },
+  {
+    "location": "Poland",
+    "country": "Poland",
+    "region": "Mazowieckie",
+    "city": "Warsaw"
+  },
+  {
+    "location": "Mazowieckie, Poland",
+    "country": "Poland",
+    "region": "Mazowieckie",
+    "city": "Warsaw"
+  },
+  {
+    "location": "Warsaw Metropolitan Area",
+    "country": "Poland",
+    "region": "Mazowieckie",
+    "city": "Warsaw"
+  },
+  {
+    "location": "Gdansk Metropolitan Area",
+    "country": "Poland",
+    "region": "Pomeranian",
+    "city": "Gdańsk"
+  },
+  {
+    "location": "Tarnow Metropolitan Area",
+    "country": "Poland",
+    "region": "Lesser Poland",
+    "city": "Tarnów"
+  },
+  {
+    "location": "Slovakia",
+    "country": "Slovakia",
+    "region": "Bratislava Region",
+    "city": "Bratislava"
+  },
+  {
+    "location": "Luxembourg, Luxembourg",
+    "country": "Luxembourg",
+    "region": "Luxembourg District",
+    "city": "Luxembourg City"
+  },
+  {
+    "location": "Luxembourg",
+    "country": "Luxembourg",
+    "region": "Luxembourg District",
+    "city": "Luxembourg City"
+  }
+]
