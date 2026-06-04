@@ -1,0 +1,951 @@
+[{
+  "company_logo": "https://media.glassdoor.com/sql/41190/euroclear-squareLogo-1718194390895.png",
+  "company_name": "Euroclear Holding SA/NV",
+  "job_title": "Cyber Incident & Response Team",
+  "job_description": "Division\n\nCyber Defense Center (CDC) is part of the Chief Information Security Officer Office. The main responsibility of the team is to reduce the risk of Euroclear cyber threat surface by monitoring for malicious intent targeted at Euroclear’s services, its supporting assets, and people. We do this through the Security Operations Centre (SOC), Cyber Incident & Response Team (CIRT), Detection & Response Engineering Team (D&R Eng), and Cyber Threat Management (CTM) capabilities. This includes security incident and event monitoring, cyber analytics, incident management and forensic analysis, cyber threat intelligence, vulnerability management, penetration testing, brand, and digital footprint monitoring.\n\nThe CDC supports capabilities within the security domain and acts as subject matter expert across all divisions in the company as well as interacts with external stake holders, including customers, oversight bodies, threat intelligence providers, and third parties.\n\nCIRT establishes and executes the security incident response framework to ensure a consistent and effective approach to security incident management. Performs in-depth incident reviews, impact assessments, root-cause analysis and manage stakeholder engagement. Executes forensic analysis/investigations and supports Fraud and Personnel related incident investigations.\n\n\n\n\nRole\n\nIn your role as CIRT Analyst you support the incident response capabilities and forensic technologies, understand the impact of potential security incidents on complex corporate environments, support and assess incident remediation to a conclusion. You will also assist with reporting and stakeholder management activities.\n\nYour primary duties will be:\n\n * Independently handles investigations within framework of procedures.\n\n * Owns the incident and leads the resolution, even the most complex, critical and sensitive cases.\n\n * Identify any incident/request that requires increased focus and actions necessary to meet committed service levels.\n\n * Collaborate and work with Threat Intelligence and the SOC personnel to develop automated and integrated incident management processes.\n\n * Execute / manage the Cyber Security Incident Management process to ensure timely mitigation and escalate to appropriate incident resolver groups leaders. Execute third-tier incident handling including incident remediation in collaboration with the IT resolver team.\n\n * Execute / assist in the delivery of the organisation’s security incident management including coordination and communication with the wider security organisation, the business, IT and external stakeholders where required.\n\n * Validate and report deviation of incident response playbooks for various scenarios involving SOC and CIRT personnel.\n\n * Lead major cyber security incidents and provide support to the organization whenever cyber incidents occur. Independently handles investigations within framework of procedures.\n\n * Manage incident response and forensic technologies, understand potential security incident impact on complex corporate environments and the ability to assess and manage incidents to a conclusion.\n\n * Manage reporting and internal/external stakeholder management activities. Requires deep understanding of the business and infrastructure to enable choosing the most efficient and effective proposal to deal with an incident / threat.\n\n * Oversee root cause analysis for major cyber security incidents ensuring that the suitable problem management, issue management or risk management processes are followed as well as tracking issues through to resolution.\n\n * Forensics: technical expertise to gather and preserve digital evidence; investigative skills to think outside the box to build up a picture by combing through various sources of information; integrity to deal with sensitive and confidential matters.\n\n * Execute & Assist in forensic investigations into potential or confirmed incidents in alignment with company guidelines.\n\n * Ensure preservation of digital evidence throughout investigations; escalate exceptions to experienced team members.\n\n * Expert interface for legal cases related to Euroclear - how to build case from cyber perspective.\n\n * Engage in industry wide cyber exercises.\n\n * May provide evidence in court and act as representative in fraud forum.\n\n * Developing and implementing of supporting processes, exercising and acceptance of the framework and processes before it goes live.\n\n * Support engagement with Threat Intelligence and the CDC personnel to develop integrated incident management processes.\n\n * Develop and maintain close working relationships with centrally and locally-based device owners, business stakeholders, business/application/solution architecture, application, IT & operational teams.\n\nTechnical skills\n\n * Information Security related experience\n * 3+ years expertise in incident response\n * Good knowledge of at least of these Operating Systems: Windows, Unix/Linux\n * Good knowledge of networking (TCP/IP)\n * Good knowledge of forensic technique and process\n * Good knowledge of evidence collection, including chain of custody\n * Good knowledge of cloud evidence collection and forensics capabilities\n * Good knowledge of both live and offline acquisition techniques\n * Good knowledge of memory analysis\n * Knowledge of Python or PowerShell Scripting\n * Excellent English communication skills (written and oral)\n\nAssets\n\n * Certifications GIAC Certified Incident Handler (GCIH), Forensic Analyst (GCFA), Forensic Examiner (GCFE), GIAC Reverse Engineering Malware (GREM) or other equivalent technical certifications.\n * Knowledge of network traffic analysis and forensics\n * Knowledge of the following technologies: firewalls, IDS, proxy, WAF, Active Directory, EDR, antivirus, ...\n * Experience with vulnerability management & threat management, vulnerability scanning, Data Loss Prevention (tools and processes)\n * Knowledge of IDA or other decompilation tools\n * Knowledge of network traffic analysis and forensics\n * Knowledge of zOS, Tandem\n\nSoft skills\n\n * Good security mindset.\n * Able to work autonomously.\n * Sense of urgency and able to apply a risk-based approach to prioritize work.\n * A problem solver: you recognize underlying issues and problems; you analyze root causes and define solutions accordingly.\n * Eager to work with challenging and technical concepts; You are ready to dive into modern technologies and extend your own expertise.\n * Reporting and continuous improvement mindset.\n * You have good influencing/persuasion skills, obtaining approval of others with good arguments, appropriate influencing methods and a certain “natural authority” (persuasion);\n * You examine matters from a distance and put them in a broader context and time perspective (vision);\n * A team-focused mentality with ability to work & collaborate effectively in a team environment.\n * Good leadership and communication skills, whether on the field, in the team or with management: you are a keen team player and coordinate work amongst people from different areas or divisions. A good relationship builder with strong diplomacy skills.\n * Capability to ensure confidentiality and discretion in performing sensitive tasks.\n * At ease in a fast-changing environment, with a flexible and pragmatic mindset.\n * Accurate, acting with attention to details\n * Can express well-founded opinions and positions and understanding their consequences (judgement)\n * You examine matters from a distance and putting them in a broader context and time perspective (vision)\n * Good leadership and communication skills, whether on the field, in the team or with management: you are a keen team player and coordinate work amongst people from different areas or divisions. A good relationship builder with strong diplomacy skills\n * At ease in a fast changing environment, flexible and pragmatic, open-minded\n * Project Management appetite\n * Client focus and delivery oriented\n * Capability to ensure confidentiality and discretion in performing sensitive tasks\n * Reporting and continuous improvement mindset\n   \n   #LI-NS1",
+  "job_posted_date": "2025-09-11T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "België",
+    "city": "belgië",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae886fa485bc963f7925db&src=GD_JOB_AD&t=NS&vt=w&cs=1_2c42e6b5&cb=1759085758700&jobListingId=1009706676595",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Euroclear-EI_IE41190.11,20.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "Benefit is ongoing accordingly to local\nAnd European regulations",
+    "Not enough and a recent change has made it worse."
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Beleggen en vermogensbeheer",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Euroclear",
+  "company_headquarters_location": {
+    "city": "brussel",
+    "unknown": "Brussel, België"
+  },
+  "company_sizes_str": "5001 tot 10000 werknemers",
+  "company_size": null,
+  "company_website": "https://www.euroclear.com",
+  "company_revenue": "Onbekend/niet van toepassing",
+  "company_description": null,
+  "company_foundation_date": "1968-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/3803/capgemini-squareLogo-1688367853815.png",
+  "company_name": "CapGemini SE",
+  "job_title": "Threat Intelligence Analyst",
+  "job_description": "ABOUT THE ROLE :\n\nAs a Cyber Threat Intelligence Specialist at Capgemini, you will transform raw data into actionable insights that inform and strengthen our defenses. You’ll monitor and dissect adversary Tactics, Techniques, and Procedures (TTPs), track threat actor campaigns, and evaluate how geopolitical or industry events may shape cyber risks. Your intelligence deliverables—ranging from tactical alerts to strategic trend analyses—will guide SOC analysts, incident responders, and executive leadership alike.\n\n\nRESPONSIBILITIES :\n\n * Intelligence Collection & Analysis\n   * Gather and process cyber threat data from internal logs, open‑source feeds, commercial platforms, and partnerships.\n   * Use OSINT and threat‑intelligence platforms (e.g. MISP, OpenCTI, DomainTools) to enrich and correlate indicators of compromise.\n\n * TTP Monitoring & Reporting\n   * Identify and track evolving TTPs of cyber threat actors, from commodity malware gangs to advanced persistent threats (APTs).\n   * Analyze non‑cyber events (political, regulatory, industry) for potential impact on adversary behavior and organizational risk.\n\n * Actionable Intelligence Deliverables\n   * Produce and disseminate intelligence products at multiple levels:\n     * Tactical: IOCs, YARA rules, rapid alerts for SOC ingestion\n     * Operational: Campaign analyses, cluster reports, and threat actor profiles\n     * Strategic: Quarterly threat landscape briefs, risk assessments, and executive summaries\n\n * Threat Hunting & Collaboration\n   * Design and support hypothesis‑driven threat hunting campaigns, assisting with data gathering and pre‑processing for the hunt team.\n   * Liaise with SOC, incident response, and offensive teams to validate intelligence and refine detection logic.\n\n * Continuous Improvement\n   * Evaluate and recommend enhancements to our threat‑intelligence tooling, processes, and sharing frameworks.\n   * Mentor junior analysts and foster knowledge sharing across the security organization.\n\n\nREQUIRED SKILLS AND EXPERTISE :\n\n * Core Experience\n    * 3+ years in a threat intelligence, threat hunting, or related cybersecurity role.\n    * Proficient with threat‑intelligence platforms (OpenCTI, MISP) and OSINT tools (DomainTools, VirusTotal, etc.).\n    * Solid scripting skills (Python preferred) for data enrichment, indicator processing, and automation.\n    * Strong analytical mindset with the ability to distill complex technical findings into clear, concise reports.\n    * Excellent verbal and written communication skills for both technical teams and business stakeholders.\n\n * Technical Expertise\n    * Deep understanding of threat‑intelligence methodologies and frameworks (e.g., MITRE ATT&CK).\n    * Familiarity with cloud environments (AWS, Azure, GCP) and how cloud‑native threats differ from on‑premise.\n    * Experience in threat hunting fundamentals: hypothesis creation, data normalization, and query development.\n    * Knowledge of legal and ethical considerations in intelligence collection and sharing.\n\n * Fluent in English; based on the working environment, French / Dutch knowledge is a plus.",
+  "job_posted_date": "2025-09-23T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Diegem",
+    "city": "diegem",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae898cb5f70ab4bc0f6bb9&src=GD_JOB_AD&t=NS&vt=w&cs=1_7768e031&cb=1759085759022&jobListingId=1009820463689",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Capgemini-EI_IE3803.11,20.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "Paid healthcare for relatives, free healthcare for yourself"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Ondernemingssoftware en netwerkoplossingen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Capgemini",
+  "company_headquarters_location": {
+    "city": "parijs",
+    "unknown": "Parijs, Frankrijk"
+  },
+  "company_sizes_str": "10000+ werknemers",
+  "company_size": null,
+  "company_website": "https://www.capgemini.com",
+  "company_revenue": "Meer dan 10 miljard USD",
+  "company_description": null,
+  "company_foundation_date": "1967-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1313312/abakus-squarelogo-1606320516507.png",
+  "company_name": "AbAKUS PGmbH",
+  "job_title": "AISB-534 Incident Responder / SOC Analyst",
+  "job_description": "BRUSSELS, BELGIUM\n\n\n\nYour Role\n\nAs an Incident Responder / SOC Analyst, you will monitor the organisation’s security posture, manage incidents during cyber-attacks, and ensure the continuity of ICT systems. You will play a key role in analysing, responding to, and mitigating security incidents, restoring critical services rapidly and effectively.\n\nMain Responsibilities\n\n * Develop, maintain, and evaluate the Incident Response Plan.\n * Identify, analyse, mitigate, and communicate security incidents.\n * Assess technical vulnerabilities and propose corrective actions.\n * Measure the effectiveness of incident detection and response.\n * Document and report all actions taken during incidents.\n * Cooperate with SOCs, CSIRTs, and internal stakeholders (CISO, Legal, Compliance).\n * Implement and test incident handling procedures and simulations.\n\nProfile Required\n\n * At least 13 years of professional experience with a university degree in IT or a related field.\n * Solid expertise in all technical, functional, and operational aspects of cybersecurity incident handling.\n * Strong knowledge of operating systems, servers, cloud environments, languages, software, and emerging technologies.\n * Experience in network and systems forensics, malware analysis, and penetration testing.\n * Ability to work under pressure and communicate effectively.\n * Skilled in log management and analysis.\n\nPreferred Certifications\n\n * GIAC Certified Incident Handler (GCIH)\n * GIAC Certified Forensic Analyst (GCFA)\n * GIAC Network Forensic Analyst (GNFA)\n * GIAC Reverse Engineering Malware (GREM)\n\nWhy Apply?\n\nThis is a unique opportunity to put your expertise at the service of an international organisation, within a challenging and stimulating environment, based in the heart of Brussels.\n\n\n\n\n\n\n\n\nby ABAKUS IT-SOLUTIONS\n\nOpportunities are numerous. From bare applications development to of IT infrastructures management including conception, architecture and requirements analysis.\n\nAlthough open to technologies used by our customers, ABAKUS IT-SOLUTIONS seeks mainly but not only consultants mastering: Windows and Linux Servers, networks, developments (JAVA, SAP, .NET,…) as well as highly specialized experts for example in cybersecurity or in Content Management System (CMS) (SharePoint, Drupal, WebLogic…).\n\nIn terms of non-technical competencies, ABAKUS IT-SOLUTIONS hires dynamic persons, open to the world, interested by innovation and having a keen sense of client relationship.\n\nA very good command of English is essential, the capacity to speak French, German or Dutch is an asset.\n\nEven though most of our positions require at least 3 years of experience, some are open to new starters.\n\nABAKUS IT-SOLUTIONS works either in its premises or in our customer’s one, remote activities are sometime possible.\n",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Brussel",
+    "city": "brussel",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae8c3a882e30693c149779&src=GD_JOB_AD&t=NS&vt=w&cs=1_504c558f&cb=1759085759683&jobListingId=1009883381124",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-ABAKUS-IT-SOLUTIONS-EI_IE1313312.11,30.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-ondersteuning",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "ABAKUS IT-SOLUTIONS",
+  "company_headquarters_location": {
+    "city": "eupen",
+    "unknown": "Eupen, België"
+  },
+  "company_sizes_str": "51 tot 200 werknemers",
+  "company_size": null,
+  "company_website": "http://www.abakusitsolutions.eu",
+  "company_revenue": "5-25 miljoen USD",
+  "company_description": null,
+  "company_foundation_date": "1991-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/2045612/nviso-squarelogo-1584693790798.png",
+  "company_name": "NVISO",
+  "job_title": "Security Operations Engineering Consultant",
+  "job_description": "Who are we?\n\nIt all starts with the mission: NVISO is here to protect European society from potentially devastating cyber attacks! This means we offer cyber security services to private and governmental organizations to help them better prepare for, prevent, detect and respond to cyber security incidents.\n\nAll of this is built on four fundamental values that define who we are: We are Proud, We Break Barriers, We Care and No BS!\n\nTasks\n\nAs a Security Operations Engineering Consultant based in Belgium you will contribute to various SOC projects as a subject matter expert. You have a good knowledge of SOC engineering concepts such as log onboarding, detection engineering, SIEM and MDR technologies. As an expert you play an advisory role, you also take ownership of the design and implementation of a variety of solutions for customers across\ndifferent sectors.\nYou have strong communication and interpersonal skills, which enable you not only to understand requirements, but also to put these requirements into a development plan, explain it to customers and guarantee proper execution. You have an open and approachable mind, in line with NVISO's values.\n\nTypical tasks include but are not limited to:\n\n * Planning and managing the onboarding of new log sources, troubleshooting\n\nissues with log sources or systems with clients and vendors;\n\n * Creating technical and process playbooks;\n * Defining and setting up correlation rules, based on threat intelligence and\n\nspecific customer requirements;\n\n * Contributing to incident response procedures with your expert insights;\n * Ensuring you remain up to speed with latest trends and technologies in the\n\nSOC field.\n\nYou are passionate about cyber security, engineering and automation. Building\nsolutions and working with customers energizes you and you look forward to\ngrowing in all the aforementioned domains.\n\nRequirements\n\n\n * You are eligible for a NATO Clearance;\n * Expertise in Azure Sentinel and the Microsoft Security stack, and/or SIEM\n\ntechnologies such as Elastic, Splunk, LogPoint;\n\n * Experience in fine-tuning and setting up detection rules;\n * Practical experience with SIEM query languages, and/or Sigma and YARA\n\nrules;\n\n * Ideally, at least two years of experience as a SOC Analyst, enabling you to\n\ncontribute to the development of playbooks and incident response procedures;\n\nSoft Skills:\n\n * Ability to work independently, and keep track of your priorities;\n * Strong interpersonal and verbal/written communication skills that enable the\n\nability to work effectively in a collaborative team environment across the entire\ncompany;\n\n * Excellent English communication skills, both verbal and written; Dutch and/or\n\nFrench is a plus;\n\n * A positive, team-oriented, and mission-driven attitude;\n * Ability to prepare and present your work to colleagues.\n\nBenefits\n\nAt NVISO, we care. We are committed to offering you a highly competitive remuneration package including financial and non-financial components:\n\n\n * A training budget of 10.000€ and 10 days every 2 years\n * Working and learning from the best people in the European cyber security industry. We have multiple SANS Instructors working at NVISO, our staff has presented at popular hacking conferences (BlackHat, BruCON, OWASP, etc) and all of our technical staff can acquire deep technical security certifications (GSE, GXPN, GREM, GCFA, OSCP, etc)\n * An entrepreneurial and agile company, where you will be stimulated and supported in driving new initiatives (either through internal innovation or by improving our service offering), without losing sight of having fun!\n * Regular team-building and fun events with legendary off-site events once a year. The location of the next team building is one of the most closely guarded secrets at NVISO… We can however disclose that we’ve visited Lisbon, Dubai and Malta over the past few years\n * Our commitment to coach and counsel you and help you grow; each employee receives a personal coach within the team, whose role is to ensure your well-being and helps you grow in your career!\n * Flexible working hours and home office possibilities\n * Flex Reward Plan;\n * 32 holidays;\n * ....and much more ;-)\n\nIF YOU'RE INTERESTED, PLEASE SEND US YOUR APPLICATION!\n\nWE'RE LOOKING FORWARD TO MEETING YOU!",
+  "job_posted_date": "2025-09-23T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Brussel",
+    "city": "brussel",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae8cf6b5f612dc28901d23&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_b91d352c&cb=1759085759852&jobListingId=1009105197306",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-NVISO-EI_IE2045612.11,16.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-ondersteuning",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "NVISO",
+  "company_headquarters_location": {
+    "city": "brussel",
+    "unknown": "Brussel, België"
+  },
+  "company_sizes_str": "201 tot 500 werknemers",
+  "company_size": null,
+  "company_website": "https://www.nviso.eu",
+  "company_revenue": "Onbekend/niet van toepassing",
+  "company_description": null,
+  "company_foundation_date": "2013-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/9028/gfi-world-squarelogo-1603113067960.png",
+  "company_name": "GFI Informatique SA",
+  "job_title": "Security Consultant Microsoft",
+  "job_description": "Mission\n\nWe are looking for an experienced Microsoft Security Consultant to join our team. In this role, you will help our clients strengthen their security posture by implementing, configuring, and optimizing the Microsoft Security XDR stack and Microsoft Sentinel. Your expertise will directly contribute to improving threat detection, response, and overall resilience.\n\nYour responsibilities\n\nAs a Microsoft Security Consultant, you will:\n\n * Implement, configure, and manage Microsoft Defender XDR solutions (Endpoint, Identity, Email, Cloud Apps).\n * Deploy and fine-tune Microsoft Sentinel for security monitoring, incident detection, and automated response.\n * Develop and optimize detection rules, playbooks, and dashboards in Sentinel.\n * Perform threat analyses, security assessments, and support incident investigations.\n * Advise clients on best practices in Microsoft Security, focusing on proactive defense and efficient SOC operations.\n * Deliver clear technical documentation and provide training sessions for end users and administrators.\n\nProfile\n\n * At least 2 years of experience in security consulting or SOC-related roles.\n * Proven knowledge and hands-on experience with Microsoft Defender XDR and Microsoft Sentinel.\n * Relevant Microsoft certifications (e.g., SC-200: Microsoft Security Operations Analyst, SC-300, or equivalent) are a strong plus.\n * Strong analytical and problem-solving skills, with the ability to translate technical insights into practical solutions.\n * Excellent communication skills in both Dutch and English.\n * A proactive mindset, eager to improve processes and contribute to innovative security approaches.\n\nDiscover Your Future with Inetum Belgium\n\n * Make a Difference with a Meaningful Career: step into a role where your work truly matters. At Inetum Belgium, you’ll have the chance to impact lives and drive meaningful change every day.\n * Grow and Evolve Professionally: embrace a culture of continuous learning and development. We offer a range of training opportunities designed to help you expand your skills and advance your career.\n * Unlock Relevant Career Opportunities: pursue the career path you’ve always dreamed of with tailored opportunities and the IT expertise you need to succeed.\n * Achieve Work-Life Balance: we value your well-being. Enjoy flexible working hours, the convenience of satellite offices, the comfort of home working, and an informal, no-nonsense environment.\n * Enjoy Generous Annual Leave: life is more than just work. Take advantage of 32 days of annual leave to relax and recharge.\n * Travel in Comfort: forget the hassle of commuting. We provide a company car and a national fuel/charging card to keep you on the move. Prefer a different option? You can choose a mobility allowance instead.\n * Comprehensive Insurance Coverage: your health and security are our priorities. Benefit from group insurance and hospitalization insurance that show we care.\n * Attractive Compensation Package: we offer a competitive gross salary to recognize and appreciate your hard work.\n\n\n\n\nOrganization\n\nInetum is a European leader in digital services. Every day, the Group's 28,000 consultants and specialists aim to make a digital impact for businesses, public sector bodies and society as a whole: solutions that contribute to performance, innovation and the common good.\nPresent in 19 countries, close to the regions, and with its major software publisher partners, Inetum meets the challenges of digital transformation with proximity and flexibility.\nDriven by its ambition to grow and industrialize, Inetum generated sales of €2.5 billion in 2023.\n\nIn response to a market that has been growing steadily for over 30 years, Inetum has made the deliberate choice to refocus on 4 core businesses in order to gain strength and offer customized solutions tailored to the specific needs of its customers: consulting (Inetum Consulting), infrastructure and application management (Inetum Technologies), software implementation (Inetum Solutions) and its own software publishing business (Inetum Software). Inetum has forged strategic partnerships with 4 of the world's leading software publishers - Salesforce, ServiceNow, Microsoft and SAP - and is pursuing a dedicated acquisition strategy to become one of Europe's top 5 in these technologies, and offer the best expertise to its customers.\n\nAt Inetum Belgium, we offer more than just a job; we provide an inspiring environment and opportunities for growth and development. We strive to create a workplace where you can harness your talents, contribute to challenging projects, and be part of a leading IT consultancy group.\n\n\nCountry\n\nBelgium\n\nLocation\n\nBelgium\n\nContract type\n\nOpen-ended contract\n\nApply",
+  "job_posted_date": "2025-09-26T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "België",
+    "city": "belgië",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae8ec09559fc8651acb066&src=GD_JOB_AD&t=NS&vt=w&cs=1_6b4fb40b&cb=1759085760316&jobListingId=1009259101471",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Inetum-EI_IE9028.11,17.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "Niet zo hoog in vergelijk met mijn vorige werkgever"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-ondersteuning",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Inetum",
+  "company_headquarters_location": {
+    "city": "saint-ouen",
+    "unknown": "Saint-Ouen, Frankrijk"
+  },
+  "company_sizes_str": "10000+ werknemers",
+  "company_size": null,
+  "company_website": "http://www.inetum.com",
+  "company_revenue": "$1 tot $5 miljard (USD)",
+  "company_description": null,
+  "company_foundation_date": "1970-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/2879355/aarixa-squarelogo-1569841723719.png",
+  "company_name": "aariXa ",
+  "job_title": "Security Analist",
+  "job_description": "/ SECURITY ANALIST\n\nWil je je professionele en persoonlijke horizon verbreden en gechallenged worden in een leuke en creatieve omgeving? Wens je een echt lid te zijn van onze familie van Aarixianen in plaats van als nummer behandeld te worden? Lees dan verder!\n\n\nWAT DOE JE:\n\n * Als security Analist kan je op een pragmatische en projectmatige manier beveiligingstrends en risico’s mee vertalen naar actiegerichte wijzigingen die je ook zelf of samen met collega’s van andere teams gaat uitvoeren;\n * Je implementeert tools en onderhoudt ze op continue wijze. Je voert regelmatig controles uit die de infrastructuur, netwerken en gebruikersacties monitoren op mogelijke risico’s;\n * De nodige policies op vlak van gebruikersaccounts, paswoord kluizen, geautoriseerde software, toegangscontrole op systemen door externe partijen, … worden door jou geïmplementeerd en je volgt de correcte toepassing van deze policies nauwkeurig op;\n * Je staat in voor het uitvoeren van regelmatige phishing testen en het trainen van gebruikers op vlak van het omgaan met cybersecurity gevaren. Je identificeert tekorten en werkt mee aan een plan om de algemene cultuur van cyberveiligheid te verhogen;\n * Controles op processen die impact hebben op security (zoals IAM, Risk & Change management) voer je uit en je helpt deze continu te verbeteren;\n * Je helpt risico’s uit verschillende IT-projecten opvolgen, mitigeren en reduceren;\n * In geval van security incidenten spring je bij op analytisch vlak. Je gaat mee op zoek naar root causes met als doel om deze vervolgens via wijzigingen te remediëren;\n * In nauw contact met de externe SOC sta je mee in voor de continue monitoring van het systeem & netwerk en het reageren op security events;\n * Je zorgt mee voor dashboards & rapporten om zo continue alertheid te creëren in de verschillende IT-teams:\n * Je helpt bij het opstellen van checklists op vlak van duurzaamheid en security, in de brede zin van het woord, die gebruikt kunnen worden bij het selecteren van nieuwe oplossingen (compliance, GDPR, data ownership, …) Je voert deze checks uit bij aanvragen rond nieuwe systemen;\n * Essentiële kennis draag je over naar de andere IT-teams (development, service desk, system engineers, …) en je zorgt er op die manier voor dat cybersecurity in elk van die teams verankerd geraakt.\n\n\nJOUW TALENT:\n\n\n\n\n * Je beschikt minstens over een bachelor informatica of je bent gelijkwaardig door ervaring;\n * Je volgde een opleiding en/of hebt professionele ervaring op vlak van Cyber Security, zowel voor on-premise systemen als op vlak van Cloud;\n * Door het volgen van infosessies en opleidingen blijft je kennis up-to-date. Je bent ook bereid om hier na de kantooruren in te investeren;\n * Je draagt werkethiek en discretie hoog in het vaandel en begrijpt dat je een kritische functie bekleedt;\n * Experimenteren met nieuwe security-applicaties en -technologieën doe je graag en bent niet bang om er zelf in de diepte in te duiken om goed te begrijpen wat de mogelijkheden ervan zijn;\n * Technische mogelijkheden uit onderzoek kan je vertalen bedrijfsoplossingen in een taal die ook door niet-experts begrepen kan worden;\n * Je bent creatief en gepassioneerd, brengt vernieuwende ideeën aan en breidt graag je kennis uit met nieuwe inzichten;\n * Je wordt gedreven door data en de inzichten die metrics kunnen bieden;\n * Je hebt een zeer open blik naar de buitenwereld, bent van nature nieuwsgierig en volgt securitytrends op;\n * Je werkt zelfstandig en onderneemt de nodige stappen om resultaten te boeken;\n * Tegelijkertijd begrijp je dat je je peers en de business nodig hebt om samen het juiste pad te bewandelen. Je hebt een “can do” mentaliteit;\n * Je bent flexibel en stressbestendig.\n\n\n\n\n\nAANBOD:\n\nJe krijgt van ons een voltijds contract van onbepaalde duur aangeboden, inclusief een loonpakket dat op maat voor jou wordt gemaakt. Denk aan: maaltijdcheques, hospitalisatieverzekering, laptop, GSM, elektrische bedrijfswagen mét laadkaart, laadpaal bij jou thuis, …\n\nWil jij net als ons blijven groeien en je kennis verruimen? TOP! Wij voorzien namelijk een opleidingsbudget met ondersteuning voor jouw persoonlijke carrière pad. En daarnaast organiseren wij 4 x per jaar een academie waaraan je gratis kan deelnemen.\n\nNaast al dat harde werken hechten wij ook veel belang aan de FUN-factor! Op regelmatige basis vinden er toffe after work activiteiten plaats voor alle Aarixianen.\n\n\n\n\n\n/ WAAROM KIEZEN VOOR AARIXA?\n\n\n\n/ FLEX PLAN\n\nOp maat samengesteld volgens jouw wensen\n\n\n\n/ GROENE WAGEN\n\nJij kiest het merk\n\n\n\n/ BOEIENDE PROJECTEN\n\nOmdat het ook plezant en uitdagend moet blijven\n\n\n\n/ PERSOONLIJK GROEIPLAN\n\nWe helpen jou in je professionele groei\n\n\n\n/ OPLEIDINGSBUDGET\n\nOmdat leren een recht is\n\n\n\n/ FLEXIBELE WERKLOCATIE\n\nThuis, op kantoor, aan zee, maakt niet uit\n\n\n\n/ GLIJDENDE WERKUREN\n\n9 to 5 is niet meer van deze tijd\n\n\n\n/ TOFFE TEAMACTIVITEITEN:\n\nEr is meer dan werken in het leven\n\n\n\n/ DIRECTE BETROKKENHEID\n\nGeen meneer of madam, maar gewoon Erwin.\n\n\n\n/ OPEN COMMUNICATIE\n\nZeggen wat op je lever ligt, dat doen wij ook\n\n\n\n/ CERTIFICERINGEN\n\nNiet verplicht, wel mooi op je CV\n\n\n\n/ CORPORATE BENEFITS PLAN\n\nGeniet van straffe kortingen\n\n\n\n\n\n/ INTERESSE?\n\nWil je meer weten over deze vacature? Neem dan gerust contact op.\n\n+32 13 55 01 80\n\njobs@aarixa.be Solliciteer nu",
+  "job_posted_date": "2025-09-13T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Brussel",
+    "city": "brussel",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae8eba9de290bc6cefbc9f&src=GD_JOB_AD&t=NS&vt=w&cs=1_e8f0cd90&cb=1759085760340&jobListingId=1009596913062",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-aariXa-EI_IE2879355.11,17.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-ondersteuning",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "aariXa",
+  "company_headquarters_location": {
+    "city": "herk-de-stad",
+    "unknown": "Herk-de-Stad, België"
+  },
+  "company_sizes_str": "1 tot 50 werknemers",
+  "company_size": null,
+  "company_website": "www.aarixa.be",
+  "company_revenue": "Onbekend/niet van toepassing",
+  "company_description": null,
+  "company_foundation_date": "2005-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "Belgian Mobile ID SA/NV ",
+  "job_title": "SOC Analyst",
+  "job_description": "itsme® has fundamentally changed how people lead their digital lives in Belgium, but we are not stopping there! Do you want to be a driving force to help expand on this success story as part of a talented team that is making a positive impact on society? Then keep on reading, you’ll probably like what you’ll see.\n\n\n\nWe are itsme®, one of Europe’s fastest-growing scale-ups, counting 85 team members and growing. Our mission: providing a state-of-the-art digital identity solution to all people, enabling them to interact securely in the digital space. Now, only seven years after being founded, 7 million citizens use the itsme® app to identify themselves and sign documents online. Starting in Belgium, we successfully launched the itsme® app in 17 European countries, with the ambition to become an internationally leading player.\n\n\n\nitsme®, faces continuous threats from malicious actors seeking unauthorized access to sensitive information.\nThe company's commitment to security is not only a regulatory necessity but also an integral part of delivering a reliable and secure digital identity solution to their users, due to the sensitive nature of a significant portion of their data and services.\n\n\n\nThe SOC Analyst plays a pivotal role in proactively identifying and mitigating these threats through continuous monitoring, incident response, informing stakeholders and intelligence sharing. The SOC Analyst will actively handle emerging threats, minimize security attacks, prevent leaks and develop robust strategies to counter emerging cyber threats. The imperative is to insource Security Operations for the critical parts of the solution to reduce reliance on external partners to enhance security and safety, making growth crucial in achieving these objectives.\n\n\n\nWHAT YOUR JOB LOOKS LIKE\n\nThe primary focus of the SOC Analyst includes four key priorities:\n\n\n\n * Blue Teaming – Triage Queue:\n   \n   * The analyst will actively engage in blue teaming activities, particularly in managing and prioritizing the triage queue. This involves the assessment and categorization of security incidents for effective response.\n\n * Threat Hunting:\n   \n   * Conducting proactive threat-hunting activities to identify potential security threats and vulnerabilities before they manifest into incidents. This involves exploring systems and networks to detect hidden threats.\n\n * Detection and Monitoring of Current Systems:\n   \n   * The SOC Analyst will play a crucial role in the ongoing detection and monitoring of existing systems. This includes continuous surveillance to identify and respond to any suspicious or malicious activities in real-time and define new use cases for monitoring and detection.\n\n * Threat Intelligence Processing:\n   \n   * The analyst will leverage threat intelligence to enrich investigations, enhance detections, and proactively defend against emerging threats. This involves analyzing threat intel feeds, integrating IOCs into monitoring systems, correlating intel with internal telemetry, and contributing to the creation of actionable insights for the broader security team.\n\n * \n   A bachelor’s degree or equivalent experience\n\n * At least 3 years of relevant hands-on experience\n\n * Ideally, the candidate should have a background in blue teaming, bringing prior experience and expertise in defensive cybersecurity operations.\n\n * Familiarity with log analysis, basic threat detection, and vulnerability scanning\n\n * Experience with tools such as SIEM, SOAR, IDS/IPS, antivirus or EDR solutions\n\n * In-depth understanding of security frameworks (e.g., NIST, MITRE ATT&CK).\n\n * Essential to the role is previous experience with scripting. While proficiency in a specific scripting language like bash or python is crucial, the exact language is not a determining factor.\n\n * Minimal GSEC, GCIH or other industry equivalent certifications. Others like GPEN, GCLD, GPCS, GWEB or GCIA certifications are a plus\n\n * You are fluent in English and full proficient in Dutch or French.\n\n\n\n\nWHAT WE OFFER\n\n * A unique opportunity to gain valuable experience and exposure in a fast-moving and high-growth environment\n\n * The chance to develop and grow, while having an immediate business impact\n\n * Offices in Brussels and flexibility in terms of remote working\n\n * An attractive compensation package.\n\n * An environment where we care a lot about our core values:\n   \n   * Integrity: being fair, honest & transparent so that we can be trusted\n   \n   * Inclusiveness: being an open environment in which all team members’ opinions are taken into account\n   \n   * Innovation: building future-proof solutions by finding new ideas and methods to solve problems",
+  "job_posted_date": "2025-09-03T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Brussel",
+    "city": "brussel",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae9118a93c693d0d5c558b&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_2c63a2fc&cb=1759085760954&jobListingId=1009766152772",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-itsme-Belgium-EI_IE8381381.11,24.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "itsme (Belgium)",
+  "company_headquarters_location": {
+    "city": "brussel",
+    "unknown": "Brussel, België"
+  },
+  "company_sizes_str": "51 tot 200 werknemers",
+  "company_size": null,
+  "company_website": "www.itsme-id.com",
+  "company_revenue": "Onbekend/niet van toepassing",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1143663/easi-squareLogo-1635426526973.png",
+  "company_name": "EASI SA",
+  "job_title": "Overview Dutch Internships 2025-2026",
+  "job_description": "DESCRIPTION\n\nTo strengthen our teams, Easi is looking for interns who want to work in a fast growing company.\n\nAn internship at Easi is an opportunity to experience a progressive company, where employee well-being is a priority. We already have some ideas for projects for you, but feel free to come up with your own, we are open to anything :-)\n\nYou will be treated like a real employee and at Easi we take a long term view of our people ... So if you are passionate about the job and you turn out to be a good match, you will get a permanent contract with us!\n\nYou will have the opportunity to be trained, evolve in dynamic teams and discover professional life within the #1 Great Place to Work in Belgium.\n\n\nINTERNSHIP POSSIBILITIES\n\nOur Dutch teams are looking for several positions such as:\n\n * Software Developer & Analyst (Leuven/Genk)\n * Salesforce Explorer (Leuven/Gent)\n * Business Consultant - Finance Solutions (Leuven)\n * Junior System Engineer Microsoft 365 (Leuven)\n * AI Analyst & Developer in Microsoft 365 (Leuven/Gent)\n * Technical Engineer IBM Power (Leuven/Nijvel)\n * SOC Analyst & Developer (Gent/Leuven/Nijvel)\n * Data Developer (Leuven/Gent)\n * IT Support & Customer Experience Engineer (Ronse)\n * Business Consultant - CRM (Leuven/Gent)\n * Junior Software Developer - PowerUp (Leuven/Genk)\n * Junior Software Developer - AppHealthMonitor (Leuven/Genk)\n\nWe offer you a full time internship of minimum 2 months that will give you a real working experience in the IT world. This can be several months in a row or spread over 2 quarters.\n\nAre you in the process of obtaining a bachelor or a master degree and are you interested in this adventure? Do not hesitate and apply now :-)\n\n\nHOW TO APPLY?\n\nSend us your CV and cover letter, specifying exactly what kind of internship you would like to do (field of study, duration, in which period of the year, etc.).\n\nWe will call you as soon as possible!",
+  "job_posted_date": "2025-09-04T00:00:00",
+  "job_job_types": [
+    "FULL_TIME",
+    "INTERNSHIP"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Leuven",
+    "city": "leuven",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae91cd91960e83b26b4688&src=GD_JOB_AD&t=NS&vt=w&cs=1_bfea1906&cb=1759085761135&jobListingId=1009767641604",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Easi-EI_IE1143663.11,15.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Ondernemingssoftware en netwerkoplossingen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Easi",
+  "company_headquarters_location": {
+    "city": "nivelles",
+    "unknown": "Nivelles, België"
+  },
+  "company_sizes_str": "501 tot 1000 werknemers",
+  "company_size": null,
+  "company_website": "https://www.easi.net",
+  "company_revenue": "25-100 miljoen USD",
+  "company_description": null,
+  "company_foundation_date": "1999-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/2763/deloitte-squareLogo-1674210308592.png",
+  "company_name": "Deloitte ",
+  "job_title": "Security Operations (level 2/3)",
+  "job_description": "GENERAL INFORMATION\n\n\nCompany\nDeloitte\nBusiness Unit\nTechnology & Transformation\nPrimary Location\nZaventem\nField of interest\nTechnology\nIndustry Focus\nIndustry Agnostic\nRecruiter\nGovaerts, Julie - jugovaerts@deloitte.com\n\n\n\n\nDESCRIPTION OF THE POSITION\n\n\nCan’t wait to make an impact on the world? You’re not alone. Join us in driving progress in the working world and beyond.\n\n\n\nYour journey with us\n\nCyber threats continue to evolve, challenging organisations to stay ahead of attackers while maintaining resilience. Our Cyber Security team helps businesses defend their critical assets, safeguard digital identities, secure enterprise environments, and protect against emerging cyber threats to ensure operational resilience and business efficiency. You can take on many different roles within our team.\n\nAs a Cyber Defense Analyst, you will be at the forefront of protecting organisations against cyber threats. You’ll help detect and respond to attacks, perform threat hunting exercises, and enhance security operations. You’ll focus on:\n * Security Operations – Operating and improving threat detection and incident response capabilities using advanced threat intelligence, automation, and AI-driven security analytics.\n * Collaborate on purple teaming to validate and improve the detection capabilities of your clients.\n * In-depth security advise – Providing hands-on, pragmatic technical security advice to actually improve the security posture of your client (e.g. vulnerability management, device security, etc.).\n\nLet’s Talk About You\n\n * You are passionate about cyber risk in high profile environments\n * You are capable of developing an effective cyber strategy and combat cyber threat actors and techniques\n * You look forward to working on bridging the gap between business and operational IT Security teams, by translating cyber threats into understandable business risks\n * You display a strong interest in technical and organizational aspects of cyber security, including understanding business contexts, identifying relevant cyber threats and assessing the maturity of cyber capabilities\n * You have an analytical mindset, can work autonomously, can handle multiple projects simultaneously and the pressure of deadlines. You are focused on achieving and exceeding client expectations\n * You have fluent language skills (English and Dutch) and you are a real team player\n * You have an interest in working in an international environment serving globally operating clients\n * 2 to 5 years of experience in Cyber\n * Experience in working in a Security Operations Center (SOC), ideally at Level 1 or Level 2\n * Your approach is client- and result-oriented\n * Expertise in SIEM, EDR, NDR and/or XDR technology\n * Consulting experience, previous experience with organizational strategy and/or information security is a plus\n\nOur story\nEverybody’s talking about it. Every organisation in every sector is concerned by it. At Deloitte, we’re shaping strategies and transforming technology to minimise Cyber Risk for organisations, and we need you to join us. You’ll build strong relationships within the Belgian Cyber practice with over 100 highly talented individuals. Our team brings together people who graduated in everything from Law, Maths, Computer Science, Cyber Security and Information Management within one team. You will help clients prevent cyber attacks and advise them on how to protect their most valuable assets\n\nCyber Defense & Resilience is part of the Cyber team.\n\nWho is Deloitte?\nWe provide industry-leading audit and assurance, tax and legal, consulting and related services. We are committed to driving innovation across offerings to help our clients address their challenges, while giving our professionals opportunities to learn and grow in this era of transformation.\nIn Belgium, +5000 dedicated professionals active in +10 offices, take great pride in bringing multidisciplinary expertise to a wide variety of clients, from national and international companies, small, fast-growing and large organizations to public institutions and governmental authorities.\n\nWhy Deloitte?\nBe the true you! We foster diversity and inclusion and encourage you to bring your authentic self to work. Explore, question and collaborate while building a career that inspires and energises you.\nNever stop growing!Diversity of thought makes us stronger. At Deloitte, we tailor a personalized learning experience, offering you the opportunity to grow at your own pace and achieve maximum impact.\nWe practice what we preach! As a Purpose-led organisation, at the heart of everything we do is a set of timeless principles and unifying values.\n\n\n\nLife looks different for each of us, so we created a varied benefits package that you can tap into:\n * My Benefits My Choice, a flexible rewards plan tailored to your lifestyle and priorities\n * Sustainable transport options offered by Mobility@Deloitte\n * Flexible work arrangements for all and initiatives supported by Parents@Deloitte\n * Wellbeing tips and activities powered by Energise@Deloitte\n * Topped off with other health benefits and insurance opportunities\n\n\nEmpowering our employees with flexible work arrangements remains essential in today's reality:\n * Hybrid workplace: combination of home office and on-site (+10 offices in Belgium or client's premises).\n * Part-time employment: all our jobs are open to part-time work under a 90% or 80% regime.\n\n\nJoin us to make an impact together! Apply now!",
+  "job_posted_date": "2025-08-31T00:00:00",
+  "job_job_types": [
+    "PART_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Zaventem",
+    "city": "zaventem",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae945b8f1db92a5311f4be&src=GD_JOB_AD&t=NS&vt=w&cs=1_5b7d8c83&cb=1759085761787&jobListingId=1009691407145",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Deloitte-EI_IE2763.11,19.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "fair enough, market standards in belgium",
+    "Average insurance packages via Deloitte",
+    "Er zijn heel veel trainingen aangeboden voor de ontwikkeling van soft skills"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Business consulting",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Deloitte",
+  "company_headquarters_location": {
+    "city": "new york",
+    "unknown": "New York, Verenigde Staten"
+  },
+  "company_sizes_str": "10000+ werknemers",
+  "company_size": null,
+  "company_website": "https://www.deloitte.com",
+  "company_revenue": "25-100 miljoen USD",
+  "company_description": null,
+  "company_foundation_date": "1850-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "CERT-EU",
+  "job_title": "24x7 Secure operations centre analyst",
+  "job_description": "External Staff\n\nA A A A\n\nFORCE\n\n\nWHAT WE PROPOSE\n\nOur Secure Operations Centre (SOC) Team has the responsibility for monitoring available information sources for indications of compromise of the Union entities - our constituents. Analysts in the team triage the incoming information, and - if necessary - investigate incidents before passing them to the DFIR team if needed.\n\nWe are currently looking for 24x7 SOC Analysts to join the team and support round-the-clock security monitoring and incident response. This role involves working in shifts to ensure continuous coverage and rapid response to potential threats. Candidates will be employed as external contractors, meaning they will work as external service providers rather than direct employees of CERT-EU.\n\n * Work with other SOC experts all closely cooperating as a team, coordinated by the SOC Team Leader, who reports to the Head of Sector\n * Monitor security alerts and triage them\n * Seek to improve the detection rules and processes aiming at increasing the efficiency and performance of the team\n * Develop their skills as well as learn new ones through a comprehensive training programme involving both internal and external trainings.\n\nIf you have experience in security operations and are ready to contribute to a 24x7 security monitoring team, we’d love to hear from you!\n\n\nWHO WE LOOK FOR\n\nThe selected candidate should have experience in IT security and must possess knowledge in the following areas:\n\n * Experience with Splunk, MS Defender for Endpoints, MS Defender 365, MS Sentinel\n * Some experience in vulnerability assessments and penetration testing\n * Knowledge of Windows, Linux, and macOS operating systems\n * Log management and analysis tools\n * Tools for packet capture and analysis such as Wireshark or tcpdump\n * Web security including understanding of the underlying protocols\n * Scripting experience, particularly using JavaScript, Python, and PowerShell\n * Using and configuring sandboxes\n * Cyber-threat intelligence sharing, using MISP in particular\n * Use of incident management tools.\n\nThe selected candidate should also demonstrate the following skills:\n\n * A high level of customer orientation\n * Strong analytical and problem solving skills, including the ability to deal with a large amount of information in a limited time\n * Ability to establish and maintain effective working relations with coworkers in an international and multi-disciplinary work environment\n * A high degree of commitment and flexibility\n * Excellent communication skills in English, both orally and in writing\n * A focus on constant learning and improvement of technical and personal skills\n * Experience with a vast array of IT technologies and the ability to quickly master new ones.\n\nThe candidate must be a national of one of the Member States of the European Union and hold a security clearance at EU SECRET level or be in a position to be security cleared.\n\n\nWHAT WE OFFER\n\n * A friendly and multicultural workplace\n * A stimulating and unique environment where personal development, growth and initiative are encouraged\n * Working with a supportive and dynamic team with a deep sense of mission\n\nPlease note that the position is based in Brussels, Belgium. However, partly remote work might be possible, with some obligations to come to the office when necessary.\n\n\nIF SO, THEN APPLY!\n\n * Send an email to secretariat@cert.europa.eu with your CV (and a motivation letter if possible). Please provide the title of the position you are applying for in the subject of your email.\n * If your skill-set matches the requirements, we will contact you for an informal interview to introduce you to CERT-EU, get to know you better and answer questions you might have\n * If the informal interview goes well, we will then invite you for a formal interview in view of a possible recruitment.",
+  "job_posted_date": "2025-09-07T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Brussel",
+    "city": "brussel",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae96a99dfc721637a6286f&src=GD_JOB_AD&t=NS&vt=w&cs=1_6cbd961e&cb=1759085762353&jobListingId=1009735164070",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-CERT-EU-EI_IE8820542.11,18.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "CERT-EU",
+  "company_headquarters_location": {
+    "city": "brussel",
+    "unknown": "Brussel, België"
+  },
+  "company_sizes_str": "Onbekend",
+  "company_size": null,
+  "company_website": "www.cert.europa.eu",
+  "company_revenue": "Onbekend/niet van toepassing",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/9812203/approach-cyber-squarelogo-1720007199821.png",
+  "company_name": "Approach Cyber",
+  "job_title": "Business Manager",
+  "job_description": "CONTRACT TYPE\n\n\nEMPLOYEE\n\n\nDOMAIN OF EXPERIENCE\n\n\nLOCATION\n\n\nBELGIUM\n\n\nCONTEXT OF THE ROLE\n\nIn pursuit of our ambition to remain a key player in the Belgian cybersecurity landscape, we are looking to strengthen our commercial impact and expand our consulting business.\nTo achieve this, we are seeking a Business Manager who can act as the vital link between the diverse needs of our clients and prospects, and the wide range of expertise available within our growing cyber talent community.\nYou will build your own team of consultants and Business Unit, managing it as a standalone entity within Approach Cyber. As an Account Manager, you’ll work closely with our Sales team too.\n\n\nARE YOU THE LEADER WE ARE LOOKING FOR?\n\nWe are seeking a key leader to play a central role in developing and structuring your own team. You will directly influence the growth of Approach Cyber, with the opportunity to take on strategic responsibilities and help shape our presence in the market.\nAs Business Manager, you will be responsible for promoting and deploying Approach’s cybersecurity services and solutions, with a particular focus on growing our consultancy business.\n\nYour mission will be threefold:\n\n * Develop and manage a portfolio of clients (large corporates, SMEs, and public institutions) seeking cybersecurity expertise.\n * Identify, recruit, and place cybersecurity specialists (CISO, DPO, SOC Analysts, Penetration Testers, Cybersecurity Specialists, Cloud Security Experts, etc.), while building a strong talent network.\n * Develop your own Business Unit within the group and ensure its profitability by managing its P&L (budget responsibility: revenue and cost).\n\n\n\n\n\nYOUR RESPONSIBILITIES\n\nBUSINESS DEVELOPMENT\n\n * You have a true business developer mindset: identifying, approaching, and convincing new clients will be at the heart of your role.\n * You build trust-based relationships and guide your prospects towards long-term collaboration.\n * You actively contribute to tenders and craft tailored commercial proposals with the support of our presales engineers.\n * You will have all the necessary resources to accelerate the growth of your Business Unit, leveraging our existing references and ISO 27001/27701 certifications, which reinforce our market credibility.\n * You will also benefit from a strategic position within an influential ecosystem (Cyber Security Coalition, Agoria “Cyber Made in Belgium”, etc.), as well as effective tools (CRM, website, LinkedIn) proven to support success.\n\nCLIENT PROJECT MANAGEMENT\n\n * You ensure proper resource allocation to guarantee successful project delivery.\n * You monitor projects closely and maintain clear communication with clients to ensure their satisfaction.\n\nRECRUITMENT & PEOPLE MANAGEMENT\n\n * You build a strong community of consultants ready to be deployed on client projects, engaging and supporting them with the help of internal teams.\n * You actively participate in talent acquisition to strengthen your team, adopting a hands-on approach to recruitment (headhunting, interviewing, contract negotiation, etc.). For this, you’ll work closely and be advised on our processes and tools by our recruiter.\n * You foster a positive dynamic within your team, encouraging collaboration and excellence.\n\nSTEERING AND STRATEGY\n\n * You define and implement a commercial strategy and development plan aligned with Approach Cyber’s objectives. We expect our Business Manager to gradually take on greater responsibilities by directly contributing to our growth.\n * As owner of your P&L, you ensure project profitability and help optimise revenue.\n * You work on client retention and build long-term, strategic partnerships.\n\n\nPROFILE\n\n * You have a proven experience in business development and opening new accounts in the IT market.\n * You also have a proven experience in placing IT consultants (freelancers and employees) of various profiles and seniority levels, either in a consultancy or recruitment firm.\n * You already had the opportunity to build your own candidates’ and clients’ network which could be activated on new cybersecurity projects.\n * You are able to identify and open right opportunity sourcing channels (procurement/business) and you are used to build strong contacts with Purchasing and Procurement teams at client.\n * You are interested in and able to understand cybersecurity challenges.\n * You can speak these three languages fluently: French / Dutch / English, enabling you to engage with stakeholders in Flanders, Wallonia, and Brussels.\n\nSOFT SKILLS\n\n * Drive and autonomy: you are a self-starter, advancing with energy and determination. Your ability to create and maintain relationships with both candidates and clients will be essential in representing the DNA of Approach Cyber, as you carve your own path.\n * Rigour and results orientation: you strive for excellence. You embody Approach Cyber’s “Top Notch” value, consistently going the extra mile to deliver outstanding service to clients and colleagues.\n * Strong interpersonal skills and ability to unite: you have a natural talent for building connections. You ensure that every interaction generates opportunities for both parties. People look to you for your capacity to bring others together and find consensus.\n * Entrepreneurial mindset, passion for challenges and growth: as a Business Manager, you are motivated by commercial success and business generation. You enjoy creating and being part of the wave of people who shape a market and contribute to writing the story of Approach Cyber.\n\n\nOUR OFFER\n\n * Join a dynamic and fast-growing company in a booming sector\n * Participate in the development of the company as an internal entrepreneur in your own team\n * Develop your career path in a diversified function combining commercial development, people management and strategical impact.\n * Enjoy a company that put a priority to learning opportunities and continuous trainings.\n * Benefit from an attractive salary package, including a full range of benefits :\n   * A CDI contract\n   * A mobility budget according to your function level\n   * A competitive group insurance including pension fund, death, and disability coverage,\n   * An attractive complementary insurance for non-work-related accident and loss of salary in case of sickness, company fully supported contribution\n   * 32 days holiday/year (on a fulltime equivalent basis)\n   * A flexible home working policy\n   * Other fringe benefits (meal vouchers, eco vouchers, …)\n   * Variable bonus based on your commercial targets\n * Fun company events, exclusive team experiences\n * Contribute to a safer, fairer world for data subjects and citizens, ensure the serenity of great businesses and essential public institutions\n * Live your values daily in a dynamic, fun and multicultural working environment.\n\n",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "België",
+    "city": "belgië",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae944aa85d65b28f76c1b8&src=GD_JOB_AD&t=NS&vt=w&cs=1_1d87613a&cb=1759085761757&jobListingId=1009883271214",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Approach-Cyber-EI_IE9812203.11,25.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-ondersteuning",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Approach Cyber",
+  "company_headquarters_location": {
+    "city": "mont-saint-guibert",
+    "unknown": "Mont-Saint-Guibert, België"
+  },
+  "company_sizes_str": "Onbekend",
+  "company_size": null,
+  "company_website": "https://www.approach-cyber.com/",
+  "company_revenue": "Onbekend/niet van toepassing",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/788645/its-group-squarelogo-1402951581140.png",
+  "company_name": "ITS Group",
+  "job_title": "SOC Analyst (L1/L2)",
+  "job_description": "Vos missions\n\nWe are seeking a motivated and skilled Security Operations Center (SOC) Analyst who will perform a combination of Level 1 (L1) and Level 2 (L2) responsibilities. The successful candidate will monitor, triage, analyze, and respond to security events, ensuring timely detection and resolution of threats across various environments.\n\nResponsibilities\n\nL1 Analyst Expectations - Primary Responsibilities:\nMonitoring and Alert Handling:\nYou will continuously monitor SIEM and other security tools for alerts.\nYou will categorize and prioritize incidents based on severity and impact.\n\nInitial Triage:\nYou will analyze alerts to determine if they are true positives, false positives, or benign events.\nYou will gather basic information about suspicious activities, such as IP addresses and file hashes.\n\nDocumentation and Escalation:\nYou will document findings, actions taken, and outcomes in incident tracking systems.\nYou will escalate complex or high-severity incidents to L2 analysts with sufficient context and details.\n\nRunbooks and SOP Adherence:\nYou will follow established playbooks and standard operating procedures for incident triage.\n\nL2 Analyst Expectations - Primary Responsibilities:\nAdvanced Analysis:\nYou will investigate escalated incidents using threat intelligence, packet analysis, and log correlation.\nYou will conduct deeper analysis of malware samples, phishing emails, or other threats.\n\nThreat Containment and Mitigation:\nYou will recommend or implement containment measures, such as blocking IPs or isolating endpoints.\nYou will collaborate with IT teams to mitigate risks and ensure systems are patched or reconfigured.\n\nIncident Coordination:\nYou will act as a point of contact for escalations and coordinate with IT, forensics, or threat hunting teams.\nYou will assist in root cause analysis and post-incident reviews.\n\nMentoring and Training:\nYou will guide L1 analysts on proper triage methods and encourage skill development.\n\nProfile Requirements\n\nMandatory Skills and Qualifications:\nYou have technical knowledge of network protocols, firewalls, and security concepts.\nYou have experience with SIEM tools such as Microsoft Sentinel.\nYou have hands-on knowledge of EDR solutions like Microsoft Defender.\nYou have scripting skills in KQL, Python, PowerShell, or Bash.\nYou have experience working with Windows Server, Linux, and Apple iOS environments.\nYou have knowledge of cloud platforms such as Microsoft Azure.\nYou have familiarity with network appliances like firewalls, application proxies, and internet filtering systems.\nYou have proficiency in languages: French or/and Dutch, and English\n\nNice-to-Have Skills\n\nCentral Log management: Splunk\nYou have experience using threat intelligence tools such as VirusTotal.\nYou have knowledge of vulnerability management solutions like Rapid7 or Microsoft Defender for Vulnerability Management.\nYou have familiarity with network intrusion detection systems (NIDS) like Stamus.\n\nSoft Skills\n\nYou have a pro-active mindset.\nYou have a strong sense of responsibility.\nYou have the ability to work autonomously.\nYou have a conscientious and detail-oriented approach.\nYou have a focus on delivering future-proof solutions.\nYou have a collaborative attitude and enjoy working as part of a team.\nYou have effective communication skills, both written and verbal.\nVotre profil\nYou have at least 2-3y of professional experiences as Security Analyst\nYou’re eager to learn, motivated and curious\nLet’s have a chat !\nAdvantages\n\nSalary conform your experience & expertise\nHospitalization insurance (partner/children incl.)\nGroup insurance\nDental insurance (partner/children included)\n20 days statutory paid vacations\nRecovery days 38/40\nRepresentation fee\nInternet fee of\nDaily fee of 5.50€ net /day provided.\nSubscription GSM unlimited calls for Belgium (ITS subscription)\nTraining plan (e-learning - certification at ITS charge)\n\nExtra advantages:\nBeing a rather small team in BE, we’re very close to each of our consultants and we differentiate ourselves trying to really take care of you and make you grow with us and within our different clients.\nRegular follow-up\nRegular teambuilding to meet-up and have fun (every 3 months more or less)\nFlexibility and trust\nBenefits of still being part to a bigger group (ITS Group) and having access to resources and of a larger team of Experts\nCo-optation system because sharing is caring!\nProcessus de recrutement\n\n1st pre-screening on the phone to discuss about your search and conditions and our first potential opportunities matching.\nPackage proposal so we all agree beforehand.\n\nYou will be part of a dynamic security team where your skills and ideas are valued. You will have opportunities to grow your expertise, work on challenging incidents, and make a real impact by helping protect our digital environments. If you are passionate about cybersecurity, eager to take on both L1 and L2 responsibilities, and ready to contribute to a collaborative team, we want to hear from you.\n\nApply today and take the next step in your cybersecurity career!\n\nApply now and take the next step in your career!\n\nSend us your CV pvanrossen@itsgroup.be\n\nEn ligne depuis le 04.09.2025\n\nBruxelles\n\nCDI\n\nEntité : ITS Group Benelux\n\nAnglais\nFrançais\nNéerlandais\n\nFonction managériale : Non\n\nMobilité : Non\n\nMode de poste : Sur Site\n\nSalaire : Salary conform your experience & skills\n\nRéf. YA0355\n\nFor more than 25 years, ITS Group has been a French specializing in digital transformation, employing around 1,400 employees across agencies in France and 1 in Belgium.\n\nOur expertise: IT infrastructure & operations, cloud & managed services, mobility, workstations & networks, strategy, consulting , cybersecurity, development of business applications.\n\nITS Group places its commitment at the heart of its concerns by developing sustainable and responsible digital technology and by promoting the professional and personal development of its employees.\n\nFind out more: www.itsgroup.com",
+  "job_posted_date": "2025-09-04T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Brussel",
+    "city": "brussel",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ae967badfb3e2d8d487c90&src=GD_JOB_AD&t=NS&vt=w&cs=1_b78cd992&cb=1759085762294&jobListingId=1009833674860",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-ITS-Group-EI_IE788645.11,20.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-ondersteuning",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "ITS Group",
+  "company_headquarters_location": {
+    "city": "boulogne-billancourt",
+    "unknown": "Boulogne-Billancourt, Frankrijk"
+  },
+  "company_sizes_str": "1001 tot 5000 werknemers",
+  "company_size": null,
+  "company_website": "www.itsgroup.com",
+  "company_revenue": "100-500 miljoen USD",
+  "company_description": null,
+  "company_foundation_date": "1997-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "SpotIT",
+  "job_title": "SOC analyst",
+  "job_description": "Job description\n\nStep into a role where every day brings new challenges and opportunities to make an impact. As a SOC Analyst, you’ll take charge of incident management, lead security improvements, and guide a talented team to success. You’ll work with cutting-edge tools like Microsoft Sentinel and Palo Alto Cortex XDR, deliver meaningful reports to clients, and drive innovation through demos and Proofs of Concept.\n\n\n\n\nWhat will you be doing?\n\n\n * Take charge of incident management, resolving security challenges with precision and expertise.\n * Ensure excellence by conducting quality reviews of incidents handled by colleagues.\n * Deliver impactful reports while keeping clients informed and offering tailored security advice.\n * Drive meaningful change by providing strategic recommendations to enhance security measures.\n * Foster growth by sharing your knowledge and expertise with the team.\n * Showcase innovation through the preparation of engaging demos and the development of cutting-edge Proofs of Concept.\n * Act as the primary point of contact for all tasks and expectations directed toward the SOC during CSIRT incidents.\n * Lead and coach colleagues to foster growth and collaboration within the team.\n\n\n\n\nA day in the life of a SOC analyst at spotit\n\nYour morning kicks off with a team briefing and a fresh coffee. Together, you discuss ongoing incidents and security priorities. An alert comes in—incident management takes center stage. You analyze the threat, resolve the issue with precision, and communicate clear actions to the client.\n\nBefore noon, you shift gears to quality reviews. You assess incidents handled by colleagues, offering feedback that raises the bar for excellence. Then it’s time to deliver a client report—you don’t just share data but offer tailored advice to strengthen their security posture.\n\nIn the afternoon, you innovate. Whether you’re preparing a demo to showcase a new solution or developing a Proof of Concept, you push the boundaries of what’s possible. A CSIRT incident arises, and you step up as the key point of contact, coordinating tasks and keeping everyone aligned.\n\nAs the day wraps up, you focus on the team. You coach a colleague, share insights, or brainstorm improvements. By fostering collaboration, you help everyone grow.\n\nAt spotit, no two days are the same. You lead, innovate, and protect—making a real impact in the world of cybersecurity.\n\n\n\n\nYour profile\n\n * You have at least 4 to 5 years of experience as a security analyst.\n * You are passionate about cybersecurity and strive to stay on top of new developments.\n * Your pockets are filled with security principles and best practices.\n * You have experience with technologies such as Microsoft Sentinel, Microsoft Defender Stack (Endpoint, O365, ...), Palo Alto Cortex XDR, Active Directory, ...\n * You are comfortable taking the lead and coaching team member to the next level.\n * You are critical, detect problems and propose adequate solutions.\n * You have a strong external focus and are able to map relevant actions to spotit and its customers.\n * You are proactive, communicative, result-driven and a real teamplayer.\n * You speak fluently Dutch and English (French is a plus).\n\n\n\n\n\"What I value most about working in our SOC is the direct impact we have. We protect our customers from cyber threats and contribute to their digital resilience. That gives me great satisfaction.\" - David, SOC analyst\n\n\n\n\nOur offer\n\nMatch made in heaven? We reward that!\n\n * Competitive salary: enhanced with numerous benefits.\n * Company car with fuel card: so you’re covered on the road.\n * Hybrid work environment: avoid traffic jams.\n * Continuous learning opportunities: a wide range of training options to keep you growing.\n * Legendary team-building activities: quarterly fun events that have become the stuff of spotit legends.\n * A passionate team of experts: ready to share their knowledge and passion for what they do best.\n\n\n\n\nInterested?\n\nReady to become a spottee? Apply now and we’ll soon meet up for a coffee!",
+  "job_posted_date": "2025-09-18T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Merelbeke",
+    "city": "merelbeke",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aea15aafd611c148a6ab6e&src=GD_JOB_AD&t=NS&vt=w&cs=1_13c85dfa&cb=1759085765094&jobListingId=1009569807743",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-SpotIT-EI_IE2007480.11,17.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "SpotIT",
+  "company_headquarters_location": {
+    "city": "montevideo",
+    "unknown": "Montevideo, Uruguay"
+  },
+  "company_sizes_str": "1 tot 50 werknemers",
+  "company_size": null,
+  "company_website": "www.spotit.com.uy",
+  "company_revenue": "Onbekend/niet van toepassing",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1143663/easi-squareLogo-1635426526973.png",
+  "company_name": "EASI SA",
+  "job_title": "Medior/Senior SOC Analyst",
+  "job_description": "DESCRIPTION\n\nAre you passionate about cybersecurity and ready to take on hackers? Do you want to help customers by proactively scanning their environment closely? Do your friends describe you as enthusiastic and curious, with an insatiable hunger for knowledge?\n\nThen the position of Medior SOC Analyst may be perfect for you!\n\nAs a SOC Analyst, your mission is to monitor and ensure the security of various customer environments. You will have regular contact with our customers, so it is important that you are customer focused. To support you, we offer certification programs tailored to your level. These certifications will enable you to tackle more complex cases on a daily basis.\n\nAnd if this job appeals to you, you might as well do it in Belgium's Best Workplace since 2015! ;-)\n\n\nRESPONSIBILITIES\n\nAfter a solid personalized training, you will:\n\n * Analyze and handle unresolved Level 1 incidents.\n * Perform additional checks such as correlation with IT (Threat Intelligence) if necessary.\n * Create or adapt specific IoCs.\n * Review and collect asset data (configurations, running processes...) on impacted systems for further investigation.\n * Determine and direct remediation efforts.\n * Be on-call from time to time in the event of an incident.\n\n\nPROFILE\n\n\nMUST-HAVE :\n\n * Bachelor's or Master's degree in computer science\n * 2 years' proven experience in one of the following areas: network, security, systems engineering or support.\n * Excellent critical thinking skills and attention to detail\n * Good stress management and initiative mindset\n * Good team spirit and ability to accept positive feedback in order to progress.\n * Strong sense of integrity and identification with the mission.\n\n\nNICE TO HAVE :\n\n * Experience or knowledge of the following technologies: PowerShell, Python, SIEM/EDR/XDR/NDR, other security solutions.\n * Knowledge of attackers/pentesters/offensive techniques\n * Enjoy playing with malware\n * Benefits\n\n\nBENEFITS\n\n\nCOMPETITIVE SALARY PACKAGE WITH FRINGE BENEFITS:\n\n * Company car with fuel card for unlimited use\n * Meal allowances\n * Eco-vouchers\n * Hospitalization insurance Alan: innovative, transparent and paperless health partner. Ability to add outpatient and dental insurance (specialists, doctors, dentists,...) at a lower cost than if taken separately\n * Group insurance\n * GSM subscription\n * Seniority days\n * Platform to optimize year-end bonus to additional, personalized benefits\n\n\n\n\n\nA FUN AND STIMULATING WORK ENVIRONMENT:\n\n * Transparent communication\n * Technical coaching by our Senior Networking & Security Engineers\n * Modern, welfare-oriented offices\n * A young, dynamic and future-oriented management\n * Events: business trips abroad, sports and team building events, gala evenings, etc.\n * Fresh fruit, free breakfast once a month, gaming room (darts, PlayStation, board games, kicker table,...), afterwork every Friday, and ... strong coffee ;-)\n\n\n\n\n\nOPPORTUNITIES:\n\n * Opportunity to grow rapidly, both vertically and horizontally\n * Possibility to become a shareholder after 3-4 years\n * Certifications and other training courses to enhance your technical skills",
+  "job_posted_date": "2025-08-30T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Nivelles",
+    "city": "nivelles",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aee519aa15e08346f44718&src=GD_JOB_AD&t=NS&vt=w&cs=1_530d01ba&cb=1759085782434&jobListingId=1009581991810",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Easi-EI_IE1143663.11,15.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Ondernemingssoftware en netwerkoplossingen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Easi",
+  "company_headquarters_location": {
+    "city": "nivelles",
+    "unknown": "Nivelles, België"
+  },
+  "company_sizes_str": "501 tot 1000 werknemers",
+  "company_size": null,
+  "company_website": "https://www.easi.net",
+  "company_revenue": "25-100 miljoen USD",
+  "company_description": null,
+  "company_foundation_date": "1999-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "SpotIT",
+  "job_title": "Senior SOC engineer",
+  "job_description": "At spotit, we go beyond monitoring – we empower our clients to stay ahead of cyber threats. For a major player in the Belgian utilities sector, we are looking for a Senior SOC Engineer to join a dedicated OneTeam group – a close collaboration between our client and spotit.\n\nIn this role, you will help build a smart and scalable SOC environment that supports both proactive and reactive cybersecurity efforts. You’ll contribute to planning, building, and improving the SOC setup, while playing a critical role in advanced incident response (L2-L3), automation, and process optimization. Your expertise will directly shape how threats are detected, analyzed, and neutralized.\n\nThis is more than a job – it’s a mission to strengthen the digital safety of critical infrastructure.\n\n\n\nWhat will you do?\n\n * Design and build automated playbooks in platforms like Cortex XSOAR\n * Develop API integrations with external systems to support security use cases\n * Maintain and improve existing automation pipelines and custom tooling\n * Provide support in incident response, forensic investigations, and root cause analyses\n * Drive process improvements within the SOC to boost detection and response capabilities\n * Advise analysts on complex incidents and guide them with technical expertise\n * Help build a smarter, more efficient and scalable SOC environment\n * Participate in the on-call rotation to ensure 24/7 coverage for critical incidents\n * Collaborate with spotit’s SOC for L1 support – your focus will be on L2-L3 response\n\n\n\n\nA day in the life of a SOC engineer\n\nYou start your day with a short sync with the OneTeam group – security specialists from both spotit and our client align priorities and share updates on the latest developments. A complex alert catches your attention: a suspicious pattern in log data suggests lateral movement. You dive in, coordinate with the L1 team, and build a tailored Cortex XSOAR playbook to handle similar cases faster in the future.\n\nLater in the day, you improve an existing automation flow to reduce false positives and help a junior analyst navigate a critical alert. You end your day testing a new API integration you built for the threat intel platform – saving hours of manual work per week. It’s not just technical work – it’s meaningful impact.\n\n\n\nYour profile\n\n * Proven experience as a Security Engineer, preferably within a SOC environment\n * Strong knowledge of Python and scripting for automation purposes\n * Experience with Cortex XSOAR or similar SOAR platforms\n * In-depth understanding of incident response, SIEM/SOAR workflows, and log analysis\n * Skilled in API development (RESTful APIs, JSON, etc.)\n * Familiar with security frameworks like MITRE ATT&CK\n * Able to work independently and within a collaborative team environment\n * Strong communication skills in Dutch and English\n\n\n\n\nNice to have:\n\n * Experience with SIEM, EDR, or XDR platforms\n * Knowledge of cloud security (Azure, AWS, GCP)\n * Familiarity with infrastructure-as-code and CI/CD pipelines\n\n\n\n\n“This isn’t your typical SOC role. At spotit, and especially in this OneTeam setup, we get to shape how security works at scale – we’re not just reacting to threats, we’re building the future of proactive defense.”\n— Bob, SOC Practice Lead\n\n\n\n\nOur offer\n\nMatch made in heaven? We reward that!\n\n * Competitive salary: enhanced with numerous benefits.\n * Company car with charging pass: so you’re covered on the road.\n * Hybrid work environment: avoid traffic jams.\n * Continuous learning opportunities: a wide range of training options to keep you growing.\n * Legendary team-building activities: quarterly fun events that have become the stuff of spotit legends.\n * A passionate team of experts: ready to share their knowledge and passion for what they do best.",
+  "job_posted_date": "2025-09-18T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Merelbeke",
+    "city": "merelbeke",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991af0b2e9e7a87f837b74f74&src=GD_JOB_AD&t=NS&vt=w&cs=1_85942b01&cb=1759085792507&jobListingId=1009783648067",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-SpotIT-EI_IE2007480.11,17.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "SpotIT",
+  "company_headquarters_location": {
+    "city": "montevideo",
+    "unknown": "Montevideo, Uruguay"
+  },
+  "company_sizes_str": "1 tot 50 werknemers",
+  "company_size": null,
+  "company_website": "www.spotit.com.uy",
+  "company_revenue": "Onbekend/niet van toepassing",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/5586338/actalent-squareLogo-1626179574869.png",
+  "company_name": "Actalent, Inc",
+  "job_title": "Medior SOC Analyst",
+  "job_description": "Beschrijving\n\nBen je gepassioneerd door cybersecurity en klaar om de strijd aan te gaan met hackers? Wil jij klanten helpen door proactief hun omgeving nauwkeurig te scannen? Omschrijven je vrienden je als enthousiast en nieuwsgierig, met een onstilbare honger naar kennis?\n\nDan is de functie van Medior SOC Analyst wellicht perfect voor jou!\n\nAls SOC Analyst is het jouw missie om de beveiliging van diverse klantomgevingen te monitoren en te waarborgen. Je zult regelmatig contact hebben met onze klanten, dus het is belangrijk dat je klantgericht bent. Om je te ondersteunen, bieden we certificeringsprogramma's aan die zijn afgestemd op jouw niveau. Deze certificaten stellen je in staat om dagelijks complexere cases aan te pakken.\n\nAls deze rol jou aanspreekt, waarom zou je dan niet werken bij de Beste Werkplek van België sinds 2015?\n\nTakenpakket\n\nNa een grondige opleiding zal je:\n\n * De systemen van onze klanten helpen monitoren\n * Onopgeloste incidenten analyseren en behandelen\n * Indien nodig voer je aanvullende controles uit met betrekking tot de IT omgeving (Threat Intelligence)\n * Specifieke IoC's maken of aanpassen\n * Het evalueren en verzamelen van data gegevens (configuraties, lopende processen...) op de systemen van onze klanten\n * Herstellingsacties evalueren en ontwikkelen\n * Occasioneel on-call in het geval van incidenten\n\nDaarnaast zal je verantwoordelijk zijn voor de verschillende klantenomgevingen op vlak van cyber beveiliging en fungeer je als security adviseur voor de klant.\n\nProfiel\n\nMust-have:\n\n * Bachelor of master in informatica\n * Nederlands en/of Frans C2 niveau en vlot in het spreken van engels\n * Min. 2 jaar relevante ervaring in een security gerelateerde job: SOC analyst, security advisor, security engineer...\n * Kritisch denkvermogen en oog voor detail\n * Goed kunnen omgaan met stress\n * Ondernemend met zin voor initiatief\n * Teamplayer met het vermogen om positieve feedback om te zetten in een juiste evolutie\n * Sterk vermogen van integriteit en vereenzelviging met de missie van Easi en haar klanten\n\nNice-to-have:\n\n * Ervaring met of kennis van de volgende technologieën: PowerShell, Python, SIEM/EDR/XDR/NDR, of andere security oplossingen\n * Kennis van bepaalde pentest/offensieve technieken (Red Team)\n * Plezier halen uit het spelen met malware\n\nVoordelen\n\nCompetitief salarispakket:\n\n * Bedrijfswagen met tank- en/of laadkaart voor onbeperkt gebruik binnen België\n * Maaltijdcheques\n * Eco-cheques\n * Hospitalisatieverzekering Alan: innovatieve, transparante en papierloze gezondheidspartner. Mogelijkheid om ambulante en tandartsverzekeringen (specialisten, dokters, tandartsen,...) toe te voegen tegen een lagere kostprijs dan indien ze afzonderlijk worden genomen\n * Groepsverzekering\n * GSM abonnement\n * Anciënniteitsdagen\n * Cafetariaplan waarin de mogelijkheid bestaat om de eindejaarspremie en andere bonussen te optimaliseren naar bijkomende, gepersonaliseerde voordelen\n\nEen leuke en stimulerende werkomgeving:\n\n * Transparante communicatie\n * Technische coaching door onze Senior Networking & Security Engineers\n * Een opleidingstraject op maat\n * Moderne, welzijnsgerichte kantoren\n * Een toekomstgericht management\n * Evenementen: sport- en teambuildingevenementen, gala-avonden, enz.\n * Vers fruit, gratis ontbijt één keer per maand, gaming room (darts, PlayStation, gezelschapsspelen, kickertafel,...), afterwork elke vrijdag, en ... straffe koffie ;-)\n\nOpportuniteiten:\n\n * Mogelijkheid om snel door te groeien, zowel verticaal als horizontaal\n * Mogelijkheid om aandeelhouder te worden na 3-4 jaar\n\nDienstverband: Voltijds\n\nLoon: €2.800,00 - €4.500,00 per maand\n\nVoordelen:\n\n * Aandelenopties\n * Bedrijfscomputer\n * Bedrijfsfitness\n * Bedrijfswagen\n * Ecocheques\n * Eindejaarsgeschenk\n * Elektronische maaltijdcheques\n * Fietsvergoeding\n * GSM-vergoeding\n * Hospitalisatieverzekering\n * Pensioensparen\n * Tankkaart\n\nTaal:\n\n * Nederlands (Vereist)\n\nWerklocatie: Fysiek",
+  "job_posted_date": "2025-09-16T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Gent",
+    "city": "gent",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991af12b0a23cbbbba0e710cb&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_1b0581dd&cb=1759085794089&jobListingId=1009877773221",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Actalent-EI_IE5586338.11,19.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-ondersteuning",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Actalent",
+  "company_headquarters_location": {
+    "city": "hanover",
+    "unknown": "Hanover, Verenigde Staten"
+  },
+  "company_sizes_str": "10000+ werknemers",
+  "company_size": null,
+  "company_website": "https://www.actalentservices.com",
+  "company_revenue": "$1 tot $5 miljard (USD)",
+  "company_description": null,
+  "company_foundation_date": "1983-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/425248/ag-insurance-squarelogo-1582291166926.png",
+  "company_name": "AG Insurance nv",
+  "job_title": "IT Security Expert",
+  "job_description": "Our organisation\n\nAgeas is a listed international insurance Group with a heritage spanning of 200 years, offering Retail and Business customers Life and Non-Life insurance, and is also engaged in reinsurance activities.\n\n\nAs an international insurance company, Ageas concentrates its activities in Europe and Asia through a combination of wholly owned subsidiaries and long-term partnerships with strong financial institutions and key distributors.\n\n\nAgeas ranks among the market leaders in the countries in which it operates. It represents a staff force of about 50,000 people and reported annual inflows of over EUR 17 billion in 2023.\n\n\nAgeas aims to be a Great place to Grow for all its people, while always staying true to its four values: care, share, deliver and dare. It fosters an inclusive culture, that values diversity and encourages everyone to get the best out of their talents.\nAgeas has been re-certified as Top Employer in 2025.\nThe vibrant Ageas Corporate Centre in Brussels is home to a variety of Group level functions including, amongst others, Risk, Finance, Legal & Compliance, Investor Relations, Human Resources, Strategy, Business Development and Corporate Communications. It sets out the long-term strategy for Ageas and coordinates numerous initiatives across the Group to help realise the strategic ambitions. The Corporate Centre also facilitates knowledge and skills sharing amongst its local operating entities and JV’s, creating strong connections and leveraging on local strengths. It represents the Ageas Group towards external parties, managing relations with analysts, retail and institutional investors, regulators, rating agencies and the media.\n\nDepartment\n\nActivities covered by the team of Group Technology Development and Group Purchasing are Corporate Center IT coordination & operations, Group Applied Tech, Data & AI, Data Management, Group Procurement and Group Synergies Creation Initiatives.\nThe department is in charge of managing the IT of the Corporate Center, the Ageas Group headquarters, and developing group initiatives. These Group initiatives including the 13 countries where Ageas is active are twofold: on one hand developing synergies by delivering group assets developed once and reused multiple times in Group companies, and on the other hand make sure IT risks are managed adequately across the Group.\n\n\nTo strengthen the team, we are looking for a Group IT Security Expert.\n\n\nThe Group IT Security Expert will support the Group IT Security Manager in developing, maintaining and driving the implementation of the group framework for information security, with a focus on IT security (cybersecurity facilitating its implementation across Ageas companies, including the Ageas Corporate Center. This role involves translating the WHAT defined by the Group CISO into the HOW, through the architecture definition, development of operational frameworks and procedures, selection of tools, and definition of roles and responsibilities.\n\nYour function\n\nGroup IT Security expert main responsibilities include among others:\n * MSSP SOC technical consultant and advisory for the Group in the following activities:\n   * Onboarding security log sources: Identify and integrate all the necessary log sources, establish log management processes to SIEM and SOAR systems with balancing in security, cost and efficiency\n   * Detection use cases identification, validation, integration.\n   * Incident response playbook development, continuous improvement and regular testing\n   * Ownership on MSSP current activities and focusing on continuous improvement\n\n * Security architecture definition encompassing: strategy, processes, governance, competencies and technology.\n * Operational Frameworks & Procedures Development: Assist in translating Information Security group policies into operational procedures, including defining security architecture, selecting technologies, and establishing processes with roles and responsibilities.\n * Implementation Support: Facilitate the implementation of the Group Information Security assets by supporting the selection of partners for implementation and operations, conducting Business Risk Assessments, and managing supplier relationships.\n * Security Asset Management: Actively manage Group security assets, including solutions and services, and ensure continuous improvement through regular security posture assessments and testing.\n * Reporting and Dashboard Consolidation: Assist in consolidating cybersecurity operations delivery reports, including KPI and KRI metrics, and support the follow-up of action plans based on assessments and audits.\n * Community support: Support the Group IT Security Manager in leading the community of Ageas companies' heads of IT Security and SMEs on cybersecurity initiatives and practice sharing.\n * Industry Trends Monitoring: Maintain an understanding of industry trends, emerging cyber threats, and new solutions. Share relevant information with the community of Ageas companies' CISOs and IT Security heads.\n\n\n\nNext to Group activities, also assist Tech Corporate Center with:\n * IT security assessments of the Corporate Center by 2nd and 3rd lines of defense.\n * Security Activities Oversight: Oversee security activities such as access control, incident management, alerting, response, forensics, and reporting at the Corporate Center.\n * Risk Assessment Validation: Validate Ageas Corporate Center projects and solutions from an IT security perspective through Business Risk Assessments.\n\nYour profile\n\n * Bachelor's degree in Computer Science, IT, Cybersecurity, or related field.\n * Minimum of 5 years of experience in IT security, preferably in insurance or financial services.\n * Relevant certifications (CISSP, CISM, CEH) is an advantage\n * Proven track record in security operations and project implementation.\n * Strong technical skills on IT Security (Endpoint Management, SIEM, SOAR)\n * Expertise in risk management and incident response.\n * Up-to-date understanding of cybersecurity trends and technologies.\n * Familiarity with security policies, procedures, and compliance requirements.\n * Excellent analytical, problem-solving, and communication skills.\n * High quality standards\n * Strong collaboration mindset and abilities\n * Autonomous in organizing and prioritizing own work in line with management guidelines and the strategy\n * Resilience\n * Curiosity and eagerness to learn and share\n * Excellent English oral and written communication skills\n\nOur offer?\n\n * The possibility of (maximum 50%) home working;\n * A dynamic, multicultural working environment;\n * An interesting and extensive salary package (including meal vouchers, eco vouchers, hospitalization, disability and group insurance, additional child benefit, mobile allowance and intervention in the internet reimbursement, ...);\n * The possibility to optimize part of your salary package through a flexible income plan;\n * A corporate culture where you are encouraged to share your views and opinions;\n * A flat organizational structure with close collaboration and communication with management and cross departments;\n * An extensive range of learning & development opportunities through our online learning platform;\n * The opportunity to further develop yourself and to be part of a great team at a Top employer in Belgium.\n\n\n\nInterested?\n\nPlease apply online. We are looking forward to talking to you!\n\nHeb je een vraag?\n\nElise Segers\n",
+  "job_posted_date": "2025-09-21T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Brussel",
+    "city": "brussel",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991af167688630dbdd1eff3d1&src=GD_JOB_AD&t=NS&vt=w&cs=1_94493466&cb=1759085795044&jobListingId=1009681461390",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-AG-Insurance-EI_IE425248.11,23.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "hoog rendement - goede voorwaarden"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Verzekeringsmaatschappijen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "AG Insurance",
+  "company_headquarters_location": {
+    "city": "brussel",
+    "unknown": "Brussel, België"
+  },
+  "company_sizes_str": "1001 tot 5000 werknemers",
+  "company_size": null,
+  "company_website": "jobs.ag.be",
+  "company_revenue": "$ 500 miljoen - $ 1 miljard (USD)",
+  "company_description": null,
+  "company_foundation_date": "1824-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/22478/colruyt-group-squareLogo-1693899175566.png",
+  "company_name": "Colruyt N.V.",
+  "job_title": "IT Security Architect",
+  "job_description": "VACATURE OMSCHRIJVING\n\nBinnen het Service Center ICT Security van Colruyt Group zijn we op zoek naar een IT Security Architect. Als IT Security Architect ondersteun je onze business solution architecten met cyber risk assessments, begeleid je hen met de security referentie architectuur en ondersteun je beslissingsnemers.\n\nWat doe je als IT Security Architect:\n\n * Je ontwikkelt, onderhoudt en beheert de security referentie architectuur.\n   \n * Je werkt samen met entreprise - en domein architecten om security oplossingen en een bedrijfsstrategieën te ontwikkelen.\n * Je bespreekt en beoordeelt de huidige beveiligingssituatie met de Subject Matter Expert.\n * Je neemt deel aan bedrijfsprojecten om de security architectuur te vertegenwoordigen en behandelt alle security gerelateerde architectuuraspecten. Je identificeert IT-risico's in een vroeg stadium van het project. Je werkt samen met projectteams om de vereiste beveiligingsniveaus te ontwerpen.\n * Je neemt een regierol op je bij het beoordelen van projecten en het beoordelen van oplossingen in de Technical Review Board.\n * Je beoordeelt security ontwerpen en stelt deze voor.\n * Je fungeert als eerste aanspreekpunt (POC) voor alle architectuur gerelateerde beveiligingsvragen.\n * Je voert risicobeoordelingen uit en doet aanbevelingen.\n\n\nPROFIEL\n\n * Kennis en ervaring - Je hebt een masterdiploma of gelijkwaardig door ervaring en je hebt minstens 3 jaar relevante ervaring in Security Architectuur. Expertise binnen een of meerdere van deze domeinen is aan te raden:\n   * Application & Data Security\n   * Cloud Security\n   * Public Key Infrastructure\n   * Identity & Access Management\n   * Network, Infra & Endpoint security\n   * SOC Operations & reporting\n * Communicatie - Je hebt sterke communicatieve vaardigheden en bent gemakkelijk benaderbaar.\n * Strategisch organisator - Je weet wanneer je moet beslissen en je bent gestructureerd, maar toch in staat om buiten de gekende paadjes te denken.\n * Oplossingsgericht - Je werkt oplossings- en klantgericht met focus op kwaliteit.\n * Taalvaardigheden - Je spreekt Nederlands en Engels. Hierdoor kun je gemakkelijk met iedereen communiceren.\n\n\nWIJ BIEDEN\n\n * Uitdagende werkomgeving - De wereld van security architectuur staat nooit stil. Bovendien kom je terecht in een team dat elkaar graag uitdaagt om telkens betere oplossingen te ontwerpen.\n * Impact - Heb je frisse ideeën? Dan horen we ze graag. Zo kun je je eigen stempel drukken op de Solution Architecture.\n * Werk in jouw regio - Jij kiest in welk kantoor je komt te werken: Halle, Zwijnaarde of Haasrode. Je kan tot 3 dagen per week van thuis uit werken.\n * Aantrekkelijk salarispakket - Je ontvangt een aantrekkelijk loonpakket, gecombineerd met extralegale voordelen zoals een bedrijfswagen of een mobiliteitsbudget, maaltijdcheques, winstdeelname en een hospitalisatieverzekering.\n\n\nBedrijfsinformatie\n\nBij Colruyt Group kan je anders werken. Jij staat als mens centraal en dat merk je meteen. Zo kan je je vaardigheden scherpstellen dankzij onze ontwikkelingsgerichte aanpak en intern doorgroeien als je dat wilt. Of je nu analist, winkelmedewerker, marketeer of technieker bent, bij ons vind je vast een job die perfect bij je past.\n\nColruyt Group gelooft in de kracht van diversiteit, gelijkwaardigheid en inclusie. Iedereen is welkom om te solliciteren bij Colruyt Group en we bieden iedereen gelijke kansen.\n\n\n\n\nEline Degroote\n\nTalent Acquisition Partner\n\n",
+  "job_posted_date": "2025-09-24T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Halle",
+    "city": "halle",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991af362aa330daa7cfe18b33&src=GD_JOB_AD&t=NS&vt=w&cs=1_7c32aa98&cb=1759085803265&jobListingId=1009338828996",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Colruyt-Group-EI_IE22478.11,24.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "Zowel interne als externe opleidingsmogenlijkheden, ook op eigen vraag mogelijk",
+    "Il existe une assurance revenu garanti d'une part et une assurance hospitalisation d'autre part. La revenu garanti offre une couverture supplémentaire correcte si l'on \"tombe\" sur la mutuelle. La franchise de l'assurance hospitalisation est correcte également. ",
+    "Starten tegen 9u, \nPauze vrij te kiezen tussen 12u en 14u,\nWerkdag ten vroegste afsluiten om 16u"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": true,
+  "job_industry": "Foodspeciaalzaken en slijterijen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Colruyt Group",
+  "company_headquarters_location": {
+    "city": "halle",
+    "unknown": "Halle, België"
+  },
+  "company_sizes_str": "10000+ werknemers",
+  "company_size": null,
+  "company_website": "https://www.colruytgroup.com",
+  "company_revenue": "Meer dan 10 miljard USD",
+  "company_description": null,
+  "company_foundation_date": "1928-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/115216/centric-software-squarelogo-1464272404169.png",
+  "company_name": "Centric Software",
+  "job_title": "Cloud Engineering Manager – Security & Compliance",
+  "job_description": "JOB TITLE: CLOUD CYBER SECURITY SPECIALIST\nLOCATION: REMOTE – MUST BE EASTERN TIME ZONE\nCOMPENSATION: $120,000 - $150,000 USD\n\nABOUT CENTRIC SOFTWARE:\n\nCENTRIC SOFTWARE STANDS AT THE FOREFRONT OF INNOVATION, DELIVERING CUTTING-EDGE PLM SOLUTIONS TAILORED SPECIFICALLY FOR THE RETAIL, FASHION, FOOTWEAR, LUXURY, AND CONSUMER GOODS INDUSTRIES. OUR ENTERPRISE SOFTWARE APPLICATIONS ARE DESIGNED TO MEET THE UNIQUE CHALLENGES OF THE FAST-MOVING CONSUMER GOODS MARKET, EMPOWERING BUSINESSES TO MANAGE, OPTIMIZE, AND EXECUTE THEIR CRITICAL PROCESSES WITH EASE.\n\nFROM CONCEPT TO PRODUCTION, OUR SOFTWARE SOLUTIONS STREAMLINE THE JOURNEY OF BRINGING PRODUCTS TO LIFE. WE SUPPORT OUR CUSTOMERS IN EFFECTIVELY MANAGING MATERIALS, SOURCING, QUALITY, AND PRICING, ENSURING EVERY STEP LEADS TO A SUCCESSFUL FINAL CATALOG. WITH CENTRIC SOFTWARE, BUSINESSES CAN NAVIGATE THE COMPLEXITIES OF PRODUCT DEVELOPMENT WITH CONFIDENCE AND AGILITY. WWW.CENTRICSOFTWARE.COM\n\n\nJOB SUMMARY\n\n\nCentric Software is seeking a seasoned Cloud Engineering Manager – Security & Compliance to join our growing CyberSecurity team on a contract-to-hire basis. This role offers the opportunity to make an immediate impact while paving the way for a potential full-time position based on performance and business needs.\n\nThis is a hybrid role that combines hands-on engineering with governance and compliance leadership. You’ll be responsible for securing our AWS and Azure cloud environments, driving best practices, and ensuring alignment with regulatory standards.\n\nWe’re looking for a cloud security leader with proven experience managing teams of cloud security engineers, and a strong focus on proactive security architecture, compliance frameworks, and audit readiness.\n\nIf you're passionate about cloud security, thrive in both technical and strategic domains, and want to contribute to a global SaaS organization, we’d love to connect.\n\n\nRESPONSIBILITIES\n\n * Partner with security and engineering leadership to design and communicate a scalable, resilient cloud security roadmap that aligns with business objectives.\n * Establish regular team practices to ensure security champions are accountable for their deliverables, with risks and priorities clearly communicated to stakeholders. Project timelines, SLAs, and delivery estimates are transparent and agreed upon in advance.\n * Develop and maintain cloud security programs to ensure compliance with regulatory requirements and privacy laws, while anticipating future industry developments and emerging threats.\n * Serve as the primary point of contact for cloud security initiatives, requirements, and escalations, providing subject matter expertise and proactively communicating security posture to both technical and non-technical stakeholders.\n * Support employee retention and growth by mentoring and coaching the team, fostering a people-first culture with clear expectations and structured support to achieve high performance.\n * Define and track key performance indicators (KPIs), objectives and key results (OKRs), and security metrics to demonstrate the effectiveness of the cloud security program, ensuring integration with Vulnerability Management, GRC, and Security Operations.\n\n\nWHAT YOU’LL ACHIEVE\n\nIn the first 3 months:\n * Perform a full technical review of AWS and Azure environments, validating IAM configurations, network segmentation, encryption, and logging settings.\n * Deploy and tune cloud-native detection and monitoring tools (AWS GuardDuty, Security Hub, Azure Defender) integrated into Cortex XSIAM.\n * Conduct initial vulnerability scans across workloads (VMs, serverless, and SaaS integrations) and establish a remediation priority list.\n * Review existing ISMS documentation and map cloud-specific controls to ISO 27001, SOC 2, and NIS 2 requirements.\n\n\nIn the first 6 months:\n * Implement automated compliance checks for ISO 27001 Annex A controls using cloud-native policies and CSPM tools.\n * Develop and document a cloud security governance framework including policies, standards, and operational baselines for AWS and Azure.\n * Work with CloudOps and DevOps to integrate secret management (Keeper PAM, Key Vault, Secrets Manager) into CI/CD pipelines and operational processes.\n * Establish reporting cadence for cloud security metrics, risks, and progress updates to leadership.\n\n\nIn the first 12 months:\n * Lead penetration testing and red team exercises targeting AWS and Azure environments, validating incident response playbooks.\n * Demonstrate measurable improvements in cloud governance KPIs (policy adoption, reduced misconfigurations, faster vulnerability remediation, improved audit evidence quality).\n * Deliver the annual cloud security risk assessment and strategy roadmap, providing technical evidence and governance updates mapped to ISO 27001, SOC 2, and NIS 2 requirements.\n * Present a multi-year cloud security strategy aligned with Centric’s ISMS program and business objectives.\n\n\nQUALIFICATION\n\n * 7–10 years in cybersecurity with at least 5+ years of hands-on cloud security experience (AWS & Azure).\n * Strong technical expertise in:\n   * AWS (IAM, GuardDuty, Security Hub, KMS, Config, CloudTrail).\n   * Azure (Entra ID, Key Vault, Defender for Cloud, Sentinel).\n * Experience with cloud SIEM/SOAR, vulnerability management, and incident response (e.g., Cortex XSIAM, Tanium, CrowdStrike).\n * Proven ability to develop and implement cloud security governance frameworks, policies, and strategies.\n * Knowledge of compliance and regulatory frameworks: ISO 27001, SOC 2, NIS 2, GDPR.\n * Strong background in risk assessments, audits, and ISMS-aligned control design.\n * Excellent communicator, able to explain technical risks to executives and provide actionable guidance to engineers.\n\n\nCERTIFICATIONS (PREFERRED)\n\n * Cloud Security (Highly Preferred):\n   * AWS Certified Security – Specialty\n   * Microsoft Certified: Cybersecurity Architect Expert\n   * Microsoft Certified: Security Operations Analyst Associate\n   * CCSK (Certificate of Cloud Security Knowledge)\n   * CCSP (Certified Cloud Security Professional)\n * Governance & Compliance (for ISMS alignment):\n   * ISO 27001 Lead Implementer or Lead Auditor\n * Optional Add-ons (Nice to Have):\n   * GIAC Cloud Security Engineer (GCLD)\n   * GIAC Cloud Incident Response (GCIR)\n\nThe US base salary range for this full-time position is $120,000 - $150,000 plus variable. Our salary ranges are determined by role, level and location. The range for each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience and relevant education or training. Please note that the compensation details listed reflect the base salary and certain positions may be offered with additional variable incentives.\n\nCentric Software provides equal employment opportunities to all qualified applicants without regard to race, sex, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status or genetic information.\n\n\n\n\n\n\nCentric Software provides equal employment opportunities to all qualified applicants without regard to race, sex, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status or genetic information.\n\n",
+  "job_posted_date": "2025-09-25T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "België",
+    "city": "belgië",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991af3f669c4be6fb68dbbaa2&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_65ccd267&cb=1759085805655&jobListingId=1009853862990",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Centric-Software-EI_IE115216.11,27.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Ondernemingssoftware en netwerkoplossingen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Centric Software",
+  "company_headquarters_location": {
+    "city": "los gatos",
+    "unknown": "Los Gatos, Verenigde Staten"
+  },
+  "company_sizes_str": "51 tot 200 werknemers",
+  "company_size": null,
+  "company_website": "www.centricsoftware.com",
+  "company_revenue": "5-25 miljoen USD",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/263647/prodata-systems-squarelogo-1540558299705.png",
+  "company_name": "Prodata Systems Inc.",
+  "job_title": "Senior Security Consultant ( Analyst)",
+  "job_description": "JOB SUMMARY\nYou will work as part of a team of consultants which is based at Zaventem and will accomplish missions related to the Security domains for customers who are mainly based in Belgium. Occasional travels abroad could be required depending on the ongoing projects. The scope of the job will include, but will not be limited to the analysis, the design, the implementation and the support of Security based solutions.\n\nJOB DESCRIPTION\n\n * Coordinate Migration projects SOC to SIC\n * Participate to Security Architecture projects (AI & automation)\n * Discover and test new solutions, components or features\n * Participate to trainings and obtain the required certifications\n * Elaborate architectures and designs based on the customer requirements\n * Perform audits and suggest improvements\n * Provide technical product presentations and demonstrations\n * Elaborate, implement and maintain customized solutions to meet customer’s needs\n * Provide pre-sales technical support\n * Keep current on new technologies, standards and evolutions\n * Perform customer technical product training\n * Provide support for customer product evaluations\n * Resolve incidents and problems raised by the customer and eventually escalate to providers\n * Participate to Governance & Risk-projects and coordinate activities\n * Document the customer’s infrastructures and the implementations details\n * Assessments\n\nKNOWLEDGE, SKILLS AND EXPERIENCE\n\nWe look forward to welcoming a new dynamic and positive colleague:\n\n * Exceptional analytic skills\n * Solid working knowledge of Ethernet and network protocols such as TCP/IP, as well as the network core services ( DHCP, IPAM, DNS )\n * Solid experience in perimeter security ( firewalls, intrusion detection/prevention systems, Network Access Control, penetration testing )\n * High experience in content security ( anti-malware, web security software/appliances, URL filtering, content inspection )\n * Knowledge of security management solutions ( Unified Threat Management, SIEM, audit )\n * Experience with Security governance and regulations\n * Good knowledge of SDWAN solutions\n\nDesirable:\n\n * Experience with Checkpoint, F5, Silverpeak\n\nEMPLOYMENT TYPE\nFull-time",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Zaventem",
+    "city": "zaventem",
+    "country": "belgium",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991afcdefb122221141f39d33&src=GD_JOB_AD&t=NS&vt=w&cs=1_66a31522&cb=1759085842066&jobListingId=1007089940452",
+  "company_url": "https://glassdoor.com/Overzicht/Werken-bij-Prodata-Systems-EI_IE263647.11,26.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Computerhardware",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Prodata Systems",
+  "company_headquarters_location": {
+    "city": "kirkland",
+    "unknown": "Kirkland, Verenigde Staten"
+  },
+  "company_sizes_str": "1 tot 50 werknemers",
+  "company_size": null,
+  "company_website": "www.prodata.com",
+  "company_revenue": "Minder dan 1 miljoen USD",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+}]

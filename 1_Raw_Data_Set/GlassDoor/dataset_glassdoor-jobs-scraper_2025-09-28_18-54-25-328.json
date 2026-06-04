@@ -1,0 +1,697 @@
+[{
+  "company_logo": "https://media.glassdoor.com/sql/7426/rewe-zentral-squarelogo.png",
+  "company_name": "REWE Group",
+  "job_title": "(Senior) Security Analyst (m/f/x)",
+  "job_description": "Company Description\n\n\nAs the IT of the REWE Group Austria, we work together with our more than 700 employees to develop innovative IT products and services for all our corporate divisions in Austria and abroad, setting the tone for modern trade.\n\nAs part of our Security Operation Center you will be responsible for the continuous monitoring and analyzes of the provided data by our Toolset and Platform used by the SOC. Together with the team, you’ll analyze, investigate relevant events, alerts and information security incidents and provide valuable insights into improving our posture during post incident analysis.\n\n\nJob Description\n\n * Respond to security incidents according to the security incident response policy and procedures\n * Provide technical guidance to first responders for handling information security incidents\n * Provide timely and relevant updates to appropriate stakeholders and decision makers\n * Communicate investigation findings to relevant stakeholders to help improve the information security posture\n * Validate and maintain incident response plans and processes to address potential threats\n * Compile and analyze data for management reporting and metrics\n * Monitor relevant information sources (such as specific technology related news, Twitter, LinkedIn and information sharing and analysis centers) to stay up to date on current attacks and trends\n * Analyze potential impact of new threats and establish new use cases together with our security platform engineers\n * Perform or participate in root-cause analysis to document findings, and participate in root-cause elimination activities as required\n * Create runbooks for frequently occurring incidents to automate or at least assist with the resolution of those cases\n * Together with our security engineers you develop new use cases to further improve our capabilities\n * Expand the reach of our existing tooling by onboarding new data sources and systems\n * Work in close partnership with our infrastructure teams, information security officer and colleagues from the REWE Digital SOC\n * Support an open feedback culture and a forward-looking error culture (learning organization)\n * As part of your work, you identify potential security risks and forward them to the necessary authorities\n\n\nQualifications\n\n * At least 3+/5+/8+ years of relevant professional experience as a security analyst or similar role in a security operation center\n * Successfully completed studies (computer science, information security, IT security, cybersecurity) or comparable hands on training\n * Certified Information Systems Security Professional (CISSP) and/or Global Information Assurance Certification (GIAC) would be a benefit and/or other similar certifications\n * Experience in solving problems and conflicts in complex corporate structures\n * Strong problem-solving and troubleshooting skills\n * Ability to work extremely well under pressure while maintaining a professional image and approach\n * Ability to perform independent analysis of complex problems and distill relevant findings and root causes\n * Ability to communicate complex and technical issues to diverse audiences, orally and in writing, in an easily understood, authoritative and actionable manner\n * Strong decision-making capabilities, with a proven ability to weigh the relative costs and benefits of potential actions and identify the most appropriate one\n * Knowledge of frameworks and standards in the SOC environment such as Cyber Kill Chain, MITTRE or similar standards\n * Proven record in using SIEM solutions, XDR, EDR, NDR and PAM\n * Technical knowledge of the products – Splunk, SentinelOne, Proofpoint, Cyberark is an advantage\n * Technical expertise in network security, including VPN, firewall, web server security and Cloud\n * Specific OT and IoT knowledge are considered a plus\n * Knowledge of at least one scripting language (e.g. Perl, Python and PowerShell)\n * A precise, responsible mindset and reliability are among your strengths\n * Very good presentation and moderation skills\n * Entrepreneurial mindset and strong analytical and conceptual skills\n * Highly proficient in spoken and written English\n * A willingness to learn the local language\n\n\nAdditional Information\n\n * Long-term, interesting and varied work for a reliable employer in a supportive team\n * A family-friendly company culture with flexible working hours and remote working options available\n * Staff shopping and travel discounts\n * Numerous training and further development opportunities within the Group (5% of working time for self-organized training and education)\n * On-site parking\n * A lunch allowance\n * A market-compliant, attractive and performance-related annual gross salary from EUR 50,000 with the willingness to overpay with appropriate experience and qualifications\n\n\n\nNo matter where you are in your career, we have a path for you. Whether you’re looking for your first job, advancement in your field, or a new career shift. We’re proud to employ great people who are passionate about their jobs. But they’re all different. No matter who you are, what you need and where you’re going, REWE Group can be a part of it. Apply now!\n\nPlease upload your resume to give us insight of your work experience - anonymously if you like!\n\nWe promote a diverse and inclusive work environment. Therefore, we welcome applications from people of different gender, age, cultural or social background, sexual identity and applications from people with disabilities. In addition, we would like to increase the proportion of women in technical professions and are particularly pleased to receive applications from women for this position.",
+  "job_posted_date": "2025-09-06T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wiener Neudorf",
+    "city": "wiener neudorf",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac69be90733e84c80022ab&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_598ca8ff&cb=1759085619760&jobListingId=1009628833459",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-REWE-Group-EI_IE7426.11,21.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Lebensmittelgeschäfte",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "REWE Group",
+  "company_headquarters_location": {
+    "city": "köln",
+    "unknown": "Köln, Deutschland"
+  },
+  "company_sizes_str": "Mehr als 10.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://jobs.rewe-group.com/",
+  "company_revenue": "Mehr als 10 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1927-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1095231/omicron-electronics-squarelogo-1481116878303.png",
+  "company_name": "OMICRON electronics GmbH",
+  "job_title": "IT/OT Engineer Cybersecurity, 80-100% (f/m/x)",
+  "job_description": "OMICRON serves the electrical power industry with innovative products and services for cybersecurity, testing, diagnostics and monitoring of assets worldwide. The Technical Sales Engineer will be responsible for providing technical expertise, collaborate with the sales team and advise customers in our business area Power Grid Cybersecurity. Join us in our mission and support our customers in the transition to secure and reliable digital power grids.\n\nWork location: Stunning Austrian Mountains (Klaus, Vorarlberg)\n\n\n\nIT/OT ENGINEER CYBERSECURITY, 80-100% (F/M/X)\n\nWhat is it about\n\n * Collaborate with sales managers to understand customer needs, translate technical requirements, and deliver optimal cybersecurity solutions\n * Deliver tailored demonstrations and proof of concepts (PoC) to diverse audiences, including management, IT teams, SOC analysts, and OT personnel\n * Act as a trusted advisor for different customer teams, guiding them through the design, implementation, and operation of our security solutions\n * Set up, configure, and support cybersecurity solutions in complex IT- and OT- network environments, including substations, control centers, and power plants\n * Provide on-site customer support, respond to inquiries, and conduct training sessions\n * Contribute to a collaborative team culture by sharing expertise, supporting colleagues, and fostering innovation\n\nWhat are your skills\n\n * Strong knowledge of IT networking, virtualization technologies and core cybersecurity concepts; familiarity with OT protocols is a plus\n * Excellent presentation skills, with the ability to adapt to the audience and address their needs effectively\n * You work independently and thrive in cross-functional teams, especially in close partnership with sales\n * You are self-organized, proactive, and team-oriented with a focus on improvement and knowledge sharing\n * Fluency in both, German and English\n * You enjoy travelling within Europe (up to 40% travel share)\n\nWhat you can expect\n\n * Collaborate with an international, highly motivated team.\n * Engage in meaningful work that makes a real impact.\n * Thrive in our open and appreciative culture.\n * Join a company recognized as a great place to work.\n\nPassion and motivation are just as important to us as the job profile. If the position appeals to you, even if you don't fulfil every requirement, then convince us with your enthusiasm. Your commitment counts!\n\nOMICRON electronics GmbH\nHuman Resources, Martina Hafner-Höfle\nPhone: +43 59495 2684\nOberes Ried 1, 6833 Klaus, Austria\n\n\nStatutory notice: the monthly salary may considerably exceed the level stipulated by the collective labour agreement. The actual salary is based on the individual professional qualification and experience.",
+  "job_posted_date": "2025-08-29T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Klaus",
+    "city": "klaus",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac6d7a8efbe5dc108371a4&src=GD_JOB_AD&t=NS&vt=w&cs=1_9cf1cb89&cb=1759085620773&jobListingId=1009826330537",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-OMICRON-electronics-EI_IE1095231.11,30.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Energie- & Versorgungswirtschaft",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "OMICRON electronics",
+  "company_headquarters_location": {
+    "city": "klaus",
+    "unknown": "Klaus, Österreich"
+  },
+  "company_sizes_str": "501 bis 1.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.omicronenergy.com",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_foundation_date": "1984-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "Zync Group",
+  "job_title": "SOC ANALYST",
+  "job_description": "I am hiring a SOC Analyst on behalf of a dynamic cybersecurity firm specializing in advanced threat detection, incident response, and security operations. Leveraging cutting-edge technologies, the company safeguards critical infrastructures and digital assets for clients across diverse industries. Their Security Operations Center (SOC) team is at the forefront of mitigating cyber risks, ensuring 24/7 protection. The company values innovation, collaboration, and professional growth, providing an engaging environment for cybersecurity professionals to address evolving security challenges.\n\n\nIn this role you will be responsible for:\n\n * Analysis and evaluation of security incident and events\n * Working with SIEM and EDR tools\n * Threat hunting\n * Incident escalation\n\n\nThis role is onsite in Vienna, Austria\n\nEssential:\n\n * Initial professional experience in defensive security\n * Practical experience with network technology\n * Strong understanding of cyber threats and vulnerabilities\n * Strong interpersonal skills – a good team player\n * Fluent written and verbal English\n\n\nDesirable:\n\n * Relevant degree e.g. Computer Science or Cyber Security\n * Experience with firewalls\n * Relevant certifications from entities such as GIAC and SANS.\n\n\nCompany Benefits:\n\n * Separate paid over time\n * Excellent training opportunities and personal development\n * Work alongside an inclusive team of experts\n\n\nCALL TO ACTION\nIf you have the required skills and would like to have a positive impact on people’s lives all over the world via them enjoying the products you help create, call +49 157 36789 404 or send your CV to aden@zyncgroup.io for a response.\n\nSOC Analyst – Vienna, Austria - Up to €60k DOE - 5781\n\n\n\n\n\nCONTACT CONSULTANT\n\nADEN GWYNNE\nADEN@ZYNCGROUP.IO\n+4921190760029\n\n",
+  "job_posted_date": "2025-09-23T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wien",
+    "city": "wien",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac6dbba3294db0c04afa16&src=GD_JOB_AD&t=NS&vt=w&cs=1_23075890&cb=1759085620776&jobListingId=1009610365575",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Zync-EI_IE8262634.11,15.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Zync",
+  "company_headquarters_location": {
+    "city": "manchester",
+    "unknown": "Manchester, Vereinigtes Königreich"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.zyncgroup.io",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/7426/rewe-zentral-squarelogo.png",
+  "company_name": "REWE Group",
+  "job_title": "Component Lead - Security Analysts (m/w/x)",
+  "job_description": "Sprache auswählen\n\ngerman\n\nenglish\n\ncroatian\n\nserbian\n\nslovakian\n\nczech\n\nhungarian\n\nturkish\n\nitalian\n\nslovenian\n\n\n\nDie Übersetzung erfolgt automatisch über Google Translate. Keine Gewähr für Richtigkeit oder Vollständigkeit.\nINFORMATIONSTECHNOLOGIE\n\n\nCOMPONENT LEAD - SECURITY ANALYSTS (M/W/X)\n(WEIBLICH/MÄNNLICH/DIVERS)\n\n\n38.5h\n\nIZ NÖ-Süd Straße 3\n2351, Wiener Neudorf\n\nmin. 65000€ brutto/jährlich\n\nEintritt: ab sofort\n\n\nBEI FRAGEN WENDEN SIE SICH AN UNSER RECRUITING-TEAM\n\n\n+43 2236 600 6283\n\njobs@rewe-group.at\n\n\n\n\n\n\nCOMPONENT LEAD - SECURITY ANALYSTS (M/W/X)\n(WEIBLICH/MÄNNLICH/DIVERS)\n\nWir, die IT der REWE Group Österreich, entwickeln mit über 700 Mitarbeiter:innen innovative IT-Produkte und Services für all unsere Unternehmensbereiche im In- und Ausland und geben den Ton für den modernen Handel an.\nDiese Component Lead-Position ist verantwortlich für Management und Administration der Mitarbeiter und fungiert damit als Teamleiter für die Security Analysten aller Stufen und unterstützt durch technischen Überblick, Performance monitoring, Prozessimplementierung und ganzheitlichen Einsatz.\nDer Hauptschwerpunkt dieser Funktion liegt in der Leitung des Teams sowie in der Teilnahme an Untersuchungen, einschließlich der Identifizierung von und Berichterstattung über Cyber-Bedrohungen. Sie koordinieren die Ressourcen bei incident response Fällen, fungieren als primärer Manager für Sicherheitsvorfälle, helfen bei der Klassifizierung von Security events, entwickeln Leitlinien für Abhilfemaßnahmen, unterstützen die Dokumentation und helfen bei der Einhaltung der Systemsicherheit.\n\n\nSTELLENBESCHREIBUNG\n\n * Führung der Analysten des Security Operations Center\n * Training und Mentoring der Security Analysts im SOC Team bei der Entwicklung ihrer Cybersecurity-Kenntnisse, ihrer Schwerpunkte und ihres fortlaufenden Verständnisses der aktuellen Bedrohungslandschaft\n * Reaktion auf Incidents, Bereitstellung von Sicherheitsempfehlungen und Bearbeitung von Incidents nach Bedarf\n * Gewährleistung der Einhaltung interner Richtlinien, Verfahren, Playbooks und Leitlinien durch das Sicherheitsteam\n * Pflege und Entwicklung interner Prozesse, Sicherheitsverfahren und Abhilfemaßnahmen im Rahmen der Compliance-Anforderungen des Unternehmens (z. B. GDPR, ISO27001, NIS 2)\n * Identifizierung von Möglichkeiten zur Verbesserung von SOC- Monitoring und Detection auf der Grundlage der aktuellen Bedrohungslandschaft, bewährter Verfahren, gewonnener Erfahrungen usw.\n * Gestalten von Anforderungen und Bedürfnissen für die technische Implementierung von Use Cases gegenüber internen SOC-Teams, mit Schwerpunkt auf aktiver Zusammenarbeit\n * Beratung und Steuerung zu verfahrenstechnischen und fachlichen Sicherheitskontrollen\n * Beratung und Anleitung anderer Teams innerhalb des Unternehmens zu bewährten Verfahren und Aufrechterhaltung relevanter und aktueller Branchenkenntnisse\n * Fehlerbehebung und Unterstützung bei der Lösung von Sicherheitsproblemen\n * Handeln als Fachexperte und primäre Eskalationsstelle für Sicherheitsfragen interner Teams\n * Vorbereiten von Analyse- und Ergebnisberichten für Briefings an die Geschäftsleitung\n * Untersuchen, Dokumentieren und Berichten über Informationssicherheitsprobleme und aufkommende Trends\n * Mitwirkung an der Entwicklung und Implementierung von Sicherheitslösungen für interne Teams\n\n\nZUSÄTZLICHE INFORMATIONEN\n\n\nLangfristige, abwechslungsreiche Tätigkeit bei einem verlässlichen Arbeitgeber in einem kollegialen Team\n\nZahlreiche Ausbildungs- und Weiterentwicklungsmöglichkeiten im Konzern\n\nFamilienfreundliche Unternehmenskultur mit flexiblen Arbeitszeiten und Homeoffice unter Berücksichtigung deiner individuellen Bedürfnisse\n\nUmfangreiches Angebot zur Gesundheitsvorsorge wie zB Fitnesskurse, Massagen, ...\n\nMitarbeiter:innen-Rabatte bei Einkauf und Reisen\n\nEssenszuschuss in den betriebseigenen Kantinen\n\nEin marktkonformes, attraktives und leistungsbezogenes Gehalt ab EUR 65.000 mit der Bereitschaft zur Überzahlung bei entsprechender Erfahrung und Qualifikation\n\n\nQUALIFIKATIONEN\n\n\nMind. 5 Jahre Erfahrung in einer Sicherheitsumgebung, vorzugsweise in einer leitenden technischen Sicherheitsfunktion oder als Lead Security Analyst\n\nMind. 2-3 Jahre Teamleitung- bzw. Managementerfahrung\n\nErfolgreich abgeschlossenes Studium (Informatik, Informationssicherheit, IT-Sicherheit, Cybersicherheit) oder vergleichbare Ausbildung\n\nErfahrung mit Security Operations Center, Netzwerk-Ereignisanalyse und/oder Bedrohungsanalyse\n\nErfahrung in der Arbeit als Incident Responder\n\nAusgeprägte Kenntnisse im Umgang mit branchenüblichen SOC-Tools und deren Implementierung\n\nSehr gute Kenntnisse verschiedener Sicherheitsmethoden und technischer Sicherheitslösungen\n\nTiefgreifende Kenntnisse aktueller Schwachstellen und Angriffe\n\nTechnisches Fachwissen im Bereich Netzwerksicherheit, einschließlich VPN, Firewall, Webserver-Sicherheit und Cloud\n\nErfahrung in der Analyse von Daten aus Cybersecurity-Monitoring-Tools, einschließlich nachweislicher Erfahrung in der Verwendung von SIEM-, XDR-, EDR-, NDR-, PAM- und Threat Intelligence-Lösungen\n\nFähigkeit zur Analyse von Endpunkt-, Netzwerk- und Anwendungsprotokollen\n\nErfolgreiche Arbeit in einer schnelllebigen Umgebung mit hohem Druck\n\nAusgezeichnete Kommunikationsfähigkeiten in Wort und Schrift für ein technisches und nichttechnisches Publikum in Deutsch und Englisch\n\nBranchenzertifizierungen wie: CISSP/CISM, SANS GIAC Zertifizierungen, C.E.H/L.P.T, oder andere relevante Zertifizierungen sind von Vorteil\n\nUnternehmerisches Denken und starke analytische und konzeptionelle Fähigkeiten\n\nPräzises, verantwortungsbewusstes Denken und Zuverlässigkeit gehören zu Ihren Stärken\n\nSehr gute Präsentations- und Moderationsfähigkeiten\n\nTechnische Kenntnisse der Produkte Splunk, SentinelOne, Proofpoint, Cyberark sind von Vorteil\n\nKenntnisse von Rahmenwerken und Standards im SOC-Umfeld wie Cyber Kill Chain, MITTRE, SOC CMM oder ähnlichen Standards\n\nStarke Entscheidungsfähigkeit mit der nachgewiesenen Fähigkeit, die relativen Kosten und Vorteile potenzieller Maßnahmen abzuwägen und die am besten geeignete Maßnahme zu ermitteln\n\nFähigkeit zur unabhängigen Analyse komplexer Probleme und zur Herausarbeitung relevanter Erkenntnisse und Ursachen\n\nStarke Problemlöse- und Fehlerbehebungsfähigkeiten\n\n",
+  "job_posted_date": "2025-09-16T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wiener Neudorf",
+    "city": "wiener neudorf",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac6e40ae264af36c64c53a&src=GD_JOB_AD&t=NS&vt=w&cs=1_bf2b552a&cb=1759085620994&jobListingId=1009712324167",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-REWE-Group-EI_IE7426.11,21.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Lebensmittelgeschäfte",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "REWE Group",
+  "company_headquarters_location": {
+    "city": "köln",
+    "unknown": "Köln, Deutschland"
+  },
+  "company_sizes_str": "Mehr als 10.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://jobs.rewe-group.com/",
+  "company_revenue": "Mehr als 10 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1927-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1095231/omicron-electronics-squarelogo-1481116878303.png",
+  "company_name": "OMICRON electronics GmbH",
+  "job_title": "IT/OT Engineer Cybersecurity, 80-100% (w/m/d)",
+  "job_description": "OMICRON entwickelt innovative Technologien für alle Bereiche elektrischer Energiesysteme. Im Fokus stehen elektrische Prüfungen an Mittel- und Hochspannungsbetriebsmitteln, Schutzprüfungen, Prüfungen digitaler Schaltanlagen und Cyber Security. Als Technischer Sales Engineer im Bereich Power Grid Cybersecurity bist du verantwortlich für die Bereitstellung von technischem Fachwissen, die enge Zusammenarbeit mit unserem Vertriebsteam sowie die kompetente Beratung unserer Kunden. Du begleitest den Verkaufsprozess – von der Anforderungsanalyse bis zur passgenauen Lösung.\n\nDein Arbeitsplatz: in den wunderschönen österreichischen Alpen (Klaus, Vorarlberg)\n\n\n\nIT/OT ENGINEER CYBERSECURITY, 80-100% (W/M/D)\n\nDeine Aufgaben\n\n * Arbeite mit unserem Vertriebsteam, um Kundenbedürfnisse zu verstehen, technische Anforderungen zu übersetzen und die passende Cyber Security-Lösung zu liefern\n * Durchführung maßgeschneideter Präsentation und Proof of Concepts (PoC) für unterschiedliche Zielgruppen, u.a. Managmeent, IT/OT-Teams und SOC-Analysten\n * Begleite unsere Kunden mit deiner Kompetenz bei der Konzeption, Implementierung und Betrieb unserer Cyber Security-Lösung\n * Installation und Konfiguration unserer Produkte in komplexen IT- und OT-Netzwerken, inkl. Umspannwerke, Kontrollzentren und Kraftwerken\n * Vor-Ort Kundensupport, Beantwortung von Kundenanfragen und Durchführung von Trainings\n * Teamwork: teile deine Erfahrungen, unterstütze deine Kolleg:innen und gestalte Innovationen und Prozessverbesserungen aktiv mit\n\nWelche Fähigkeiten wir suchen\n\n * Fundierte Kenntnisse in den Bereichen IT-Netzwerke, Virtualisierung und Cybersicherheitskonzepten; Kenntnisse im Bereich OT-Protokolle sind von Vorteil.\n * Du überzeugst mit exzellenten Präsentationsskills und kannst dein Publikum gezielt abholen – egal ob technisch oder strategisch.\n * Du arbeitest selbstständig und fühlst dich gleichzeitig in funktionsübergreifenden Teams wohl, insbesondere in enger Zusammenarbeit mit dem Vertrieb.\n * Du bist organisiert, proaktiv und teilst dein Wissen gerne im Team - kontinuierliche Weiterentwicklung ist für dich selbstverständlich.\n * Du kommunizierst sicher auf Deutsch und Englisch.\n * Du bist gerne unterwegs - Reisetätigkeit innerhalb Europas (bis zu 40% deiner Arbeitszeit).\n\nWas du erwarten kannst\n\n * Arbeite in einem internationalen und hochmotivierten Umfeld.\n * Arbeit mit Sinn - leiste einen wertvollen Beitrag im Bereich Cyber Security in kritischer Infrastruktur.\n * Entfalte dich innerhalb unserer offenne und wertschätzenden Unternehmenskultur.\n * Werde Teil eines Unternehmens, das als hervorragender Arbeitgeber anerkannt ist.\n\n\nLeidenschaft und Motivation sind bei uns genauso wichtig wie das Anforderungsprofil. Wenn dich die Stelle anspricht, auch wenn du nicht jede Anforderung erfüllst, dann überzeuge uns mit deiner Begeisterung. Dein Engagement zählt!\n\nOMICRON electronics GmbH\nHuman Resources, Martina Hafner-Höfle\nTel.: +43 59495 2684\nOberes Ried 1, 6833 Klaus, Österreich\n\n\nGesetzlich vorgeschriebener Hinweis: die Bezahlung liegt deutlich über dem im Kollektivvertrag festgelegten Entlohnungsniveau. Das tatsächliche Gehalt orientiert sich an der beruflichen Qualifikation und Erfahrung.",
+  "job_posted_date": "2025-08-29T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Klaus",
+    "city": "klaus",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac7250a423a5a2e7d5825a&src=GD_JOB_AD&t=NS&vt=w&cs=1_92fcec73&cb=1759085621962&jobListingId=1009826329879",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-OMICRON-electronics-EI_IE1095231.11,30.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Energie- & Versorgungswirtschaft",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "OMICRON electronics",
+  "company_headquarters_location": {
+    "city": "klaus",
+    "unknown": "Klaus, Österreich"
+  },
+  "company_sizes_str": "501 bis 1.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.omicronenergy.com",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_foundation_date": "1984-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/6604972/mm-group-squarelogo-1650458350200.png",
+  "company_name": "MM Group",
+  "job_title": "Senior SOC Analyst (m/f/d)",
+  "job_description": "Req ID: 1843\n\nFull-Time/Part-Time: Full-Time\n\n\n\nMM is a global leader in consumer packaging. The Group provides packaging solutions for cartonboard and folding cartons with an attractive offer in kraft papers, uncoated fine papers, leaflets and labels. MM promotes sustainable development through innovative, recyclable packaging and paper products.\n\n\nOUR HEART BEATS FOR TALENTS - BE ONE OF THEM!\n\nSecurity makes your heartbeat faster? You like to be in the thick of things rather than just there? You are fascinating about Security with all challenges and mysteries? It´s just your passion?\n\nTo strengthen our motivated IT Security Operations Team at our headquarters in Vienna, we are looking for a passionate Senior SOC Analyst (m/f/d) .\n\n\nYOUR ROLE\n\n * You drive our further development for Cyber Defense\n * You detect incidents, attacks, campaigns and mitigation as well as assesing the extent of an attack\n * You investigate and analyse the root cause of incidents and breaches including reporting and documentation\n * You keep up-to-date for new threats and attacks practices\n * You initate and implement incident response measures and cyber security incident analyses\n * You take over the further development & fine-tuning of monitoring, logging as well as incident response tools and processes\n * You develop playbooks\n * You work closely with our internal and external peers like network, data center, digital workplace, local IT´s, clients, 3rd parties and our information security team\n\n\nYOUR PROFILE\n\n * You have completed your studies, preferably with a focus on IT and/or cyber security or equivalent training\n * Certifications in the field of security (fe. CySA+, OSCP, CISSP, GCIH, CEH, GCFE/GCFA, GCTI, ..) are advantageous\n * You have a in-depth knowledge of current threat landscape, offensive tooling, MITRE ATT&CK® techniques, Cyber Kill Chain, Pyramid of Pain\n * You have gained a very good technical understanding (logging & monitoring, digital forensic, network security, application security, endpoint security, cryptography,...)\n * You are familiar with the most common Vulnerability Management Tools, XDR´s and Log Resources in both fields cloud and prem\n * As Security is your passion, it's an enjoyment to stay at the edge of technology\n * You have excellent communication skills in written and spoken English, German skills are a significant plus\n\n\nOUR OFFER\n\nJoin our dedicated team of passionate colleagues who like to get things done!\n\nWe offer you a workplace in a stable, international company with long-term growth path. You can also look forward to interesting tasks with a high degree of management scope in a team that is collaborative, passionate, result-focused and responsible.\n\nFor this position, an annual compensation package starting at € 65,000 gross all-in is offered according to your qualifications and professional experience.\n\nOur headquarters is easily accessible by public transport and our MM canteen offers fresh lunch every day. Of course, there are excellent training opportunities within the group-wide MM-Academy and the possibility to work from home one day a week.\n\nThe following benefits complete our offer:\n\n * Flexible working hours\n * Vienna Job Ticket\n * Onboarding including plant tour\n * Healthcare benefits\n * Discounted shopping\n * Snacks including coffee, tea and fruit\n * Free charging stations for e-bikes\n   Sports events and activities\n   \n   \n * \n\n\nInterested? Send us your CV.\n\n\n\nYour Talent Advisor:\n\nMM Service GmbH\n\nDaniela Pechotsch\n\n(43) 66488646614",
+  "job_posted_date": "2025-09-23T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wien",
+    "city": "wien",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac73ea9ec9dcb11cfad4c4&src=GD_JOB_AD&t=NS&vt=w&cs=1_61face22&cb=1759085622425&jobListingId=1009788325060",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-MM-Group-EI_IE6604972.11,19.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Holzverarbeitung & Papierherstellung",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "MM Group",
+  "company_headquarters_location": {
+    "city": "wien",
+    "unknown": "Wien, Österreich"
+  },
+  "company_sizes_str": "Mehr als 10.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://www.mm.group/",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "Deutsche Telekom Cyber Security Austria GmbH",
+  "job_title": "Lead Security Analyst (m/w/d)",
+  "job_description": "IHRE AUFGABE\n\n * Du bist die zentrale Schnittstelle zwischen unseren internationalen Security Analyst*innen und den Security Teams unserer Kund*innen für Herausforderungen im Bereich Detection und Response\n * Verantwortung für Big-Picture Analysen um strategisches Verbesserungspotenzial bei Securitymaßnahmen von Kund*innen oder in den internen SOC-Analyseprozessen aufzuzeigen\n * Du verantwortest die Serviceerbringung von SOC-Kund*innen und bist treibende Kraft bei der konstanten Verbesserung unserer Analyseprozesse\n * Du übernimmst die Kommunikation mit Stakeholdern auf strategischer Ebene und verantwortest die Beratung bei akuten Security Incidents\n * Du leitest die Lessons Learned Meetings nach Security Incidents\n * Du arbeitest eng mit unserem internationalen Team an 5 verschiedenen SOC-Standorten zusammen\n\n\nIHR PROFIL\n\n * Du verfügst über erste Erfahrungen im Bereich Cybersecurity (idealerweise in einem SOC-Umfeld) und verfügst über eine technische Ausbildung im Bereich Cyber Security oder Informatik\n * Ein Hochschulstudium, Zertifizierungen oder Berufserfahrung im Bereich Security Consulting, SOC oder CDC sind von Vorteil\n * Dein Herz schlägt für Cyber-Security – du verfolgst die neuesten Angriffsmethoden, Schwachstellen und deren Erkennung\n * Du bist kundenorientiert, kommunikativ und lösungsorientiert\n * Du schätzt die Arbeit in dynamischen Teams und bringst gleichzeitig die Bereitschaft mit Aufgaben eigenverantwortlich zu lösen\n * Ein gewisses Maß an Reisebereitschaft setzen wir voraus\n\nFür Deinen Einsatz bieten wir neben einem interessanten, sich stets weiterentwickelnden Arbeitsumfeld eine dem Level und der Position entsprechende Entlohnung. Aus gesetzlichen Gründen informieren wir über das kollektivvertragliche Mindestjahresgehalt von € 53 802,00 brutto auf der Basis von Vollzeit. Das finale Gehalt orientiert sich selbstverständlich an Deiner individuellen Erfahrung. Außerdem bieten wir Dir ein umfangreiches Angebot an diversen Benefits wie zum Beispiel flexible Arbeitszeiten, Essenszuschuss, Sportangebote und diverse Mitarbeiter*innen Events.\n\nUnser Angebot spricht Dich an? Dann bewirb Dich noch heute in unserem Online-Bewerberportal.\n\n\nÜBER UNS\n\nWerde Teil eines der größten Cyber-Security Teams Österreichs und löse gemeinsam mit unseren Sicherheits-Expert*innen viele spannende Herausforderungen im Geschäftsumfeld eines großen IT-Dienstleisters. Durch unsere 360° Magenta Security Sicht verbinden wir Prozesse und Technik, um für Kund*innen ein bestmögliches Security Niveau herzustellen. Dieses breite Spektrum bietet eine ideale Grundlage für Deine persönliche Entwicklung! Wir suchen Verstärkung für unser junges, dynamisches Team von Security Enthusiasten. Gemeinsam wollen wir die Welt sicherer machen und Kund*innen mit unserem Know-How begeistern. Wir sind stolz auf unseren Teamspirit und Zusammenhalt - werde auch Du Teil der DT Cyber Security Austria!",
+  "job_posted_date": "2025-09-25T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wien",
+    "city": "wien",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac74b49a2fd6f978e201bb&src=GD_JOB_AD&t=NS&vt=w&cs=1_ee599b63&cb=1759085622906&jobListingId=1009887303287",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": null,
+  "company_headquarters_location": {
+    "unknown": null
+  },
+  "company_sizes_str": null,
+  "company_size": null,
+  "company_website": null,
+  "company_revenue": null,
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1187859/anovis-squarelogo-1576755048171.png",
+  "company_name": "anovis",
+  "job_title": "SOC First Level Analyst (m/w/x) 20-100%",
+  "job_description": "Werde Teil von Anovis als SOC-Analyst an einem unserer Standorte in Wien, Graz, Kundl oder komplett remote!\n\nWir bei Anovis schützen IT-Infrastrukturen, bevor es brenzlig wird. In unserem Security Operation Center laufen die Alarme zusammen – und genau hier brauchen wir dich. Du bist neugierig, wachsam, technikaffin und willst nicht nur zuschauen, sondern mittendrin sein, wenn’s darum geht, Angriffe zu erkennen und abzuwehren?\n\nDann ist diese Position dein Einstieg in eine Welt, in der du dich richtig austoben kannst – auch als Quereinsteiger mit IT-Grundwissen oder Erfahrung im 1st/2nd Level Support.\n\n\nZEIGE DEINE EXPERTISE\n\n * Du bist an vorderster Front: Du überwachst IT-Systeme mit modernsten Security Applikationen (SOAR, SIEM).\n * Du analysierst und bewertest erste Hinweise auf sicherheitsrelevante Ereignisse.\n * Du arbeitest mit vordefinierten Playbooks – aber auch mit Verstand und Erfahrung.\n * Du eskalierst, wenn nötig – aber du bist auch in der Lage, einfache Incidents direkt zu lösen.\n * Du dokumentierst sauber, verständlich und nachvollziehbar – für uns, für Kunden, für spätere Analysen.\n * Du bleibst cool, auch wenn mal mehrere Alerts gleichzeitig losgehen – mit Priorisierung und Überblick.\n * Du arbeitest im Rahmen eines 24/7-Betriebs, mit Fokus auf Nacht-, Wochenend- und Feiertagsschichten – natürlich gut geplant und mit ausreichend Ruhephasen.\n\nWenn du willst, geht noch mehr: Gerne setzen wir uns mit dir zusammen und gestalten einen Stärken-orientierten Entwicklungsplan für deinen Weg ins 2nd und 3rd Level.\n\n\nDAS BRINGST DU MIT\n\n * IT-Grundverständnis: TCP/IP sagt dir was, Windows-Logs hast du schon mal gesehen, Begriffe wie VPN, AV oder DNS sind kein Neuland.\n * Du bist aufmerksam, gewissenhaft und arbeitest gerne strukturiert.\n * Du bist kommunikativ – sowohl mit deinem Team als auch mit Kund:innen.\n * Du hast gute Deutsch- und solide Englischkenntnisse.\n * Du willst dazulernen – im Bereich IT-Security sowieso.\n\nWas Du NICHT brauchst: Die perfekte Liste an Skills – wir glauben an Talente, nicht an Checklisten.\n\n\nDAS ERWARTET DICH BEI UNS\n\nUnsere Kolleginnen und Kollegen sind für uns das Wichtigste, daher verfolgen wir bei Anovis eine moderne und mitarbeiterzentrierte Unternehmenskultur und werden dafür bei unterschiedlichen Plattformen honoriert.\n\n * Ein SOC-Team im Aufbau und Kolleg:innen, die dich einarbeiten und unterstützen.\n * Früh-, Spät- oder Nachtarbeit? Auch am Wochenende? Ja, im Schichtmodell – mit Klarheit und Planbarkeit.\n * Teilzeit oder Vollzeit? Volle Flexibilität möglich.\n * Zusätzliche Urlaubstage, die der Work-Life-Balance helfen\n * Remote oder vor Ort? Bis zu 100 % Homeoffice möglich, aber auch ein Büro mit echtem Kaffee und Leuten, die sich auf dich freuen.\n * Ein Umfeld, in dem du wachsen kannst – technisch, menschlich, perspektivisch.\n * Dein Basisgehalt liegt laut IT-Kollektivvertrag (AT Einstieg) bei € 2.473 brutto/Monat (Vollzeit) – zzgl. Zuschläge für Nacht-, Wochenend- und Feiertagsdienste.\n\nWie du tatsächlich bei uns einsteigst, hängt natürlich von deiner Erfahrung und Qualifikation ab – deshalb möchten wir dich erst einmal persönlich kennenlernen.\n\nIm Zuge des Einstellungsprozesses ist ein aktueller Strafregisterauszug vorzulegen. Dieser darf keine Einträge enthalten, die einer Anstellung im vorgesehenen Aufgabenbereich entgegenstehen.\n\n\n\n\nAnovis - Dein neuer Arbeitgeber\n\nAls Teil der Schweizer CymbiQ Group AG betreibt Anovis weltweit tausende IT Security Systeme für global tätige Unternehmen und kooperiert mit namhaften Partnern wie beispielsweise A1 Telekom Austria AG, T-Systems, Cisco, Palo Alto, Barracuda Networks, CyberTrap, Airlock, Extreme Networks, Forcepoint, Lastline, Nozomi Networks, Proofpoint, Riverbed oder VMware.\n\nMit unserem Hauptsitz in Wien und verteilten Standorten bieten wir umfassende Dienstleistungen im Bereich Connectivity und Security.\n\nUnser Angebot reicht von Konzeption und Implementierung bis hin zur 24/7 Betriebsführung von global verteilten IT-Systemen. Unsere Expertinnen und Experten arbeiten eng mit unseren Partnern zusammen, um flexible, zukunftsorientierte und kosteneffiziente Lösungen zu entwickeln, die Sicherheit und Effektivität garantieren und Investitionen schützen.\n\nAnovis versteht die Anforderungen von Kunden im IT-Infrastruktur, Netzwerk- und IT-Security-Bereich und stellt ein hochqualifiziertes Team in den Bereichen Professional Services und Operations bereit, um rasch und flexibel reagieren zu können und eine maßgeschneiderte, hochverfügbare IT-Infrastruktur zu garantieren.\n\n\n\n\nWir möchten ausdrücklich alle dazu ermutigen, sich zu bewerben, unabhängig von Geschlecht, Alter, Hautfarbe, sexueller Orientierung, körperlichen & mentalen Fähigkeiten, Herkunft oder anderen Schutzmerkmalen.\n\n\n\n\nWenn du dir vorstellen kannst, mit uns die digitale Welt ein Stück sicherer zu machen – melde dich. Einfach formlos per Mail, LinkedIn oder bei einem Kaffee (wir laden gerne ein).\n\nWerde Teil unseres Teams. Wir freuen uns auf Deine Bewerbung!\n\n\nKONTAKT\n\nanovis it-services and trading gmbh\nRebecca Forster\nHead of People & Culture\nTelefonnummer : +43 664 88788459",
+  "job_posted_date": "2025-09-26T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wien",
+    "city": "wien",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac74f79656ef9fe6804940&src=GD_JOB_AD&t=NS&vt=w&cs=1_254e8d6b&cb=1759085622895&jobListingId=1009791857628",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-anovis-EI_IE1187859.11,17.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "anovis",
+  "company_headquarters_location": {
+    "city": "wien",
+    "unknown": "Wien, Österreich"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.anovis.com",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/10317/evn-squarelogo.png",
+  "company_name": "EVN AG",
+  "job_title": "Junior IT-Security Analyst",
+  "job_description": "Die EVN Gruppe vereint mit über 100 Berufsbildern in den Branchen Energie, Umwelt,\nWärme, Wasser und Telekommunikation ein breites Spektrum an Aufgaben und Jobs.\nWir sichern damit die Lebensqualität von rund 4,9 Millionen Menschen und versprechen\nunseren Mitarbeiterinnen und Mitarbeitern eine Tätigkeit mit Sinn und Verantwortung.\nWerden Sie Teil unseres Teams und gestalten Sie mit uns die Energiezukunft!\n\nDafür brauchen wir Ihre Energie:\n\n * Erkennung, Analyse und Bewertung von potenziellen Sicherheitsvorfällen in unseren IT-Systemen.\n * Unterstützung bei der Weiterentwicklung von Erkennungsregeln und Sicherheitsmaßnahmen, um Bedrohungen frühzeitig zu identifizieren und abzuwehren.\n * Zusammenarbeit mit internen und externen Teams, um einen hohen Sicherheitsstandard sicherzustellen.\n * Mitarbeit in spannenden Projekten rund um Cybersecurity\n * In alle genannten Aufgabengebiete erfolgt eine umfangreiche Einschulung durch unsere erfahrenen Kolleg*innen, damit ein optimaler Start gut gelingt\n\nDas bringen Sie mit:\n\n * Abgeschlossene technische Ausbildung im Bereich Informationsverarbeitung oder Informationssicherheit\n * Netzwerkkenntnisse sowie Basiskenntnisse gängiger Betriebssysteme\n * Erste Berufserfahrung als Security Analyst oder Mitarbeit in einem SOC von Vorteil\n * Gute Englischkenntnisse in Wort und Schrift\n * Begeisterung für Cybersecurity\n * Lernbereitschaft und Interesse an neuen Technologien\n\nDas bieten wir Ihnen:\n\n * Ein marktkonformes Bruttomonatsgehalt ab 3.800 Euro - abhängig von Qualifikation und Erfahrung\n * Spannende und abwechslungsreiche Aufgaben\n * Ein tolles Arbeitsklima\n * Flexible Arbeitszeit ohne Kernarbeitszeit\n * Möglichkeit zum mobilen Arbeiten im Rahmen unserer Home-Office Policy (MAS)\n * Zahlreiche Weiterbildungsmöglichkeiten\n * Sicherer Arbeitsplatz\n\n * Weitere Benefits finden Sie hier www.evn.at/benefits\n\n\nDipl.-Betriebsw. Stefanie Doppler, MBA\n+43 2236 200-12524\nRecruiting\nEVN Konzern\n\n",
+  "job_posted_date": "2025-09-18T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Maria Enzersdorf",
+    "city": "maria enzersdorf",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac7e95bf4f616358e085fe&src=GD_JOB_AD&t=NS&vt=w&cs=1_12bdd41d&cb=1759085625175&jobListingId=1009783279599",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-EVN-EI_IE10317.11,14.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Energie- & Versorgungswirtschaft",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "EVN",
+  "company_headquarters_location": {
+    "city": "maria enzersdorf",
+    "unknown": "Maria Enzersdorf, Österreich"
+  },
+  "company_sizes_str": "5.001 bis 10.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.evn.at",
+  "company_revenue": "1 bis 5 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1922-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/2045612/nviso-squarelogo-1584693790798.png",
+  "company_name": "NVISO",
+  "job_title": "Security Operations Engineering Consultant (m/w/d)",
+  "job_description": "Are you already experienced in the world of security or at least you have a strong interest in working for a cyber security company? Do you want to become part of an international fast growing tech company? At NVISO you have the opportunity and we look forward to getting to know you!\n\nWHO ARE WE?\n\nIt all starts with the mission: NVISO is here to protect European society from potentially devastating cyber attacks! This means we offer cyber security services to private and governmental organizations to help them better prepare for, prevent, detect and respond to cyber security incidents.\n\nAll of this is built on four fundamental values that define who we are: We are Proud, We Break Barriers, We Care and No BS!!\n\nTasks\n\nThe Security Operations Engineering Consultant (m/w/d) will become an expert to help build out and define security solutions and work as a technical security subject matter expert to protect customer environments. As a successful colleague, you will be trained in:\n\n\n * Writing Playbooks and Standard Operation Procedures (SOPs) in a modular, well-maintainable and actionable way;\n * Creating processes and strategy documents for SOC Services as well as SIEM setups;\n * Creating Log on-boarding strategies that confirm regulatory requirements;\n * Analyzing reports of security events and incidents to identify potential issues in the configuration or disregarding of current infrastructure elements and policies;\n * Transport and illustrate technical information to management The SOC Professional Service Consultant (m/w/d) will deploy and customize the aforementioned solutions as well as receive client requests for customization and assistance.\n\nAs a (Junior) Security Operations Engineering Consultant (m/w/d), you will :\n\n\n * Plan and manage the onboarding of new log sources, troubleshoot issues with log sources or systems with clients and vendors, and report system defects where appropriate;\n * Create playbooks, SOPs, process documents as well as any document to derive services in a SOC in a regulated environment;\n * Perform Architectural Reviews and identify improvement recommendations;\n * Manage product enhancement / feature requests with vendors as needed;\n * Perform technical account management duties for specific top-tier, strategic clients;\n * Attend vendor-specific meetings and conferences for business and professional development;\n * Be responsible for testing and configuring new products and technologies.\n\nRequirements\n\n\n * You are eligible for a NATO clearance;\n * 2+ years’ experience as a SOC Analyst;\n * Preferably 1 year of experience configuring related detection/collection devices like IDS, FW, AV, EDR, SIEM;\n * Advanced information security knowledge in one or more areas such as Enterprise end-point security products, SIEM, SOAR;\n * Knowledge of one or more of the following security technologies from vendors such as Microsoft, Palo Alto Cortex, Elastic, CrowdStrike Good technical understanding of IT infrastructure and networks.\n\nBenefits\n\nAt NVISO, we care. We are committed to offering you a highly competitive remuneration package including financial and non-financial components:\n\n\n * A training budget of 10,000 EUR plus 10 days paid time off rolling over two years;\n * An attractive base salary range between 54.000 EUR and 65.000 EUR p.a.;\n * Working with and learning from the best people in the European cyber security “scene”. We have several SANS Instructors working for us and we are also represented at popular hacking conferences (BlackHat, BruCON, OWASP, etc.). In addition, our employees can take advantage of prestigious continuing education opportunities (GSE, GXPN, CISSP, OSCP, etc.);\n * A forward-thinking and agile company that supports you in the creation and implementation of new initiatives ;\n * Unique team events (most recently e.g. Lisbon, Dubai, Malta);\n * A sophisticated coaching concept starting on day 1;\n * 30 days of vacation;\n * Flexible working hours and home office options (Working Abroad Option);\n * Cost absorption for the Klimaticket;\n * Company bike leasing.\n\nIF YOU'RE INTERESTED, PLEASE SEND US YOUR APPLICATION!\n\nWE'RE LOOKING FORWARD TO MEETING YOU!",
+  "job_posted_date": "2025-09-18T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wien",
+    "city": "wien",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac81a59a6b261fd4a34d39&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_142d6eaf&cb=1759085626051&jobListingId=1009816552511",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-NVISO-EI_IE2045612.11,16.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-Kundenbetreuung",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "NVISO",
+  "company_headquarters_location": {
+    "city": "brüssel",
+    "unknown": "Brüssel, Königreich Belgien"
+  },
+  "company_sizes_str": "201 bis 500 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://www.nviso.eu",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_foundation_date": "2013-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1068048/wiener-linien-squarelogo-1447305196912.png",
+  "company_name": "WIENER LINIEN",
+  "job_title": "Technikerin (w/m/d) Security Analyst",
+  "job_description": "Schichtdienst - Vollzeit (37,5 Stunden/Woche)\n\n\n\n\n\n\nOb im Fahrdienst, in den Werkstätten, auf den Baustellen oder im Büro: Wir sind über 9.500 Kolleg*innen in rund 100 Berufen, die Wien jeden Tag bewegen. Gemeinsam sorgen wir für Sicherheit und Mobilität. Damit das in Zukunft auch so bleibt, suchen wir nach Menschen, die sich für unsere Werte engagieren wollen: Vielfalt leben, verlässlich sein und Sinnvolles tun. Willkommen im #TeamÖffiLiebe\n\nDas erwartet Sie\n\n * In dieser Position arbeiten Sie bei der Weiterentwicklung und Zukunftsplanung des Security Operation Centers mit und unterstützen bei der Umsetzung von Vorschriften, Gesetzen, Regelwerken und Standards zur Gewährleistung der Cybersicherheit, Anlagenverfügbarkeit und des störungsfreien Betriebs.\n * Bei Cybervorfällen führen Sie forensische Untersuchungen durch und entwickeln entsprechende Abwehrstrategien.\n * Außerdem arbeiten Sie mit den Informationssicherheitsbeauftragten der Wiener Linien und dem Chief Information Security Officer bei der Entwicklung von strategischen zukünftigen Cyberabwehrstrategien in der Nachrichtentechnik und Zugsicherung mit.\n * Sie arbeiten in Projekten im Bereich Netzwerksicherheit bzw. im Projektmanagement von Invest-, Erneuerungs- und Erhaltungsprojekten im SOC-Bereich mit, nehmen bei Bau- und Planungsbesprechungen insbesondere im Bereich der Fahrzeugtechnik teil.\n * Bei den zugeteilten Anlagen übernehmen Sie die Planung, Umsetzung, Prüfung, Abnahme und Dokumentation im Rahmen von Invest-, Erneuerungs- und Erhaltungsprojekten z.B. Installation eines IDS.\n * Sie kontrollieren die Durchführung und Einhaltung der vorgeschriebenen Wartungen und Überprüfungen (z.B. ISO27001, NIS2, etc.) sowie Behörden- und Lieferantenmeldungen.\n * Sie verbessern die Anlagen durch Ihre analytischen Fähigkeiten (z.B. Programmieren von einfachen Skripten, etc.).\n\nDas bringen Sie mit\n\n * Sie bringen eine abgeschlossene technische Ausbildung auf Maturaniveau (HTL) oder ein abgeschlossenes technisches Studium vorzugsweise im Bereich Elektrotechnik/Elektronik bzw. in Nachrichtentechnik mit.\n * Sie haben mindestens 2 Jahre Berufserfahrung vorzugsweise in OT Security.\n * Sie sind bereit im Schicht- und Wechseldienst zu arbeiten (u.a. am Wochenende, in der Nacht und an Feiertagen).\n * Idealerweise haben Sie bereits Erfahrung in Projektmanagement.\n * In Notfallssituationen behalten Sie immer einen klaren Kopf, Sie sind resilient\n * Ihre Arbeitsweise zeichnet sich durch hohe Sorgfalt und Einsatzbereitschaft aus und Sie sind bereit, laufend sich weiterzubilden\n\n\n\n\nWir setzen uns für Vielfalt, Inklusion und Chancengleichheit ein und suchen Menschen, die so vielfältig sind wie unsere Stadt! Bewerbungen von Menschen mit Behinderungen sind ausdrücklich erwünscht. Des Weiteren streben wir eine Erhöhung des Frauenanteils in Leitungspositionen und in technischen Bereichen an und freuen uns besonders über Bewerbungen von Frauen.\n\n\n\n\n\n\n\nDas bieten wir Ihnen\n\nGehalt\nFür diese Position bieten wir bei entsprechender Qualifikation und Erfahrung ein Einstiegsgehalt in Höhe von 4.244,65 EUR brutto pro Monat auf Vollzeit-Basis.\n\n\nEntwicklungsmöglichkeiten\nMan lernt nie aus: Deswegen bieten wir von fachlichen und persönlichen Weiterbildungen bis zu individualisierten Talente-Programmen ein vielfältiges Angebot an, bei dem für jede*n das Richtige dabei ist.\n\n\nErreichbarkeit und Service\nOb auf Schiene, Straße oder 2 Rädern: Unser zentraler Standort in Erdberg ist gut zu erreichen. Damit alle Fahrradbegeisterten sicher unterwegs sind, gibt es einen abschließbaren Fahrradraum mit Duschen und Spinden sowie die einmal jährlich stattfindenden kostenlosen Radservice-Tage.\n\n\nGesundheit und Vorsorge\nVon Sportangeboten, Impfaktionen bis hin zu einer vergünstigten Zusatzversicherung (Gruppenversicherung) – Unser Gesundheitsmanagement bietet allen Kolleg*innen vielfältige Leistungen für das seelische und körperliche Wohl.\n\n\nGreener Linien\nDie Zukunft gehört den Öffis: Als Teil der Wiener Linien können wir alle einen Teil dazu beitragen, die treibende Kraft in Sachen Klimaschutz zu sein.\n\n\nSpeisen und Getränke\nOb Frühstückskaffee, abwechslungsreiche Mittagsmenüs oder Snacks zur Stärkung zwischendurch: in den Betriebsrestaurants an unseren Standorten in Erdberg sowie in der Hauptwerkstätte Simmering ist für jeden Geschmack etwas dabei. Natürlich gibt es auch vegetarische Optionen. Mahlzeit!\n\n\nVergünstigungen\nAls Mitarbeiter*in der Wiener Linien erhält man zahlreiche Vergünstigungen bei WienMobil, Sportstätten oder der online Mitarbeiter*innenwelt.\n\n\nVernetzung\nWir vernetzen nicht nur die Stadt: Durch unterschiedliche Events und vielfältige Communities bleibt das #TeamÖffiLiebe immer miteinander verbunden.\n\n\nWir freuen uns auf Sie!\n\nDie Wiener Stadtwerke-Gruppe hält die lebenswerteste Stadt der Welt am Laufen. Schau vorbei: www.wienerstadtwerke.at\n\n\n\n\n\n\n\n\nAuf Ihre Bewerbung freut sich:\n\nIngrid Schmiedt\n\nPersonalabteilung | Recruiting\n\n\n\nIhre Fragen können Sie gerne an die E-Mail-Adresse recruiting@wienerlinien.at richten.\n\n * Bitte beachten Sie, dass Bewerbungen per Mail nicht angenommen werden können.\n\n",
+  "job_posted_date": "2025-09-05T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wien",
+    "city": "wien",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac869595dfd7260514e0d2&src=GD_JOB_AD&t=NS&vt=w&cs=1_6dc17511&cb=1759085627262&jobListingId=1009554060450",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-WIENER-LINIEN-EI_IE1068048.11,24.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Bahnverkehr",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "WIENER LINIEN",
+  "company_headquarters_location": {
+    "city": "wien",
+    "unknown": "Wien, Österreich"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "https://www.wienerlinien.at/",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_foundation_date": "1999-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/393914/stadt-wien-squareLogo-1680257085097.png",
+  "company_name": "Magistrat der Stadt Wien",
+  "job_title": "SOC Senior Analyst*in bei Wien Digital",
+  "job_description": "Wir haben das klare Ziel: unser Wien tagtäglich zu einer lebens- und liebenswerten Stadt zu machen, in der sich jede*r Bewohner*in in gleichem Maße und bei gleicher Qualität auf unsere Leistungen und Services verlassen kann. Dazu brauchen wir Sie!\n\nWir, die Magistratsabteilung 01 - Wien Digital sind eine innovative, serviceorientierte IT-Abteilung. Mit unseren rund 1.200 Mitarbeiter*innen schaffen wir für den Magistrat der Stadt Wien und den Wiener Gesundheitsverbund innovative Services im Bereich der Informations- und Kommunikationstechnologie (IKT).\n\nAnalog war gestern. Wien (ist) Digital!\n\nBeschäftigungsausmaß\nVollzeit\nBewerbungsfrist\n30.09.2025\nIHR AUFGABENGEBIET\n\nMacht Ihnen proaktive Sicherheitsarbeit Spaß? Security Incident Management liegt Ihnen im Blut?\nAls Senior SOC Analyst für unser neues Security Operation Center (SOC) im bestehenden Control Center sind Sie mit Kolleg*innen die fachliche SOC-Kraft zum Schutz der digitalen Infrastruktur Wiens. Sie entwickeln es mit ihrem fachlichen Knowhow zu unserer First Line of Defense gegen Cyber-Angriffe und garantieren so die Sicherheit und Stabilität der digitalen Services für die Bürger*innen Wiens.\n\nSie bearbeiten eigenständig Sicherheitsvorfälle (Tier 1&2) – von der Analyse und Triage im SIEM bis zur Eindämmung und koordinierten Eskalation\nSie konzipieren und entwickeln (weiter) SIEM Use Cases und Playbooks (z.B. nach MITRE ATT&CK) zur Optimierung der Sicherheitsüberwachung und Bedrohungserkennung\nSie unterstützen fachlich im lückenlosen Monitoring und der kontinuierlichen Verbesserung der Sicherheitsprozesse in enger Zusammenarbeit mit dem WienCERT und den Fachteams\nIHR PROFIL\nSie haben mehrjährige Berufserfahrung in Security Operations und Security Incident Management (Analyse, Triage, Handling)\nSie besitzen idealerweise ein abgeschlossenes Studium im Bereich IT-Security/Informatik oder eine gleichwertige Ausbildung sowie einschlägige Zertifizierungen\nSie verfügen über Expertise im Umgang mit SIEM-Systemen sowie ein tiefgreifendes Wissen über moderne Netzwerkarchitekturen, Betriebssysteme und aktuelle Angriffsvektoren\nSie haben einen sicheren Umgang mit etablierten Frameworks (z.B. MITRE ATT&CK, Capability Abstraction) zur Analyse von Sicherheitsvorfällen sowie zur Konzeption von Detection-Strategien\nSie bringen hohe analytische Stärke und Stressresistenz sowie eine strukturierte, lösungsorientierte Arbeitsweise auch in zeitkritischen Situationen mit\nSie verfügen über ausgeprägte Eigeninitiative und den Gestaltungswillen, Sicherheitsprozesse sowie -technologien proaktiv zu analysieren und aktiv voranzutreiben\n\nBitte beachten Sie die erforderlichen Ausbildungen für diese Position.\n\nUNSER ANGEBOT\nIhr Vertragsverhältnis basiert auf dem Wiener Bediensteten-Gesetz\nFlexible Arbeitszeiten (ohne Kernarbeitszeit)\nMöglichkeit, mobil zu arbeiten (im Ausmaß bis zu 60%)\nMöglichkeit zur Verrechnung von Überstunden oder Konsumation von Zeitausgleich\nUmfangreiches Ausbildungsangebot sowie Weiterentwicklungsmöglichkeiten in vielfältige Aufgabenbereiche innerhalb von Wien Digital\nUmfassendes Gesundheitsprogramm: z.B. jährliche Gesundenuntersuchung, Betriebsärztin, KFA-versichert\nWiener Linien Jahreskarte\n\nWir bieten ein Einstiegsgehalt von 4.900,- Euro brutto monatlich (40 Wochenstunden, 14x jährlich). Durch die Anrechnung von berufseinschlägigen bzw. gleichwertigen Tätigkeiten als Vordienstzeiten kann sich ein höheres Gehalt ergeben.\n\nWir möchten den Anteil an Frauen in diesem Berufsfeld erhöhen und laden daher besonders Frauen zur Bewerbung ein. Es gelten die Bestimmungen des Wiener Gleichbehandlungsgesetzes.\n\nKONTAKT\n\nGeraldine Kanatschnig-Hübl\n\nTeam Personalentwicklung\n\nMA 01 - Wien Digital\n\n1220 Wien, Stadlauer Straße 54 und 56\n\n+43 1 4000 71815\n\nSie möchten gerne für die Stadt Wien arbeiten?\n\nDann bewerben Sie sich gleich hier online!",
+  "job_posted_date": "2025-09-02T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Österreich",
+    "city": "österreich",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ac8dac8f194247003b695c&src=GD_JOB_AD&t=NS&vt=w&cs=1_2e698b0f&cb=1759085629226&jobListingId=1009863406867",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Stadt-Wien-EI_IE393914.11,21.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Kommunalbehörden",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Stadt Wien",
+  "company_headquarters_location": {
+    "city": "wien",
+    "unknown": "Wien, Österreich"
+  },
+  "company_sizes_str": "1.001 bis 5.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.wien.gv.at",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_foundation_date": "1872-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/7426/rewe-zentral-squarelogo.png",
+  "company_name": "REWE Group",
+  "job_title": "(Senior) Security Plattform Engineer / Security Engineer (m/f/x)",
+  "job_description": "Company Description\n\n\nAs the IT of the REWE Group Austria, we work together with our more than 700 employees to develop innovative IT products and services for all our corporate divisions in Austria and abroad, setting the tone for modern trade.\n\nAs part of our Security Operation Center you will be responsible for the continuous monitoring and analyzes of the provided data by our Toolset and Platform used by the SOC. Together with the team, you’ll analyze, investigate relevant events, alerts and information security incidents and provide valuable insights into improving our posture during post incident analysis.\n\n\nJob Description\n\n * Respond to security incidents according to the security incident response policy and procedures\n * Provide technical guidance to first responders for handling information security incidents\n * Provide timely and relevant updates to appropriate stakeholders and decision makers\n * Communicate investigation findings to relevant stakeholders to help improve the information security posture\n * Validate and maintain incident response plans and processes to address potential threats\n * Compile and analyze data for management reporting and metrics\n * Monitor relevant information sources (such as specific technology related news, Twitter, LinkedIn and information sharing and analysis centers) to stay up to date on current attacks and trends\n * Analyze potential impact of new threats and establish new use cases together with our security platform engineers\n * Perform or participate in root-cause analysis to document findings, and participate in root-cause elimination activities as required\n * Create runbooks for frequently occurring incidents to automate or at least assist with the resolution of those cases\n * Together with our security engineers you develop new use cases to further improve our capabilities\n * Expand the reach of our existing tooling by onboarding new data sources and systems\n * Work in close partnership with our infrastructure teams, information security officer and colleagues from the REWE Digital SOC\n * Support an open feedback culture and a forward-looking error culture (learning organization)\n * As part of your work, you identify potential security risks and forward them to the necessary authorities\n\n\nQualifications\n\n * At least 3+/5+/8+ years of relevant professional experience as a security analyst or similar role in a security operation center\n * Successfully completed studies (computer science, information security, IT security, cybersecurity) or comparable hands on training\n * Certified Information Systems Security Professional (CISSP) and/or Global Information Assurance Certification (GIAC) would be a benefit and/or other similar certifications\n * Experience in solving problems and conflicts in complex corporate structures\n * Strong problem-solving and troubleshooting skills\n * Ability to work extremely well under pressure while maintaining a professional image and approach\n * Ability to perform independent analysis of complex problems and distill relevant findings and root causes\n * Ability to communicate complex and technical issues to diverse audiences, orally and in writing, in an easily understood, authoritative and actionable manner\n * Strong decision-making capabilities, with a proven ability to weigh the relative costs and benefits of potential actions and identify the most appropriate one\n * Knowledge of frameworks and standards in the SOC environment such as Cyber Kill Chain, MITTRE or similar standards\n * Proven record in using SIEM solutions, XDR, EDR, NDR and PAM\n * Technical knowledge of the products – Splunk, SentinelOne, Proofpoint, Cyberark is an advantage\n * Technical expertise in network security, including VPN, firewall, web server security and Cloud\n * Specific OT and IoT knowledge are considered a plus\n * Knowledge of at least one scripting language (e.g. Perl, Python and PowerShell)\n * A precise, responsible mindset and reliability are among your strengths\n * Very good presentation and moderation skills\n * Entrepreneurial mindset and strong analytical and conceptual skills\n * Highly proficient in spoken and written English\n * A willingness to learn the local language\n\n\nAdditional Information\n\n * Long-term, interesting and varied work for a reliable employer in a supportive team\n * A family-friendly company culture with flexible working hours and remote working options available\n * Staff shopping and travel discounts\n * Numerous training and further development opportunities within the Group (5% of working time for self-organized training and education)\n * On-site parking\n * A lunch allowance\n * A market-compliant, attractive and performance-related annual gross salary from EUR 60,000 with the willingness to overpay with appropriate experience and qualifications\n\n\n\nNo matter where you are in your career, we have a path for you. Whether you’re looking for your first job, advancement in your field, or a new career shift. We’re proud to employ great people who are passionate about their jobs. But they’re all different. No matter who you are, what you need and where you’re going, REWE Group can be a part of it. Apply now!\n\nPlease upload your resume to give us insight of your work experience - anonymously if you like!\n\nWe promote a diverse and inclusive work environment. Therefore, we welcome applications from people of different gender, age, cultural or social background, sexual identity and applications from people with disabilities. In addition, we would like to increase the proportion of women in technical professions and are particularly pleased to receive applications from women for this position.",
+  "job_posted_date": "2025-08-29T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wiener Neudorf",
+    "city": "wiener neudorf",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aceb9ab02c94569bbd4f4f&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_f2a1e840&cb=1759085653119&jobListingId=1009616616341",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-REWE-Group-EI_IE7426.11,21.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Lebensmittelgeschäfte",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "REWE Group",
+  "company_headquarters_location": {
+    "city": "köln",
+    "unknown": "Köln, Deutschland"
+  },
+  "company_sizes_str": "Mehr als 10.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://jobs.rewe-group.com/",
+  "company_revenue": "Mehr als 10 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1927-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1066964/acp-holding-österreich-squarelogo-1458045878654.png",
+  "company_name": "ACP Holding Österreich",
+  "job_title": "SOC Consultant",
+  "job_description": "SOC Consultant\n\nWien oder St. Pölten\nm, w, d\n38,5h/Woche\n * € 56.000\n\nAls einer der führenden IT-Provider bietet ACP mehr als nur einen Job. Begeisterung statt Dienst nach Vorschrift. Ein echtes Team statt nur Kolleg:innen. Und eine Berufung statt einfach nur einen Beruf.\n\n\n\n\n\nDeine Ansprechperson:\nJohannes Payer\nACP IT Solutions GmbH\nWagenseilgasse 3\nEuroplaza Gebäude 5i\nA-1120 Wien\n\n\nDas sind wir.\n\n\n\n\n\n\n\nDeine Aufgaben\n\nAls SOC Consultant ist deine Mission, das Sicherheitsniveau der Kunden durch gezielte Empfehlungen zu erhöhen. Du agierst als zentrale Schnittstelle zwischen den SOC Analysten und den Kunden, um diese basierend auf den Erkenntnissen des SOCs optimal zu beraten und zu unterstützen.\n\n * Du bist die zentrale Anlaufstelle für alle Anliegen rund um den SOC-Service und sorgst dafür, dass Kunden sich stets gut betreut fühlen\n * Du übernimmst die Koordinationrolle beim Kunden und sorgst dafür, dass Aufgaben und Themen effizient nachverfolgt und abgeschlossen werden\n * Du analysierst Schwachstelleninformationen und gibst präzise Handlungsempfehlungen an die Kunden weiter, um deren Sicherheitsniveau zu erhöhen\n * Du führst und moderierst regelmäßige Sicherheitsmeetings, um Kunden stets auf dem neuesten Stand zu halten\n * Du erstellst themenspezifische Präsentationen, Monatsprotokolle und Reports, die Kunden einen klaren Überblick über ihre Sicherheitslage geben\n * Gemeinsam mit SOAR-Spezialisten entwickelst du innovative Automatisierungen, die die Effizienz und Effektivität der Consultingprozesse steigern\n * Du bist an der aktiven Weiterentwicklung des ACP SOC-Service beteiligt\n\nDein Profil\n\n * Abgeschlossene IT-Sicherheitsausbildung oder vergleichbare Weiterbildung\n * Erfahrung in einem SOC-Team oder vergleichbaren Umfeld von Vorteil\n * Gute technische Kenntnisse in den Bereichen Netzwerktechnik, Betriebssysteme, Servertechnologien und Cloud Lösungen\n * Allgemeine Kenntnisse von Sicherheitstechnologien, -produkten und -herstellern\n * Grundlegendes Wissen und Verständnis des Mitre Att&ck Frameworks\n * Grundkenntnisse von internationalen Sicherheitsnormen und deren Anforderungen (ISO 27001, Cobit) sowie Kenntnisse im Service Management, ITIL und Methoden des Projektmanagements\n * Lösungsorientierter, analytischer und methodischer Arbeitsstil\n * Gutes Auftreten, hohes Verantwortungs- und Sicherheitsbewusstsein\n\nUnser Angebot\n\nGehaltsspanne Minimum € 56.000\n\nab € 56.000\nEs erwartet dich eine verantwortungsvolle Tätigkeit mit Zukunftsperspektiven. Das gebotene jährliche Bruttogehalt liegt bei (mind.) € 56 000 - eine Überzahlung ist je nach relevanter Arbeitserfahrung und Qualifikation möglich.\n\nBenefits bei ACP\n\nUmfassende Aus- &\nWeiterbildungsmöglichkeiten\n\nHomeofficemöglichkeit\n\nFlexible\nArbeitszeitgestaltung\n\nGesundheitsangebote\n\nBike-Leasing\n\nStabiler &\nsicherer Arbeitgeber\n\nSpannende Aufgaben\n\nOffene Kommunikationskultur und flache Hierarchien\n\nGuter Teamspirit und kollegiales Miteinander\n\nOnboarding mit Mentorenprogramm\n\nMitarbeiterevents\n\nFreie Gerätewahl\n\nUnser Unternehmen\n\nMit mehreren Standorten in Wien, St. Pölten und Wiener Neustadt und 450+ Mitarbeitenden bilden wir die ACP IT Solutions GmbH im Osten Österreichs, deshalb auch ACP Ost genannt.\n\nWir sind stolz, dass wir als größte Gesellschaft auf der ACP-Plattform unseren Beitrag zum Erfolg der ACP Gruppe leisten können und laden dich herzlich ein, diesen Weg mit uns weiter zu gehen.\n\n",
+  "job_posted_date": "2025-09-01T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wien",
+    "city": "wien",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991acf21c973831b9d9cf22d0&src=GD_JOB_AD&t=NS&vt=w&cs=1_427b397b&cb=1759085654670&jobListingId=1009693972903",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-ACP-Holding-Österreich-EI_IE1066964.11,33.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "ACP Holding Österreich",
+  "company_headquarters_location": {
+    "city": "wien",
+    "unknown": "Wien, Österreich"
+  },
+  "company_sizes_str": "501 bis 1.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.acp.at",
+  "company_revenue": "100 bis 500 Millionen $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1993-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/934476/cancom-squarelogo-1420823500349.png",
+  "company_name": "Cancom SE",
+  "job_title": "Analyst Security Operations Center (w/m/*)",
+  "job_description": " * CANCOM Converged Services GmbH\n\n * Wien\n\n * Präsenz / Mobil\n\n * Berufserfahrung\n\n * Führungskraft Erste Ebene\n\n * IT\n\n * 56.000 EUR\n\n\n\n\nÜBER UNS\n\nWir bei CANCOM Austria sind einer der führenden ICT-Serviceprovider und Digitalisierungspartner in Österreich. Als Team CANCOM unterstützen wir unsere Kund:innen ganzheitlich, von Collaboration über Netzwerk und IT-Infrastruktur bis hin zu Managed Services. Wir entwickeln eigene Softwarelösungen, IoT-Plattformen und spezialisierte AI-Anwendungen für zukunftsfähige Geschäftsmodelle und denken digitale Transformation end-to-end.\n\n\nDEINE AUFGABEN\n\n * Proaktive Bedrohungssuche durch eigenständige Online-Recherche und Open Source Intelligence\n * Analyse von Sicherheitsvorfällen und Identifikation relevanter Angriffsmuster zur Entwicklung neuer Detection-Möglichkeiten\n * Enge Zusammenarbeit mit unseren Kolleg:innen aus Betrieb, Threat Intelligence und Incident Response zur Sicherstellung einer umfassenden Detection-Abdeckung\n * Entwicklung und Implementierung von Bedrohungserkennungen für unsere Cloud- und On-Premise-Sicherheitslösungen\n * Optimierung unserer Detection-, Monitoring- und Incident-Response-Tools\n\n\nDEIN PROFIL\n\n * Du verfügst über eine ausgeprägte Begeisterung für Technologie sowie eine klare Motivation, digitale Umgebungen im Bereich Cybersicherheit zu schützen.\n * Du bringst Erfahrung im Umgang mit SIEM-Lösungen mit oder hast Kenntnisse in Detection-Sprachen?\n * Du verfügst über Fachwissen in einem oder mehreren Bereichen wie SOC-Betrieb, Threat Detection, digitale Forensik, Threat Intelligence, Penetration Testing oder Schwachstellenmanagement?\n * Du zeichnest dich durch eine innovative, neugierige und selbstständige Denkweise aus und gehst neuen Bedrohungsszenarien mit Offenheit entgegen?\n * Du arbeitest teamorientiert, verfügst über ausgeprägte kommunikative Fähigkeiten und bringst ein serviceorientiertes Mindset im Umgang mit Cybersicherheitsaufgaben mit?\n\n\nUNSER ANGEBOT\n\n * Eigenverantwortung: Du gestaltest aktiv die Zukunft eines stabilen und gleichzeitig innovativen Unternehmens mit\n * Vereinbarkeit: Flexibles Arbeiten, keine Kernarbeitszeit und eine attraktiven Home Office-Regelung\n * Perspektive: Freiraum für Eigeninitiative, Entwicklungsmöglichkeiten innerhalb unserer Fach- und Führungskarriere\n * Benefits: Job-/Klimaticket, Bike-Leasing, Essenszuschuss, Sabbatical, Angebot für körperliche und mentale Gesundheit\n * Gehalt: Ab € 56.000, abhängig von deiner Qualifikation und Erfahrung ergibt sich dein individuelles Package\n\nMach mit uns deinen nächsten Karriereschritt. Mit Klick auf „Jetzt bewerben!“ gelangst du direkt zur Bewerbung. Du hast vorab noch Fragen zur Position oder zu uns als Arbeitgeberin? Dann melde dich gerne bei uns:\n\n * Gwendolyn Schwab\n * Specialist Recruiting & Talent Acquisition\n * +43 676 8520306501",
+  "job_posted_date": "2025-09-25T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Wien",
+    "city": "wien",
+    "country": "austria",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ad15a38dcf4eb67933584b&src=GD_JOB_AD&t=NS&vt=w&cs=1_0c43e17a&cb=1759085664850&jobListingId=1009853518837",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Cancom-EI_IE934476.11,17.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-Kundenbetreuung",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Cancom",
+  "company_headquarters_location": {
+    "city": "münchen",
+    "unknown": "München, Deutschland"
+  },
+  "company_sizes_str": "1.001 bis 5.000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.cancom.com",
+  "company_revenue": "25 bis 100 Millionen $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1992-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+}]

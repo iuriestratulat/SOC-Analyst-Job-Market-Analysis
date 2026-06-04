@@ -1,0 +1,872 @@
+[{
+  "company_logo": "https://media.glassdoor.com/sql/100134/grant-thornton-llp-squarelogo.png",
+  "company_name": "Grant Thornton, LLP",
+  "job_title": "Cyber Security Manager (DLP, Data Protection & Insider Risk Management)",
+  "job_description": "Cyber Security Manager (DLP, Data Protection & Insider Risk Management)\n\nGrant Thornton Advisors LLC and Grant Thornton Ireland (GT) have recently come together to form a powerful multinational, multidisciplinary platform that delivers premier advisory, tax, and independent audit services. With $2.7 billion in revenues and nearly 60 offices across the U.S., Ireland, the UAE, and other territories, our combined platform brings enhanced solutions and capabilities supported by cutting-edge technologies and a team of nearly 13,000 quality-driven professionals.\n\nGrant Thornton Ireland contributes nearly 3,000 people across 9 offices in Ireland, the Isle of Man, Gibraltar, and Bermuda, and is part of a global network of over 68,000 professionals spanning more than 149 countries. Together, we offer a truly global reach backed by deep local knowledge and national expertise.\n\nBy joining forces, we strengthen our ability to act as trusted advisors who make business more personal — investing in relationships and empowering clients to make the right decisions for their organisations today and into the future. Whether working with the public sector to build thriving communities, partnering with regulators and financial institutions to build trust, or supporting diverse businesses to achieve their goals, Grant Thornton now provides a singular, seamless client experience grounded in collaboration, innovation, and a shared commitment to the issues that matter most.\n\nAt GT Ireland we don’t just predict your future, we build it.\n\nA Career at GT\nLooking for a more fulfilling role in professional services? One where fresh thinking, collaboration and diversity are valued? At Grant Thornton we do things differently.\n\nWhat does this mean for you?\nA career in a more inclusive working environment, a more collaborative work culture, a more supported, flexible working role, more possibilities to grow and more opportunities to help shape the future for your clients. We respect and value your experience. And we want you to bring your authentic self to work and be at your best. It is how it should be.\n\nGrow with us\nAt Grant Thornton, we care about our people and work hard to make you feel valued. If you are looking to deepen and develop your skills, knowledge, and experience throughout your career, then that is what you will get, and more.\n\nPosition Overview\nWe are seeking a highly skilled and experienced Cybersecurity Manager to lead our Data Loss Prevention (DLP), Data Protection, and Insider Risk Management program in the EMEA region. This individual will be responsible for defining strategy, implementing controls, managing tools, and driving cross-functional initiatives to protect sensitive data, detect insider risks, and ensure compliance with global regulations. The ideal candidate will have strong technical expertise, proven leadership, and the ability to work closely with stakeholders across Security, Technology, Legal, HR, and Compliance\n\nRoles and Responsibilities:\n\nProgram Leadership & Strategy\n * Lead the enterprise DLP, data protection, and insider risk management program for the EMEA region in alignment with the global multi-national platform.\n * Build, implement and maintain technical policies, procedures, and controls aligned to business objectives and regulatory requirements (e.g., ISO, SOC 2, NIST, GDPR, HIPAA, CCPA).\n * Drive a risk-based approach to protecting sensitive data across on-premises, cloud, and SaaS environments.\n\nTechnology & Operations\n * Lead deployment and management of DLP and insider risk solutions (e.g., Microsoft Purview, Proofpoint, etc.).\n * Establish data classification, handling, and protection standards.\n * Ensure effective coverage across endpoints, email, network, cloud services, and collaboration platforms.\n * Collaborate with SOC team to build incident response playbooks for data leakage and insider threat events.\n * Collaborate with SOC and IR teams to integrate DLP/insider alerts into SIEM and SOAR platforms.\n\nMonitoring & Incident Response\n * Lead triage, investigation, and escalation of DLP and insider risk alerts.\n * Work closely with HR, Legal, and Business leaders to manage cases of insider misconduct or policy violations.\n * Reduce false positives through continuous tuning and optimization of detection rules.\n * Conduct root cause analysis and oversee remediation activities.\n\nMetrics & Reporting\n * Define KPIs/KRIs to measure program effectiveness (e.g., incident trends, time-to-resolution, compliance status).\n * Deliver regular reporting and executive-level updates on risk posture and incident trends.\n * Recommend security investments and improvements based on threat intelligence and gap analysis.\n\n\nContinuous Improvement\n * Monitor regulatory changes and emerging risks to ensure program alignment.\n * Explore opportunities for automation, AI, and advanced analytics in DLP/insider risk workflows.\n * Benchmark against industry best practices and frameworks (NIST CSF, MITRE Insider Threat, ISO 27001).\n\n\nSkills and Attributes:\n * Bachelor’s degree in Cybersecurity, Information Security, Computer Science, or related field.\n * 7+ years of experience in cybersecurity with at least 3+ years focused on DLP, insider risk, or data protection.\n * Strong knowledge of DLP platforms, insider threat detection, and cloud security controls.\n * Familiarity with regulatory compliance (GDPR, HIPAA, NIST, SOC, CCPA).\n * Hands-on experience with tools such as Microsoft Purview DLP, UEBA solutions, and SIEM/SOAR platforms.\n * Proven track record in incident response, technical policy enforcement, and cross-functional investigations.\n * Excellent communication and stakeholder management skills; ability to engage executives and non-technical audiences.\n * Relevant certifications preferred: CISM, CISSP, CIPT, CIPP, CCSP, GIAC Insider Threat Analyst (GCTI), or equivalent.\n\n\nLife at GT\nReward and benefits:\nOur reward and benefits are designed to create an environment where our people can flourish. We are committed to building a culture where our people have access to the necessary benefits to help promote a healthy lifestyle and thrive.\n\nEquity, diversity and inclusion\nAt Grant Thornton, we provide equitable opportunities for all our colleagues. We are a responsible, sustainable business where equity, diversity and inclusion (ED&I) is at the forefront of our workplace culture agenda, and today, we continue to build and develop on our existing ED&I structure and strategy to meet our workplace culture needs. People are at the heart of our business and teams built with varied backgrounds, racial differences, cultures, sexual orientations, religious orientations, ages, gender identities, abilities and family types present diverse viewpoints, which need to be heard and valued.\n\nWe are all at our best when we are able to be ourselves and we view integrity and authenticity as integral values to bring to our day-to-day work-life at the firm. We are excited to see the personality and perspectives you will bring to our team because we know we will all benefit from them. Diversity of thought, background and experience enables better decision-making, improves the quality of our delivery, and helps us to meet the needs of our clients. Our firm is built on people and their ideas, so we want to hear all the new perspectives and fresh thinking you have to offer. You form the bedrock of our firm’s best-practice principles and we will champion you as leaders from day one.\n\nRecognition:\nWe want to create a culture of recognition and celebrating success, by saying thank you to people who surpass our expectations and recognising the right values and behaviours. Our Shout Out recognition scheme is our way of highlighting and promoting achievements. Whether you simply want to say thank you, celebrate a special occasion or give an award for doing something exceptional, you can do all of this and more through the scheme.\n\n#LI-KS1",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3e56894e9d5c745fda710&src=GD_JOB_AD&t=NS&vt=w&cs=1_6cc9f7d3&cb=1759086110275&jobListingId=1009883440274",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Grant-Thornton-EI_IE100134.11,25.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Accounting & Tax",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Grant Thornton",
+  "company_headquarters_location": {
+    "city": "chicago",
+    "unknown": "Chicago, United States"
+  },
+  "company_sizes_str": "5001 to 10000 Employees",
+  "company_size": null,
+  "company_website": "https://www.grantthornton.com",
+  "company_revenue": "$100 to $500 million (USD)",
+  "company_description": null,
+  "company_foundation_date": "1924-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/40/aig-squareLogo-1667941903328.png",
+  "company_name": "American International Group, Inc.",
+  "job_title": "Senior Endpoint Security Engineer",
+  "job_description": "At AIG, we are reimagining the way we help customers to manage risk. Join us as a Senior Endpoint Security Engineer to play your part in that transformation. It’s an opportunity to grow your skills and experience as a valued member of the team.\n\n\n\n\nMAKE YOUR MARK IN INFORMATION TECHNOLOGY\n\nAt AIG, technology is at the heart of everything we do, from underwriting risks to processing claims. The Information Technology (IT) team equips our colleagues with the latest tools to complete their work efficiently, with the highest standards of excellence. The team is responsible for shielding the company’s systems from security risks, while designing technology strategies that enable AIG’s businesses to achieve their goals. Innovation in IT drives innovation across the organization.\n\n\n\n\nHOW YOU WILL CREATE AN IMPACT\n\nThe Senior Endpoint Security Engineer will be part of AIG's Enterprise Information Security Group, responsible for Engineering and Operational support of an Enterprise-wide Endpoint Security Management system and procedures. The Engineer will identify core requirements, design, and implement Endpoint security technologies, working with stakeholders to perform ongoing tuning of those technologies to protect and mitigate Security threats to corporate assets and users.\n\nThe individual in this position will be working in a team of Engineers and interacts closely with other IT groups like Security Architecture, Infrastructure Build and Operations teams, and SOC analysts for research and remediation of Security vulnerabilities, controls, and settings. The Senior Endpoint Security Engineer be primarily responsible for but not limited to the following functions:\n\n * Perform Security related tasks, including day-to-day administration, fine tuning to reduce false positives and improve effectiveness and alerting, of Tools related to Endpoint/Host based Security , Data Loss Prevention (DLP), Cloud Security, Malware protection and Security Incident Event Management.\n * Ensure that Security tools are performing optimally, and events are detected in time to provide quick response and remediation of Security incidents.\n * Work on Service desk requests, Incident tickets and troubleshoot issues to assist Incident management teams.\n\n\n\n\nWHAT YOU'LL NEED TO SUCCEED\n\n * Bachelor’s degree in computer science or other technical disciplines or equivalent relevant experience.\n * 5+ years in an IT Security Engineering or Operations role with a focus on Endpoint Security Management tools.\n * Intermediate to Expert level knowledge is highly desired on Tanium Endpoint Management or equivalent in any of the following Platforms:\n   * SentinelOne Singularity Platform.\n   * CrowdStrike Falcon.\n   * Trend Micro XDR.\n   * Microsoft Defender for Endpoint.\n   * Cybereason Defense Platform.\n * Familiarity with International Security standards and Industry framework like ISO 27001/27002, PCI DSS and SOX.\n * In depth knowledge of Critical Security Controls like CIS Benchmarks, DISA STIG standards etc.\n * In depth knowledge and expertise with Infrastructure hardening and Security settings for Windows and Linux.\n * Intermediate to Expert level knowledge on Windows & Active Directory, Unix/Linux Operating Systems.\n * Good scripting knowledge using PowerShell, Python, Linux shell is desired.\n * Basic knowledge of Cloud computing, Virtualization concepts and PaaS/SaaS services.\n * Basic knowledge of TCP/IP and HTTP protocols.\n * Self-motivated and works independently with minimal guidance.\n * Strong team player who collaborates to meet deliverables and achieve strategic goals.\n * Detail oriented with excellent analytical ability and problem-solving skills.\n * Professional, clear, and concise communications.\n\n\n\nPreferred IT Certifications:\n\n * Tanium Certified Administrator (TCA).\n * Vendor certifications on Endpoint Security Tools from Microsoft, Trend Micro, McAfee or CrowdStrike.\n * CISSP or other Security certification from ISACA, ISC2, GIAC, EC-Council, or CompTIA.\n * Microsoft or Linux/Unix Certifications.\n * Ready to make a bigger impact? We look forward to reviewing your application.\n\n\n\nThis position is eligible for a bonus in accordance with the terms of the applicable incentive plan. In addition, we're proud to offer a range of competitive benefits, a summary of which can be viewed here: 2025 Benefits Summary\n\n\n\nVeterans are encouraged to apply.\n\n\n\n#LI-RG4\n\n#Cybersecurity #InfoSec\n\n\n\nAt AIG, we value in-person collaboration as a vital part of our culture, which is why we ask our team members to be primarily in the office. This approach helps us work together effectively and create a supportive, connected environment for our team and clients alike.\n\n\n\nEnjoy benefits that take care of what matters\n\nAt AIG, our people are our greatest asset. We know how important it is to protect and invest in what’s most important to you. That is why we created our Total Rewards Program, a comprehensive benefits package that extends beyond time spent at work to offer benefits focused on your health, wellbeing and financial security—as well as your professional development—to bring peace of mind to you and your family.\n\n\n\nReimagining insurance to make a bigger difference to the world\n\nAmerican International Group, Inc. (AIG) is a global leader in commercial and personal insurance solutions; we are one of the world’s most far-reaching property casualty networks. It is an exciting time to join us — across our operations, we are thinking in new and innovative ways to deliver ever-better solutions to our customers. At AIG, you can go further to support individuals, businesses, and communities, helping them to manage risk, respond to times of uncertainty and discover new potential. We invest in our largest asset, our people, through continuous learning and development, in a culture that celebrates everyone for who they are and what they want to become.\n\n\n\nWelcome to a culture of inclusion\n\nWe’re committed to creating a culture that truly respects and celebrates each other’s talents, backgrounds, cultures, opinions and goals. We foster a culture of inclusion and belonging through learning, cultural awareness activities and Employee Resource Groups (ERGs). With global chapters, ERGs are a cornerstone for our culture of inclusion. The talent of our people is one of AIG’s greatest assets, and we are honored that our drive for positive change has been recognized by numerous recent awards and accreditations.\n\n\n\nAIG provides equal opportunity to all qualified individuals regardless of race, color, religion, age, gender, gender expression, national origin, veteran status, disability or any other legally protected categories.\n\n\n\nAIG is committed to working with and providing reasonable accommodations to job applicants and employees with disabilities. If you believe you need a reasonable accommodation, please send an email to candidatecare@aig.com.\n\n\n\nFunctional Area:\n\nIT - Information Technology\n\n\n\nAIG Employee Services, Inc.\n\n",
+  "job_posted_date": "2025-09-27T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3e73da0a602355faf1fd8&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_d589dbb1&cb=1759086110632&jobListingId=1009855417306",
+  "company_url": "https://glassdoor.com/Overview/Working-at-AIG-EI_IE40.11,14.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Insurance Carriers",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "AIG",
+  "company_headquarters_location": {
+    "city": "new york",
+    "unknown": "New York, United States"
+  },
+  "company_sizes_str": "10000+ Employees",
+  "company_size": null,
+  "company_website": "https://www.aig.com",
+  "company_revenue": "$10+ billion (USD)",
+  "company_description": null,
+  "company_foundation_date": "1919-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/5711331/crisis24-squarelogo-1646295038995.png",
+  "company_name": "Crisis24 Limited",
+  "job_title": "GSOC Analyst",
+  "job_description": "About Crisis24\n\nCrisis24, a GardaWorld company, is widely regarded as the leading integrated risk management, crisis response, consulting, and global protective solutions firm, serving the world's most influential people, disruptive brands, and prominent organizations. Championed by our advanced Global Operation Centers and our skilled team of intelligence analysts, we offer highly specialized services, security and consulting, with the technology and AI to power it all across the globe.\n\nAt Crisis24, we go beyond mere employment; we pave the way to a realm where your skills become instrumental in shaping global security, guiding clients through a multifaceted and challenging landscape. Your journey with us will be deeply fulfilling, driven by a powerful sense of purpose and accomplishment. Within our thriving environment, you'll discover abundant chances for both personal and career advancement. Seize this moment to push your limits, broaden your expertise, and elevate your professional journey to unprecedented levels. Join the Crisis24 team today and be a part of something extraordinary where growth and impact converge.\n\nMore information is available at www.crisis24.garda.com\n\nThis position operates on-site. This is not a Cybersecurity position.\nThe embedded GSOC (Global Security Operations Center) Analyst position is focused on 24/7 security operations and serves as the client’s single point of contact. Candidates must be detail-oriented, have a strong aptitude for communication and analytical thinking when responding to events, as well as having a team-first mentality. Daily responsibilities will focus on monitoring global events and reports from a variety of security systems and tools. Analysts must be able to effectively comprehend data and compose clear and effective communications that will have a global audience.\nEssential Functions\n\n * Provide exceptional customer service via email, real-time messaging applications, and phone calls.\n * Monitor and respond to a large volume of emails, messages, and posts.\n * Handle a wide variety of administration duties.\n * Effectively and calmly manage communications of all kinds with people experiencing distressing and potentially life-threatening emergencies.\n * Write incident reports in the assigned format ensuring they are sent with correct grammar and spelling to provide situational awareness and communicate risks to the leadership.\n * Collect, evaluate, and disseminate intelligence to support action plans based on credibility and likelihood.\n * Assist in the planning and execution of risk assessment projects.\n * Contribute to procedures and processes to standardize and enhance risk management.\n * Work with the company’s various departments to assist the Management in understanding and implementing procedures and policies.\n * Provide emergency and non-emergency security system monitoring, event dispatch, and emergency notification services.\n * Process and maintain a wide variety of SOPs (Standard Operating Procedures), ERPs (Emergency Response Plans), documents, files, logs, reports, and forms.\n * Analyze information using multiple external sources to identify and prevent potential threats or risks affecting company assets.\n\nNote: This Job Description is not a comprehensive list of all required activities, duties, or responsibilities as these may change at the discretion of the leadership at any time with or without notice.\nQualifications\n\n * GSOC or security operations experience: 1 year – Preferred\n * PSA License Preferred\n * Possess a 4-year degree in a related field or have equivalent work or military experience in security operations or in a GSOC/SOC/GOC.\n\nAdditional Requirements\n\n * Have an interest or direct experience in executive protection, security operations, critical incident management , or corporate security.\n * Be well-versed in current technologies and open-source search methodologies.\n * Be a competent user of Microsoft Suite and Google Suite.\n * Be able to use multiple systems simultaneously whilst working at a fast pace .\n * Be able to communicate effectively, both verbally and in writing.\n * Be able to maintain a professional demeanor during stressful situations.\n * Be able to quickly adapt and excel in dynamic situations.\n * Have excellent organizational and time management skills.\n * Have a demonstrated history of effective conflict resolution skills.\n * Maintain composure in dealing with authorities, executives, clients, staff, and occasionally the public.\n * Be able to attend infrequent training events and meetings that fall outside normal working hours.\n * Be fully flexible to work 12-hour shifts both days and nights, including weekends and holidays.\n * Pass pre-employment background investigation.\n * Participation in random drug screenings.\n * W illing to be evaluated for writing and software proficiency.\n\nWork Environment & Physical/Mental Demands\n\n * With or without reasonable accommodation, the physical and mental capacity to effectively perform all essential functions is required.\n * Must undergo and meet company standards for background and reference checks.\n * Exposure to sensitive and confidential information.\n * Regular computer usage.\n * Ability to handle multiple tasks concurrently.\n * Manual dexterity required for occasional reaching and lifting of small objects and operating office equipment.\n * Frequent sitting and/or standing.\n\nInformation Security\nProtect the data and systems of Crisis24 and its stakeholders by adhering to policies, reporting incidents and potential problems, completing regular training, and identifying opportunities for improvement.\n\nCrisis24, A GardaWorld Company is dedicated to equal opportunity in employment. We are committed to a work environment that celebrates diversity. We do not discriminate against any individual based on race, color, sex, national origin, age, religion, marital or parental status, sexual orientation, gender identity, gender expression, military or veteran status, disability, or any factors protected by applicable laws.",
+  "job_posted_date": "2025-09-14T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3e591ab128481ff259423&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_b20cbc99&cb=1759086110946&jobListingId=1009875925364",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Crisis24-EI_IE5711331.11,19.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Security and protective",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Crisis24",
+  "company_headquarters_location": {
+    "city": "fort lauderdale",
+    "unknown": "Fort Lauderdale, United States"
+  },
+  "company_sizes_str": "501 to 1000 Employees",
+  "company_size": null,
+  "company_website": "crisis24.garda.com",
+  "company_revenue": "Unknown / Non-Applicable",
+  "company_description": null,
+  "company_foundation_date": "1990-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/8344/icon-squarelogo-1552408072044.png",
+  "company_name": "ICON plc",
+  "job_title": "Principal Analyst, Cyber & Information Security – Third Party Risk & GRC",
+  "job_description": "Manager, Cyber & Information Security - Hybrid - Dublin, Ireland\n\nICON plc is a world-leading healthcare intelligence and clinical research organization. We’re proud to foster an inclusive environment driving innovation and excellence, and we welcome you to join us on our mission to shape the future of clinical development\n\nAbout the role:\n\nOffice Hybrid - 60% office-based in Leopardstown, Dublin 18; 40% remote.\n\nWe are currently recruiting an experienced and driven Information Security Manager to work across key functions within our Information Security program, with a focus on Third Party Risk Management (TPRM) and Governance, Risk & Compliance (GRC). Reporting to the Senior Director of Information Security, this role will be instrumental in assessing and managing supplier risk, responding to third-party incidents, and driving strategic enhancements to our TPRM framework. In addition, the role will support internal and external audit activities, client security assessments, and ensure ongoing compliance with our information security certifications.\n\nKey responsibilities will include:\n\nThird Party Risk Management (TPRM)\n * Lead and execute supplier risk assessments, including initial due diligence and ongoing monitoring.\n * Maintain and enhance operational processes related to supplier management and periodic reviews.\n * Collaborate with Procurement, Legal, Data Privacy and Business stakeholders to ensure alignment on third-party risk requirements and assessment outcomes.\n * Manage third-party security incidents, coordinating response efforts and remediation activities.\n * Maintain the third-party corrective actions register, treatment plans and ensure timely updates and closure.\n * Management of third-party continuous security monitoring and ratings platforms.\n * Drive strategic initiatives to mature the TPRM program, including continuous monitoring, automation, metrics, and reporting.\n * Perform TPRM activities in accordance with company policies and industry standard frameworks (e.g., ISO 27001, NIST CSF, CIS, Cloud Security Alliance).\n * Stay current on emerging information security threats, incidents, and trends, and assess their potential impact on the organisation and our suppliers.\n\n\nGovernance, Risk & Compliance (GRC)\n * Support internal and external information security audits, including evidence collection, coordination with control owners, and remediation tracking.\n * Respond to client security questionnaires and due diligence requests in collaboration with Sales and Business stakeholders.\n * Assist in maintaining compliance with information security certifications.\n * Contribute to the development and maintenance of security policies, standards, and procedures.\n * Perform GRC activities in accordance with company policies and industry standard frameworks (e.g., ISO 27001, NIST CSF).\n * Stay current on new or emerging information security standards and regulatory requirements.\n\n\nDesired Qualifications and Experience\n * 8+ years of experience in Information Security, with a focus on TPRM and/or GRC.\n * Relevant certifications (e.g., CISM, CRISC, CISSP, ISO Lead Auditor/Implementer, SANS GCLD, SANS GSLC) are a plus.\n * Strong understanding of risk management frameworks and information security standards (e.g., ISO 27001, NIST, SOC 2, Cloud Security).\n * Experience managing supplier incidents, defining treatments plans and managing to closure.\n * Familiarity with audit processes and compliance reporting.\n * Demonstrate a strong awareness of the current threat landscape.\n * Ability to work independently and drive initiatives in a fast-paced environment.\n\n\n#LI-Hybrid\n#LI-MK2\n\nWhat ICON can offer you:\n\nOur success depends on the quality of our people. That’s why we’ve made it a priority to build a diverse culture that rewards high performance and nurtures talent.\n\nIn addition to your competitive salary, ICON offers a range of additional benefits. Our benefits are designed to be competitive within each country and are focused on well-being and work life balance opportunities for you and your family.\n\nOur benefits examples include:\n * Various annual leave entitlements\n * A range of health insurance offerings to suit you and your family’s needs.\n * Competitive retirement planning offerings to maximize savings and plan with confidence for the years ahead.\n * Global Employee Assistance Programme, TELUS Health, offering 24-hour access to a global network of over 80,000 independent specialised professionals who are there to support you and your family’s well-being.\n * Life assurance\n * Flexible country-specific optional benefits, including childcare vouchers, bike purchase schemes, discounted gym memberships, subsidised travel passes, health assessments, among others.\n\n\nVisit our\ncareers site\nto read more about the benefits ICON offers.\n\nAt ICON, inclusion & belonging are fundamental to our culture and values. We’re dedicated to providing an inclusive and accessible environment for all candidates. ICON is committed to providing a workplace free of discrimination and harassment. All qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.\n\nIf, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please let us know\n\nInterested in the role, but unsure if you meet all of the requirements? We would encourage you to apply regardless – there’s every chance you’re exactly what we’re looking for here at ICON whether it is for this or other roles.\n",
+  "job_posted_date": "2025-09-10T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3e736816cbdb4cd873471&src=GD_JOB_AD&t=NS&vt=w&cs=1_781dfd7f&cb=1759086111212&jobListingId=1009773960724",
+  "company_url": "https://glassdoor.com/Overview/Working-at-ICON-EI_IE8344.11,15.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [
+    "Spain Trip at the year end",
+    "They are very supportive in this scenario",
+    "a number of voluntary benefits are offered"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Biotech & Pharmaceuticals",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "ICON",
+  "company_headquarters_location": {
+    "city": "dublin",
+    "unknown": "Dublin, Ireland"
+  },
+  "company_sizes_str": "10000+ Employees",
+  "company_size": null,
+  "company_website": "https://www.iconplc.com",
+  "company_revenue": "$25 to $50 million (USD)",
+  "company_description": null,
+  "company_foundation_date": "1990-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1950127/sumitomo-group-squarelogo-1603119057507.png",
+  "company_name": "Sumitomo Group Public Affairs Committee",
+  "job_title": "Cyber Security Incident Response Specialist",
+  "job_description": "SMBC Group is a top-tier global financial group. Headquartered in Tokyo and with a 400-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG’s shares trade on the Tokyo, Nagoya, and New York (NYSE: SMFG) stock exchanges.\n\n\n\n\nIn the Americas, SMBC Group has a presence in the US, Canada, Ireland, Mexico, Brazil, Chile, Colombia, and Peru. Backed by the capital strength of SMBC Group and the value of its relationships in Asia, the Group offers a range of commercial and investment banking services to its corporate, institutional, and municipal clients. It connects a diverse client base to local markets and the organization’s extensive global network. The Group’s operating companies in the Americas include Sumitomo Mitsui Banking Corp. (SMBC), SMBC Nikko Securities America, Inc., SMBC Capital Markets, Inc., SMBC MANUBANK, JRI America, Inc., SMBC Leasing and Finance, Inc., Banco Sumitomo Mitsui Brasileiro S.A., and Sumitomo Mitsui Finance and Leasing Co., Ltd.\n\n\n\n\n * This is a hybrid role, requiring the successful candidate to attend our Tralee office.\n\n\nROLE DESCRIPTION\n\nAs a Cyber Incident Response Analyst, you will be a key part of a high performing SOC team, with a desire to continually improve and advance our capabilities to protect SMBC Group. You will bring your passion for Cybersecurity to a team of like-minded professionals and leverage this passion to ensure our monitoring and response capabilities are effective and efficient and that we keep pace with a rapidly changing threat landscape.\n\nYou will relish your core role in supporting the monitoring and response of cyber security alerts and incidents by digging into and investigating them to find the root cause and identifying the gap in controls that allowed a threat to reach that point in the kill chain. If you identify an incident, you will lead that technical analysis, tracking down the actions of that threat actor as part of the incident response, while supported by the wider Incident response process and members of the SOC and CSIRT teams. If you identify a false positive, you will drive the effort to tune or refine our detections, or to drive improvements to our preventative controls to prevent a recurrence, freeing more time for the SOC to focus on improving our skills and capabilities. With your knowledge and expertise, you will develop and hone the SOC through work-product review, mentoring, and ownership of projects to develop the technical capabilities of the SOC.\n\nAs part of a wider team of SOC analysts, you are able to focus on an area you are passionate about, or if sufficiently experienced, take the lead. You will develop deep expertise and expand our capabilities in domains ranging from across Purple Teaming, Threat hunting, Digital Forensics and Incident Response (DFIR), Security Automation, Detection Engineering and Threat Intelligence and share this knowledge to develop the depth of knowledge of the SOC. As part of a Financial Group with offices and data centers across the Globe, you will have access and exposure to leading technologies and tools. If there is a gap in our toolset, you can help us identify and bridge that gap by acting as Subject Matter Expert to do so. You will bring fresh ideas, challenge the status quo, and seek always to answer - how can we improve?\n\nThis role is best suited for candidates who enjoy and have experience within SOC or CSIRT teams and enjoy investigating and finding the root of an issue or incident and working on getting the most from leading edge security toolsets and platforms and processes. Candidates who excel will think critically to find ways to resolve security challenges. This role would suit an experienced and self-motivated cyber security professional with strong technical skills and knowledge combined with a passion for cyber security.\n\n\n\n\nNote: Expectation is to be onsite once a month for this role.\n\n\nROLE OBJECTIVES\n\n * Act as technical lead in the development and enhancement of capabilities such as Cyber Monitoring & Response/Purple Teaming/Threat Hunting/Digital Forensics/Incident Response\n * Act as an escalation point for the analysis of security alerts or technical response to security events and incidents\n * Review and guide the SOC personnel for well-written, complete, and thorough analysis\n * Mentor and guide more junior SOC personnel sharing your knowledge and expertise.\n * Develop and improve monitoring & response playbooks.\n * Conduct proactive threat hunting and DFIR activities.\n * Develop deep expertise in our monitoring systems and technology to act as an SME in working with our detection engineering and automation teams to enhance our abilities to prevent, detect & respond.\n * Identify and test new adversary TTPs and our ability to detect and respond to them.\n * Identify opportunities for efficiency, work hand in hand with Security Automation team to automate and improve our response processes.\n * Assist in the implementation and ongoing support of security systems, acting as an SME for SOC related projects.\n * Execute tasks or support projects to enhance team’s capabilities.\n * Assist in defining SOC requirements for information technology projects.\n * Act as a role model and set the standard for technical analysis within the SOC.\n * Providing strong mentorship and guidance to more junior SOC team members by acting and leading by example. Bring a positive outlook and seek to motivate and inspire your fellow team members.\n * Demonstrate comprehensive understanding of cyber security best practices, risk vectors, mitigation techniques and protection software. Display knowledge of network security concepts and tools such as firewalls, proxy servers, email security and suspicious traffic flows. Exhibit analytical ability to lead incident response and mitigation efforts as well as identify key areas for improvement from post-incident analysis. Show ability to convey cyber security polices and concepts to employees and lead training efforts to ensure all employees follow recommended best practices relating to cyber security.\n * Strong understanding of MITRE ATT&CK Cyber Kill Chain and similar frameworks.\n * Strong knowledge of security controls related to the detection, analysis, and response (SIEM, EDR, NDR, XDR, UEBA).\n * Strong knowledge of Windows and Linux systems, Active Directory, Cloud technologies.\n\n\nQUALIFICATIONS AND SKILLS\n\n * 5+ years of experience in cyber security experience required, ideally in a SOC, DFIR, or CSIRT role.\n * Strong verbal and written communication skills with experience in documenting their work to a high level.\n * Professional Certifications an advantage but not essential if have requisite role knowledge, GCIH, GNFA, GFCA, Certified Ethical Hacker (CEH), OSCP, CISSP or similar certifications a plus.\n * Must be self-directed with the ability to work independently.\n * Ability to multi-task and remain productive in a service-driven and results oriented environment.\n * Demonstrated strong organizational, analytical, and problem-solving skills.\n\n\n\nADDITIONAL REQUIREMENTS\n\n\n\nSMBC’s employees participate in a hybrid workforce model that provides employees with an opportunity to work from home, as well as, from an SMBC office. SMBC requires that employees live within a reasonable commuting distance of their office location. Prospective candidates will learn more about their specific hybrid work schedule during their interview process.\n\n\n\n\nSMBC provides reasonable accommodations during candidacy for applicants with disabilities consistent with applicable federal, state, and local law. If you need a reasonable accommodation during the application process, please let us know at accommodations@smbcgroup.com.",
+  "job_posted_date": "2025-09-25T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Tralee",
+    "city": "tralee",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3e90bb10e0c973241506a&src=GD_JOB_AD&t=NS&vt=w&cs=1_d85905e2&cb=1759086111239&jobListingId=1009887221885",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Sumitomo-Group-EI_IE1950127.11,25.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Sumitomo Group",
+  "company_headquarters_location": {
+    "city": "tokyo",
+    "unknown": "Tokyo, Japan"
+  },
+  "company_sizes_str": "10000+ Employees",
+  "company_size": null,
+  "company_website": "www.sumitomo.gr.jp",
+  "company_revenue": "$10+ billion (USD)",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/9777/sonicwall-squareLogo-1758898189351.png",
+  "company_name": "SonicWall, Inc.",
+  "job_title": "SOC Manager",
+  "job_description": "SonicWall is a cybersecurity forerunner with more than 30 years of expertise and is recognized as a leading partner-first company, ensuring our partners and their customers are never alone in the fight against cybercrime. With the ability to build, scale and manage security across the cloud, hybrid and traditional environments in real-time, SonicWall provides relentless security against the most evasive cyberattacks across endless exposure points for increasingly remote, mobile and cloud-enabled users. With its own threat research center, SonicWall can quickly and economically provide purpose-built security solutions to enable any organization—enterprise, government agencies and SMBs—around the world. For more information, visit www.sonicwall.com or follow us on Twitter, LinkedIn, Facebook and Instagram.\n\n\n\n\nWe are seeking an experienced Tier 3 Threat Analyst- SOC, Manager to help build, lead, and mature an EMEA-based SOC team for a global MDR provider with 24x7 operations. This role combines hands-on technical expertise, leadership, and strategy to drive the success of our Managed Detection & Response (MDR) and SOC-as-a-Service offerings.\n\n\nKEY RESPONSIBILITIES\n\nSOC Leadership & Operations\n\n * Design, recruit, and develop a high-performing EMEA SOC team.\n\n * Partner with the global SOC Operations Leader to train, mentor, and manage analysts.\n\n * Define, track, and report on KPIs to ensure consistent SOC performance.\n\n * Enforce SOC operational standards, processes, and escalation practices.\n\nThreat Detection & Response\n\n * Lead triage, investigation, and escalation of validated security incidents.\n\n * Notify clients of incidents and guide mitigation efforts.\n\n * Conduct proactive threat hunting to detect and contain emerging threats.\n\n * Fine-tune XDR/SIEM rules to reduce false positives and detect missed threats.\n\n * Perform forensic analysis and vulnerability assessments when needed.\n\nIntelligence & Research\n\n * Collect and analyze global threat intelligence to strengthen defenses.\n\n * Proactively monitor security sources for potential client impacts.\n\n * Share threat reports, advisories, and corrective action guidance.\n\n * Actively participate in security forums to stay ahead of evolving attack patterns.\n\nTechnical Expertise\n\n * Interpret and analyze logs from diverse sources (firewalls, IDS, Windows DC, access systems, EPP/EDR, email security, etc.).\n\n * Maintain hands-on expertise across IDS/IPS, firewalls, VPNs, SIEM, XDR, and EDR tools.\n\n * Apply knowledge of ITIL processes including Incident, Problem, and Change Management.\n\n\nESSENTIAL SKILLS & EXPERIENCE\n\n * 8+ years as a Tier 3 SOC Analyst (MDR experience strongly preferred).\n\n * Proven track record leading or managing SOC teams in global environments.\n\n * Deep knowledge of TCP/IP traffic analysis, log analysis, and incident response workflows.\n\n * Hands-on experience with IDS/IPS, Firewalls, VPNs, SIEM, EDR, and XDR solutions.\n\n * Familiarity with major firewall platforms (SonicWall, Checkpoint, Cisco, Fortinet, Palo Alto).\n\n * Experience with threat hunting, vulnerability assessments, and cloud security.\n\n * Strong communication skills for internal collaboration and client-facing updates.\n\n\nPREFERRED QUALIFICATIONS\n\n * Security certifications such as CISM, CND Analyst, or equivalent.\n\n * Forensic analysis experience is a plus.\n\n * Cloud security architecture expertise is a plus.\n\n\n\n\n#LI-KB7\n\n#LI-Ireland\n\n#LI-Remote\n\nSonicWall is an equal opportunity employer.\n\nWe are committed to creating a diverse environment and are an equal opportunity employer. All qualified applicants receive consideration for employment without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law.\n\nAt SonicWall, we pride ourselves on recruiting a diverse mix of talented people and providing active security solutions in 100+ countries.\n\nApplicant Privacy Notice",
+  "job_posted_date": "2025-09-12T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Cork",
+    "city": "cork",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3ec5b89ace77a3b50eedd&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_8a43fd36&cb=1759086111946&jobListingId=1009874891170",
+  "company_url": "https://glassdoor.com/Overview/Working-at-SonicWall-EI_IE9777.11,20.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [
+    "Paid time off which increase with service "
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Enterprise Software & Network Solutions",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "SonicWall",
+  "company_headquarters_location": {
+    "city": "milpitas",
+    "unknown": "Milpitas, United States"
+  },
+  "company_sizes_str": "1001 to 5000 Employees",
+  "company_size": null,
+  "company_website": "https://www.sonicwall.com",
+  "company_revenue": "$500 million to $1 billion (USD)",
+  "company_description": null,
+  "company_foundation_date": "1991-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "Alchemy Telco Solutions Ltd",
+  "job_title": "Senior Security Analyst",
+  "job_description": "KEY RESPONSIBILITIES\n\nThe Senior Technical Security Analyst:\n\n * Support the ongoing operation of the ISO 27001-aligned Information Security Management System (ISMS), including evidence collection, control implementation, and audit readiness.\n\n * Work with DevOps and cloud teams to implement and monitor security controls across AWS infrastructure and services (e.g., EC2, IAM, S3, RDS).\n\n * Manage and operationalise vulnerability management using tools like Tenable, AWS Inspector, and Snyk: schedule scans, triage findings, and track remediation efforts.\n\n * Administer and ensure compliance of endpoints using Jamf (macOS) and Microsoft Intune (Windows).\n\n * Monitor alerts and findings from AWS-native tools (e.g., GuardDuty, Security Hub) and assist in coordinating incident response activities.\n\n * Produce and maintain management reports and dashboards detailing:\n\n * Vulnerability status and trends\n\n * ISMS control effectiveness\n\n * Endpoint security compliance\n\n * Audit readiness and risk treatment status\n\n * Support maintenance of ISMS documentation, including SoA, risk assessments, corrective actions, and control mapping.\n\n * Participate in internal and external audits by preparing evidence and delivering technical walkthroughs.\n\n * Support policy implementation, training activities, and DevOps-aligned security processes.\n\n * Prepare the organisation for also achieving SOC 2 certification\n\n * Specify and implement security and compliance protocols for Alchemy SaaS products\n\n * Begin to identify and work with tooling and partners to initiate the creation of a hybrid external/internal SOC.\n\n * Contribute to incident response testing and post-incident reviews when applicable.\n\n * Sets a positive example throughout the organization for quality and responsibility\n\n * Prepares all necessary project documentation and processes to enable ongoing support of Alchemy’s software products\n\n\n\n\nThe above list is not exhaustive, and you may be asked to undertake reasonable additional duties/ projects by Management.\n\n\n\n\nSELECTION CRITERIA\n\n\n\n\nYour Behaviors:\n\n\n\n\n * Detail-oriented and thorough, especially in documenting controls , reporting and audit evidence.\n\n * Collaborative and approachable—able to work cross-functionally with engineering, DevOps, and IT.\n\n * Proactive and self-driven, with a strong sense of ownership over technical security operations.\n\n * Clear communicator—able to explain security concepts to both technical and non-technical stakeholders.\n\n * Analytical mindset—adept at identifying patterns, prioritising risks, and suggesting practical mitigation strategies.\n\n * Organised and efficient, with the ability to manage multiple workstreams and deadlines in a compliance-focused environment.\n\n * Confident – You embrace having open and candid discussions with individuals at all levels both internally and with the Client\n\n * Decisive – you have a keen sense of prioritization and make intelligent decisions independently\n\n * Motivated – You are a self-starter with the ability to work independently under light supervision\n\n * Reliable - You’re the person stakeholders and peers always want to work with\n\n * Compassionate - You understand that people are at the core of success\n\n * Data driven – Information is your friend; you love to use facts and evidence to help ensure success for the team and our customers\n\n\n\n\nQualifications, Knowledge, Skills and Experience\n\n\n\n\nESSENTIAL:\n\n * Bachelor’s degree in Information Security, Computer Science, or a related field or significant alternative relevant technical security industry experience.\n\n * 5+ years of hands-on experience in technical security roles in a SaaS coontext, with a focus on ISO 27001, SOC, AWS, and vulnerability management.\n\n * At least 2 years team lead experience in a 24x7 global SOC\n\n * Experience with AWS security tools and services in a production SaaS environment.\n\n * Experience with Tenable and/or similar tools for vulnerability management.\n\n * Familiarity with Jamf and Intune for endpoint compliance and hardening.\n\n * Good understanding of network security fundamentals, including cloud networking, segmentation, firewalls, and VPNs.\n\n * Ability to generate and present clear and actionable security and compliance reports to stakeholders.\n\n * Experience with DevOps tools, infrastructure-as-code, and CI/CD pipelines.\n\n\n\n\nDESIRABLE:\n\n\n\n\n * CISSP\n\n * PECB ISO 27001 Lead Implementer or Auditor certification.\n\n * AWS Certified Security – Specialty or equivalent AWS certification.\n\n * Awareness of GDPR, NIST and related standards.\n\n",
+  "job_posted_date": "2025-09-08T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Ireland",
+    "city": "ireland",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3ec2b986aea3dd43f7383&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_e2ba6b71&cb=1759086112016&jobListingId=1009869255181",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Alchemy-Telco-Solutions-EI_IE10429420.11,34.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Alchemy Telco Solutions",
+  "company_headquarters_location": {
+    "city": "kildare",
+    "unknown": "Kildare, Ireland"
+  },
+  "company_sizes_str": "51 to 200 Employees",
+  "company_size": null,
+  "company_website": "www.wearealchemy.com",
+  "company_revenue": "Unknown / Non-Applicable",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/9777/sonicwall-squareLogo-1758898189351.png",
+  "company_name": "SonicWall, Inc.",
+  "job_title": "Junior SOC Analyst",
+  "job_description": "SonicWall is a cybersecurity forerunner with more than 30 years of expertise and is recognized as a leading partner-first company, ensuring our partners and their customers are never alone in the fight against cybercrime. With the ability to build, scale and manage security across the cloud, hybrid and traditional environments in real-time, SonicWall provides relentless security against the most evasive cyberattacks across endless exposure points for increasingly remote, mobile and cloud-enabled users. With its own threat research center, SonicWall can quickly and economically provide purpose-built security solutions to enable any organization—enterprise, government agencies and SMBs—around the world. For more information, visit www.sonicwall.com or follow us on Twitter, LinkedIn, Facebook and Instagram.\n\nA SOC analyst's main objective is to identify, investigate, and escalate alerts and events to safeguard sensitive information from unauthorized access or harm caused by cybercriminals or malicious insiders.\n\nSOC Analysts monitor an organization's infrastructure to identify potential threats, review events that occur within the security stack, pinpoint vulnerabilities, escalating incidents, and advise or deploying mitigation tactics.\n\nResponsibilities\n\n * Provide security monitoring and incident response of cyber security events.\n * Monitor and analyze logs and alerts to identify actionable security incidents.\n * Provide proactive \"threat hunting\" to detect incidents.\n * Provide Incident Response support when analysis confirms actionable incident.\n * Respond to SOC cybersecurity tickets that are sent or replied to by partners.\n * Investigate, document, and report on SOC tickets to ensure timeliness, uniformity, and compliance with documented processes and procedures.\n * Escalate issues or tickets as deemed necessary by following documented procedures or verbally relayed communication.\n * Stay up to date on the latest emerging threats and tactics.\n\nPlease note : **This role is for our night shift within the EMEA SOC, which runs from Sunday to Thursday, 8:00 PM to 04:30 AM**\n\n\n\n\n#LI-KB7\n\n#LI-Ireland\n\n#LI-Remote\n\n#LI-SOC\n\n#LI-SOCAnalyst\n\nSonicWall is an equal opportunity employer.\n\nWe are committed to creating a diverse environment and are an equal opportunity employer. All qualified applicants receive consideration for employment without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law.\n\nAt SonicWall, we pride ourselves on recruiting a diverse mix of talented people and providing active security solutions in 100+ countries.\n\nApplicant Privacy Notice",
+  "job_posted_date": "2025-09-12T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Cork",
+    "city": "cork",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3edd8ac8af92193d8a526&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_c3f29030&cb=1759086112486&jobListingId=1009874999868",
+  "company_url": "https://glassdoor.com/Overview/Working-at-SonicWall-EI_IE9777.11,20.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [
+    "Paid time off which increase with service "
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Enterprise Software & Network Solutions",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "SonicWall",
+  "company_headquarters_location": {
+    "city": "milpitas",
+    "unknown": "Milpitas, United States"
+  },
+  "company_sizes_str": "1001 to 5000 Employees",
+  "company_size": null,
+  "company_website": "https://www.sonicwall.com",
+  "company_revenue": "$500 million to $1 billion (USD)",
+  "company_description": null,
+  "company_foundation_date": "1991-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/3677/mastercard-squarelogo-1468516067022.png",
+  "company_name": "Mastercard Incorporated",
+  "job_title": "Lead Technology Risk Analyst - Tech Risk & Control Lifecycle",
+  "job_description": "Our Purpose\n\n\n\nMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.\n\n\n\nTitle and Summary\n\n\n\nLead Technology Risk Analyst - Tech Risk & Control Lifecycle\n\n\n\nOverview:\n\nTR&C is a business enabler and industry leader, empowering Mastercard to provide regulators, auditors, and customers with assurance of our strong practices around risk management, control best practices, data, operational resiliency, IT operations, and security. We provide governance, tools and frameworks to frontline programs to ensure a secure and resilient technology control environment— empowered by a multi-disciplinary team of top technology and risk professionals.\nOur mission is to provide best-in-class: risk and control governance, methodology and best practices\n\n * comprehensive risk assessments and audit/issue support\n * frontline control testing and validation\n * service level management across critical domains (i.e., change management, incident management)\n\n\nWe provide risk intelligence and analysis, and streamline and scale assurance activities through automation, reusability, and self-service.\n\nResponsibilities:\n\no Execute product and infrastructure risk assessments in alignment with Mastercard’s Risk Management framework and industry best practices.\no Advise and assist with the implementation of technology and information security policies and strategies, promoting a culture of risk awareness and compliance.\no Support the optimization of technology risk and controls activities to demonstrate technology compliance across multiple markets, leveraging common elements and focusing on reusability.\no Identify opportunities within the risk management lifecycle for automation, leveraging existing service operations tools to drive efficiency and consistency across the business.\no Maintain and enhance templates used for risk management activities, such as risk assessments and risk and control self-attestations, based on industry best practices.\no Collaborate with technology partners - Engineering, Business Operations, Security Leads, and Risk Management teams to understand and translate technology and security risk management requirements, perform gap analysis, provide recommendations, and assist in developing remediation plans.\no Assist with the design and implementation of controls to demonstrate compliance with technology and security standards and associated control requirements, supporting remediation approaches to ensure tracking and closure of gaps.\no Evaluate the current state of controls in relation to industry best practices and Mastercard standards, providing recommendations to enhance controls maturity.\no Share best practices and leverage trend analysis to execute business and cross-functional strategies around managing obligations.\no Report on technology and security risk and compliance trends, assisting in risk treatment, including exception and escalation awareness.\n\nExperience:\n\no Strong foundation of risk management fundamentals, lifecycle and processes (e.g., methods for identifying, assessing, treating, and monitoring risk).\no Prior experience executing Tech risk and control activities (e.g., RCSA, Internal/external audits, risk assessments, SOC2/ISO/PCI) in first, second or third line of defense\no Background in technology audit, risk management, technology operations, information systems management, information security management, etc.\no Strong knowledge of baseline technology and security processes, risks, and controls. Tech and Information Security control testing experience preferred\no Familiarity with technology/security frameworks and mechanisms (e.g., SOC 1, SOC 2, PCI-DSS, ISO 27001, COBIT, CRI).\no Understanding of regulatory technology and security risk management expectations.\no Knowledge of current and emerging technologies and their potential for exploitation.\no Experience collaborating cross-functionally and geographically to identify and implement best practice risk processes.\no Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership to drive results.\n\n\n\nCorporate Security Responsibility\n\n\nAll activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:\n\n * Abide by Mastercard’s security policies and practices;\n\n * Ensure the confidentiality and integrity of the information being accessed;\n\n * Report any suspected information security violation or breach, and\n\n * Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.\n\n",
+  "job_posted_date": "2025-09-20T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3f2dfb519b238420f5f7e&src=GD_JOB_AD&t=NS&vt=w&cs=1_256d9a01&cb=1759086113613&jobListingId=1009882263072",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Mastercard-EI_IE3677.11,21.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [
+    "16 weeks paternity leave generous",
+    "Depends on arrangements. Generally need to be in office 3 times a week",
+    "25 days per year paid"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Financial Transaction Processing",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Mastercard",
+  "company_headquarters_location": {
+    "city": "purchase",
+    "unknown": "Purchase, United States"
+  },
+  "company_sizes_str": "10000+ Employees",
+  "company_size": null,
+  "company_website": "https://bit.ly/3F3ByHW",
+  "company_revenue": "Unknown / Non-Applicable",
+  "company_description": null,
+  "company_foundation_date": "1966-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/9522/unum-squareLogo-1675712662575.png",
+  "company_name": "Unum Group",
+  "job_title": "Senior Application Security Engineer",
+  "job_description": "Our Story\nUnum Technology Centre in Carlow serves as a strategic software development and IT services centre supporting Unum, a leading provider of income protection in the US. Our team of IT professionals build solutions and critical business applications to digitally transform the way we do business.\n\n\n\nWe’re looking for a Senior Application Security Engineer to lead the integration of secure development practices across our SDLC in both cloud and on-prem environments. This role combines hands-on technical expertise with strategic influence, focusing on secure architecture, CI/CD automation, and developer enablement. You’ll collaborate with cross-functional teams to drive threat modeling, build secure-by-default tooling, and mentor engineers across Ireland and the US—helping to elevate our overall security maturity and culture.\n\n\n\n\nKEY RESPONSIBILITIES\n\n\nSECURE SOFTWARE DEVELOPMENT & DEVSECOPS INTEGRATION\n\n * Architect and integrate security into CI/CD pipelines using modern automation and guardrails.\n * Develop secure frameworks, SDKs, and CI integrations to enable frictionless adoption of security controls.\n * Maintain secure coding standards and guidance tailored to our technology stack.\n * Collaborate with DevOps and platform teams to enhance container and infrastructure security (Docker, Kubernetes, IaC).\n\n\nTHREAT MODELING, REVIEWS & REMEDIATION\n\n * Lead threat modeling workshops across product and platform teams.\n * Identify and assess vulnerabilities using SAST, DAST, SCA, manual code reviews, and penetration testing.\n * Promote reusable remediation patterns for code and infrastructure vulnerabilities.\n * Leverage threat intelligence to prioritize mitigations based on business risk.\n\n\nENGINEERING & AUTOMATION\n\n * Build and maintain automation tools for vulnerability triage, mitigation, and reporting.\n * Strengthen API security through robust authentication protocols (OAuth 2.0, OpenID Connect, SAML).\n * Integrate with API gateways (e.g., Layer7, MuleSoft) to enforce secure communication and tokenization.\n * Support secure deployment of microservices and distributed systems using best-in-class tooling.\n\n\nSECURITY CULTURE & ENABLEMENT\n\n * Mentor engineers and analysts, fostering secure development capabilities across teams.\n * Lead internal workshops, onboarding sessions, and lunch-and-learns to promote security awareness.\n * Collaborate with Security Champions to build advocacy and threat modeling expertise.\n * Create internal documentation, playbooks, and training materials aligned with real-world threats.\n\n\nCROSS-FUNCTIONAL LEADERSHIP & COLLABORATION\n\n * Act as a bridge between Security, Engineering, and Product teams to align on secure architecture and SDLC practices.\n * Participate in incident response, forensic analysis, and post-incident remediation.\n * Support compliance initiatives (SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR) through technical guidance and documentation.\n * Define and track KPIs to measure and improve security maturity across the organization.\n\n\nREQUIRED QUALIFICATIONS\n\n * 5+ years in application security, software engineering, or a related technical security role.\n * Proficient in at least one modern programming language (e.g., Java, C#, Python, JavaScript).\n * Experience with security tools: SAST, DAST, SCA, IaC scanners, RASP.\n * Strong knowledge of cloud infrastructure (AWS preferred), containers (Docker, Kubernetes), and CI/CD security.\n * Familiarity with OWASP Top 10, ASVS, CVSS, MITRE ATT&CK, STRIDE, and software supply chain security.\n\n\nTECHNICAL SKILLS\n\n * Deep understanding of API security protocols and secure service-to-service communication.\n * Experience with secure artifact/package management and container registries.\n * Ability to script or build internal tools to scale security practices.\n * Hands-on experience with DevSecOps tools (GitHub Actions, Jenkins, GitLab CI, Terraform, etc.).\n\n\nCOMPLIANCE & GOVERNANCE\n\n * Working knowledge of privacy and security regulations (GDPR, CCPA, HIPAA, PCI, SOC 2, ISO 27001).\n * Experience supporting audits, risk assessments, and policy development.\n\n\nPREFERRED QUALIFICATIONS\n\n * Professional certifications (e.g., OSCP, CSSLP, CISSP, Security+).\n * Contributions to open-source security projects or community involvement.\n * Experience with policy-as-code tools (e.g., Open Policy Agent).\n * Familiarity with secure runtimes (e.g., Firecracker), sidecars, or service meshes (e.g., Istio).\n\n\nKEY ATTRIBUTES\n\n * Strategic thinker with a hands-on, problem-solving mindset.\n * Strong communicator, able to engage both technical and non-technical stakeholders.\n * Collaborative leader with a growth mindset and a passion for mentoring.\n * Comfortable navigating fast-paced, cross-functional environments.\n\n\n\n#LI-SF1\n\n#LI-Hybrid\n\n#Hybrid\n\n\n\n\nWhat We Offer\nOur size and successful history in Carlow means we can offer you exceptional development and progression, supported by continual learning programs, IT Certifications & third level tuition reimbursement. We offer work-life-balance with flexible working arrangements (including hybrid) and initiatives in support of your well-being. Our attractive range of benefits and reward initiatives includes competitive compensation, 25 days annual leave, paid health insurance, pension scheme, annual performance-based bonus, paid maternity/paternity/adoptive leave, reward programs, and an opportunity to engage with charity and community activities.\n\n\n\nCompany:\n\nUnum",
+  "job_posted_date": "2025-09-12T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Carlow",
+    "city": "carlow",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3f44993d956f649c967bf&src=GD_JOB_AD&t=NS&vt=w&cs=1_5417cc40&cb=1759086114385&jobListingId=1009841954587",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Unum-EI_IE9522.11,15.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": true,
+  "job_industry": "Insurance Carriers",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Unum",
+  "company_headquarters_location": {
+    "city": "chattanooga",
+    "unknown": "Chattanooga, United States"
+  },
+  "company_sizes_str": "10000+ Employees",
+  "company_size": null,
+  "company_website": "https://www.unum.com",
+  "company_revenue": "$10+ billion (USD)",
+  "company_description": null,
+  "company_foundation_date": "1848-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/246577/sitecore-squareLogo-1643165070191.png",
+  "company_name": "Sitecore",
+  "job_title": "Senior GRC Analyst",
+  "job_description": "About Us:\nAt Sitecore, our mission is to simplify how brands reach, engage, and serve people by delivering intelligent, personalised digital experiences that connect the world. We empower the world’s most iconic brands to build lifelong relationships with their customers—seamlessly, smartly, and at scale.\n\nAs the leading provider of agentic digital experience software, Sitecore brings together content, commerce, and data into one composable platform that enables brands to deliver millions of meaningful, adaptive experiences every day. Trusted by global leaders such as American Express, Porsche, Starbucks, and L’Oréal, Sitecore helps brands transform engagement through experiences that are not only personalised but predictive and dynamic.\n\nOur foundation is our people—a diverse, passionate, and collaborative global team spanning over 25 countries. We believe that every experience matters, and that belief starts with how we work together. Our values—empathy, accountability, clarity, and growth—guide how we lead, innovate, and connect. They are the behaviours that bring our mission and vision to life, every day, in every interaction.\n\nAs we continue to evolve, we are actively cultivating AI skills across our teams to unlock new levels of creativity, efficiency, and insight. From engineering to customer experience, AI capabilities are becoming integral to how we design, build, and deliver the next generation of digital experiences.\n\nLearn more at Sitecore.com\n\nAbout the Role:\nWe are looking for a detail-oriented and proactive Senior GRC (Governance, Risk, and Compliance) Analyst to join our team. This role will be based in Dublin and will support operations aligned with U.S. Central and Eastern time zones. The Senior GRC Analyst will report to the GRC Manager, contributing to the day-to-day execution of compliance programs, audit preparation, risk assessments, and overall security governance efforts.\nThis is a hands-on role, ideal for someone who thrives in a collaborative, fast-paced environment and is passionate about security, compliance, and risk management.\n\nWhat You Will Do:\nGovernance & Compliance\n * Support the implementation and maintenance of compliance programs aligned with frameworks such as ISO 27001, ISO 42001, SOC 2, HIPAA, PCI DSS, GDPR, TISAX, NIST, and IRAP.\n * Develop, implement and maintain security policies, procedures, and controls to ensure alignment with regulatory requirements.\n * Conduct compliance reviews to identify gaps and assist in defining remediation actions.\n * Monitor changes in regulatory requirements and provide input into compliance strategy and updates.\n\nAudit Support\n * Lead and manage internal and external audits for required compliance certifications, ensuring successful audit outcomes.\n * Maintain audit calendars, track deliverables, and ensure readiness for internal and external audits.\n\nRisk Management\n * Support periodic risk assessments, helping to identify, document, and track technology and process risks.\n * Maintain the risk and findings register, ensuring items are regularly updated and monitored for progress.\n\nCross-Functional Collaboration\n * Work closely with teams across Engineering, Product, Legal, Data Protection, Procurement, and Information Technology to support compliance initiatives and ensure timely completion of action items.\n * Provide ongoing support and clarity to teams on compliance tasks and expectations.\n\nReporting & Documentation\n * Assist in preparing and delivering status reports, dashboards, and metrics on GRC activities for leadership and stakeholders.\n * Ensure that compliance documentation is consistently updated and centrally stored (e.g., SharePoint, Confluence).\n\n\nWhat You Need to Succeed:\n * Bachelor’s degree in Information Technology, Cybersecurity, or a related field.\n * Familiarity with industry standards and frameworks such as ISO 27001, ISO 42001, SOC 2, HIPAA, GDPR, PCI DSS, NIST, and others.\n * 5 + years of experience in GRC, risk management, audit support, or compliance roles in a technology-driven environment.\n * Strong attention to detail, organizational skills, and ability to manage multiple tasks.\n * Experience using Microsoft 365 tools (e.g., Outlook, Teams, Excel, SharePoint) and collaboration platforms.\n\n\nAdditional Skills That Could Set You Apart:\n * Experience working across global teams and time zones\n * Experience working with GRC Tooling/ compliance management framework (e.g Vanta, Drata, OneTrust etc)\n * Familiarity working with AI (e.g. AI Governance, AI Risk Assessment, ISO 42001 certification)\n * Certifications such as CISA, CRISC, or ISO 27001 Lead Implementer/Auditor\n\n\nEqual Opportunities at Sitecore\n\nSitecore is proud to be an equal opportunity workplace. We are committed to equal employment opportunity without unlawful regard to race, colour, ancestry, religion, gender, national origin, sexual orientation, age, citizenship, marital status, disability, veteran status, or any other local legally protected characteristic.\n",
+  "job_posted_date": "2025-09-26T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b3fb69a20a218d9ef52044&src=GD_JOB_AD&t=NS&vt=w&cs=1_7db87718&cb=1759086115906&jobListingId=1009888439919",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Sitecore-EI_IE246577.11,19.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "They have standard maternity cover"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Enterprise Software & Network Solutions",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Sitecore",
+  "company_headquarters_location": {
+    "city": "san francisco",
+    "unknown": "San Francisco, United States"
+  },
+  "company_sizes_str": "1001 to 5000 Employees",
+  "company_size": null,
+  "company_website": "http://www.sitecore.com",
+  "company_revenue": "$100 to $500 million (USD)",
+  "company_description": null,
+  "company_foundation_date": "2001-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/680709/reliaquest-squareLogo-1652125326289.png",
+  "company_name": "ReliaQuest, LLC",
+  "job_title": "GreyMatter Specialist - Dublin",
+  "job_description": "Why it’s worth it:\n\nAt ReliaQuest, we do things differently. We do not limit your professional growth with outdated job titles and responsibilities. Why be just a “Security Analyst,” “Detection Developer,” or “Security Engineer” when you can be all three? As a GreyMatter Specialist, you will do all of that and more. This role is uniquely designed to combine skills of threat detection, engineering, and incident response. On our team, we give you the opportunity to make an impact starting from day one.\n\nIn this role, you’ll develop a diverse skill set which normally takes years to learn—all within your first year. Our industry-leading security operations platform, GreyMatter and immersive training will afford you the tools, experience, and opportunities to grow your career. Whether you’re conducting advanced investigations, troubleshooting technical challenges or providing customer recommendations, you’ll be solving real-world challenges and driving impact daily for our enterprise customers.\n\nAs part of the ReliaQuest team, you will receive mentorship and hands-on experiences while working alongside world-class teammates who share a high-performance mindset. In this environment, your expertise will propel you years ahead of your peers limited to traditional SOC roles. If you are looking for the monotony of manually working security alerts, this job is not for you; but if you are ready to be challenged, we are ready to invest in you.\n\nThe everyday hustle:\n\n * Be a trusted technical advisor, resolving customer challenges from start to finish.\n * Provide analysis and recommendations to customers based on alert activity, response playbook availability, and investigations.\n * Triage and fine-tune security alerts, Digital Risk Protection (DRP) alerts, and engineering health alerts to ensure optimal performance.\n * Integrate and configure log sources for existing customers.\n * Troubleshoot and resolve issues related to data parsing and ingestion to ensure smooth operations and data accuracy.\n * Independently integrate and configure log sources, handling both administrative tasks and ad hoc requests to complete work efficiently.\n * Deploy and fine-tune detection rules using GreyMatter Detect.\n * Employ the Cyber Analysis Methodology to conduct investigations.\n * Conduct advanced investigations, including Tier 3 incidents, ad-hoc threat hunts, and customer-requested analyses.\n * Communicate effectively with customers regarding engineering and Incident Response (IR) escalations.\n * Spend 75% of your day in front of the customer\n\n\nDo you have what it takes?\n\n * Bachelor's degree in a related field\n * Understanding of cybersecurity and IT disciplines including networking, operating systems, authentication protocols, general enterprise network, architecture, and security incident response.\n * Knowledge of TCP/IP Protocols, network analysis, and network/security applications\n * Basic knowledge of Linux/Unix operating systems\n * Ability to blend your technical and communication skills to advise the customer\n * Must demonstrate great attitude, energy, and effort\n * Must be adaptable, focused, accountable, and helpful\n * Must demonstrate excellent verbal and written communication skills (English language)\n\n\nWhat makes you uncommon? (not required)\n\n * Certifications such as Network+, Security+, CySA+\n * 1-3 years' experience as a Security/Network Administrator or equivalent knowledge\n * Prior SIEM experience and/or administration\n * Hands-on experience with parsing data, log formats, regular expressions\n * Scripting experience (bash, PowerShell, python)\n * Multiple OS experience (mac, windows)\n * Knowledge of various security methodologies and processes, and technical security solutions (SIEM, IDS/IPS, Firewall Solutions, Offensive Security tools)",
+  "job_posted_date": "2025-09-25T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b439c2abbb1770f0ca9ae6&src=GD_JOB_AD&t=NS&vt=w&cs=1_e56bfa4e&cb=1759086131919&jobListingId=1009650352446",
+  "company_url": "https://glassdoor.com/Overview/Working-at-ReliaQuest-EI_IE680709.11,21.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Enterprise Software & Network Solutions",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "ReliaQuest",
+  "company_headquarters_location": {
+    "city": "tampa",
+    "unknown": "Tampa, United States"
+  },
+  "company_sizes_str": "1001 to 5000 Employees",
+  "company_size": null,
+  "company_website": "https://www.reliaquest.com",
+  "company_revenue": "$100 to $500 million (USD)",
+  "company_description": null,
+  "company_foundation_date": "2007-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/39140/proofpoint-squareLogo-1725977898361.png",
+  "company_name": "Proofpoint, Inc.",
+  "job_title": "Security & Compliance Analyst (GRC - ISO 27001, SOC 2 Type II)",
+  "job_description": "About Us:\nWe are the leader in human-centric cybersecurity. Half a million customers, including 87 of the Fortune 100, rely on Proofpoint to protect their organizations. We’re driven by a mission to stay ahead of bad actors and safeguard the digital world. Join us in our pursuit to defend data and protect people.\n\nHow We Work:\nAt Proofpoint, you’ll be part of a global team that breaks barriers to redefine cybersecurity, guided by our BRAVE core values: Bold in how we dream and innovate, Responsive to feedback, challenges, and opportunities, Accountable for results and best-in-class outcomes, Visionary in future-focused problem-solving, Exceptional in execution and impact.\nCorporate Overview\n\nProofpoint is a leading cybersecurity company protecting organizations’ greatest assets and biggest risks: vulnerabilities in people. With an integrated suite of cloud-based solutions, Proofpoint helps companies around the world stop targeted threats, safeguard their data, and make their users more resilient against cyber-attacks. Leading organizations of all sizes, including more than half of the Fortune 1000, rely on Proofpoint for people-centric security and compliance solutions mitigating their most critical risks across email, the cloud, social media, and the web.\n\nWe are singularly devoted to helping our customers protect their greatest assets and biggest security risk: their people. That’s why we’re a leader in next-generation cybersecurity. Protection Starts with People. Proofpoint.\n\nThe Role\n\nWe are seeking an experienced Security and Compliance Analyst to enhance Proofpoint’s security compliance programs, ensuring our product portfolio meets the rigorous standards of ISO 27001 and SOC 2 Type II certifications. This role is pivotal to ensuring strong execution to maintain compliance across the organization. You will work cross-functionally with Product Management, Engineering, Legal, and a broad set of business stakeholders to drive security assurance, manage audit processes, and strengthen Proofpoint’s risk posture.\n\nResponsibilities\n * Lead Compliance Initiatives – Drive and oversee the successful certification and continuous compliance with ISO 27001 and SOC 2 Type II, ensuring alignment with Proofpoint’s security and risk management strategies.\n * Manage Internal & External Audits – Coordinate and execute internal readiness assessments and manage third-party audits, ensuring adherence to security frameworks and industry best practices.\n * Develop Policies & Controls – Establish, refine, and enforce security governance policies, controls, and processes that support regulatory compliance and risk mitigation.\n * Risk Management & Remediation – Identify compliance risks, conduct gap analyses, and collaborate with cross-functional teams to implement remediation plans.\n * Stakeholder Collaboration – Act as the primary compliance liaison between engineering, security, legal, product management, and external auditors, ensuring clear communication and alignment of objectives.\n * Continuous Improvement – Monitor evolving security regulations, industry standards, and best practices, proactively adapting policies and controls to maintain compliance and improve security posture.\n * Training & Awareness – Develop and deliver security governance training to relevant stakeholders to promote a culture of compliance and risk awareness.\n\n\nWhat You Bring to the Team\n * Proven experience in governance, risk, and compliance (GRC), preferably within a SaaS or cloud security environment.\n * Deep knowledge of ISO 27001, SOC 2 Type II, NIST, GDPR, and other security standards and frameworks.\n * Demonstrated success in managing security audits from planning to certification.\n * Experience implementing security policies, controls, and risk management frameworks in a complex enterprise environment.\n * Strong project management skills with the ability to drive cross-functional initiatives.\n * Excellent communication skills, with the ability to translate security and compliance requirements into actionable business processes.\n * Certifications such as CISSP, CISA, CISM, or ISO 27001 Lead Auditor/Implementer are highly desirable.\n\n\nWhy Join Us?\n * Impactful Work – Play a crucial role in securing Proofpoint’s products and ensuring regulatory compliance for a global cybersecurity leader.\n * Collaborative Culture – Work with a talented team of security and compliance professionals who are passionate about protecting customers.\n * Career Growth – Expand your expertise in security governance and compliance in a fast-evolving, high-growth industry.\n * Competitive Compensation & Benefits – Enjoy a comprehensive benefits package, flexible work environment, and the opportunity to work in Cork, Ireland—a thriving hub for cybersecurity and technology.\n\n\nWhy Proofpoint\nProtecting people is at the heart of our award-winning lineup of cybersecurity solutions, and the people who work here are the key to our success. We’re a customer-focused and a driven-to-win organization with leading-edge products. We are an inclusive, diverse, multinational company that believes in culture fit, but more importantly ‘culture-add’, and we strongly encourage people from all walks of life to apply.\n\nWe believe in hiring the best and the brightest to help cultivate our culture of collaboration and appreciation. Apply today and explore your future at Proofpoint! #LifeAtProofpoint\n\n#LI-CB1\n\nWhy Proofpoint? At Proofpoint, we believe that an exceptional career experience includes a comprehensive compensation and benefits package. Here are just a few reasons you’ll love working with us:\n\n * Competitive compensation\n * Comprehensive benefits\n * Learning & Development: We are committed to the growth and development of our team members, offering a range of programs including leadership and professional development workshops, stretch project assignments, and mentoring opportunities to help employees reach their full potential.\n * Flexible work environment: [Remote options, hybrid schedules, flexible hours, etc.].\n * Annual wellness and community outreach days\n * Always on recognition for your contributions\n * Global collaboration and networking opportunities\n\n\nOur Culture:\nOur culture is rooted in values that inspire belonging, empower purpose and drive success-every day, for everyone. We encourage applications from individuals of all backgrounds, experiences, and perspectives. If you need accommodation during the application or interview process, please reach out to\naccessibility@proofpoint.com\n. How to Apply Interested? Submit your application here\nhttps://www.proofpoint.com/us/company/careers\n. We can’t wait to hear from you!\n",
+  "job_posted_date": "2025-09-19T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Cork",
+    "city": "cork",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b468a58942cdac7a6e1610&src=GD_JOB_AD&t=NS&vt=w&cs=1_87ad2124&cb=1759086143874&jobListingId=1009881472272",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Proofpoint-EI_IE39140.11,21.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Enterprise Software & Network Solutions",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Proofpoint",
+  "company_headquarters_location": {
+    "city": "sunnyvale",
+    "unknown": "Sunnyvale, United States"
+  },
+  "company_sizes_str": "1001 to 5000 Employees",
+  "company_size": null,
+  "company_website": "https://www.proofpoint.com/us/careers/life-proofpoint",
+  "company_revenue": "$100 to $500 million (USD)",
+  "company_description": null,
+  "company_foundation_date": "2002-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/13461/tata-consultancy-services-squareLogo-1715076690903.png",
+  "company_name": "Tata Consultancy Services Limited",
+  "job_title": "Integrated Command Centre Analyst - Graduate",
+  "job_description": "If you need support in completing the application or if you require a different format of this document, please get in touch with at UKI.recruitment@tcs.com with the subject line: “Application Support Request”.\n\nRole: Integrated Command Centre Analyst -Graduate Position\nJob Type: Permanent\nLocation: Letterkenny Onsite (5 days per week)\n\n * Ready to utilise your skills/knowledge/experience in the Integrated Command Centre Analyst?\n * Are you looking for an exciting opportunity work in a IT infrastructure team supporting a government initiative?\n * Are you keen to build your career with a dynamic global IT Consultancy and Customer focused team?\n\n\nJoin Tata Consultancy Services as an Integrated Command Centre Analyst.\n\nCareers at TCS: It means more\nTCS is a purpose-led transformation company, built on belief. We do not just help businesses to transform through technology. We support them in making a meaningful difference to the people and communities they serve - our clients include some of the biggest brands in the UK and worldwide. For you, it means more to make an impact that matters, through challenging projects which demand ambitious innovation and thought leadership.\n\nThe Role\nThe level 1 Integrated Command Centre (ICC) Analyst provides first-line support across IT operations, Services Desk, and Security Monitoring functions. This role focuses on real time alert monitoring, initial incident triage, basic troubleshooting, and coordinating with higher level support teams to ensure availability, performance, and security of enterprise systems and services.\n\nKey responsibilities:\n\nThe below outlines the main areas of responsibility:\n\nMonitoring, Event, and Incident detection\n * continuously monitor IT infrastructure, applications, and network using monitoring tools open (example Mange Engine, SolarWinds, Zabbix, Dynatrace, etc)\n * Identify and log system alerts, performance degradations and outages.\n * Perform initial triage and escalate issues per runbooks and severity level.\n * Support major incident notification and bridge call initiation\n\nService desk support:\n * Act as the first point of contact for end users through phone, e-mail, or chat.\n * Log and categorize incidents and services request in the ITSM tool(e.g., Manage Engine)\n * Provide basic troubleshooting support for issues related to user login/access, O365, e-mail and desktop or remote desktop issues\n * Escalate unresolved issues to L2 or L3 appropriate resolver groups\n\nSecurity Operations: (L1 SOC Tasks)\n * Monitor SIEM dashboards (e.g., Splunk, Microsoft Sentinel) for security alerts\n * Perform basic triage of low-level security alerts (e.g., phishing suspicious logins)\n * Document findings and escalate to the cybersecurity team as per sock process\n\nOperations and Communications:\n * Perform system health check and follow ShiftWise operational checklist\n * Maintain clear shift handover notes and incident updates\n * Coordinate with cross functional teams for updates and escalations\n * Adherent to SLAs and escalation timelines\n\n\nYour Profile\nKey skills/knowledge/experience:\n * 0-2 years of experience/detailed understanding in IT support, NOC/SOC, or technical help desk.\n * Basic understanding of IT infrastructure (servers, networks, cloud)\n * Familiarity with windows OS, Active Directory, Office 365, VPN, and remote tools.\n * Knowledge of ticketing and monitoring tools\n * Willingness to work 24 X 7 rotational shifts including weekends and holidays (Combination of office/Remote)\n * Basic understanding of ITIL processes (incident, request, change)\n * Exposure to SIEM or security alerting tools\n * ITIL foundation\n * Strong communication and customer service skills\n * Quick learner with a logical problem-solving mindset\n * Ability to stay calm during high pressure incidents\n * Team oriented with attention to detail\n\nGood to have:\n * Prior experience in IT Infrastructure monitoring team\n * Knowledge of AWS cloud platform\n\n\nRewards & Benefits\nTCS is consistently voted a Top Employer in the UK and globally. Our competitive salary packages feature pension, health care, life assurance, laptop and access to extensive training resources and discounts within the larger Tata network.\nWe offer health & wellness initiatives and sports events; we are the proud sponsor of the London Marathon and partner with our local communities in Ireland.\n\nDiversity, Inclusion and Wellbeing\nTata Consultancy Services UK&I is committed to meeting the accessibility needs of all individuals in accordance with the Ireland Employment Equality Acts 1998-2011 (as amended) and the Equal Status Acts 2000-2012 (as amended).\nWe welcome and embrace diversity in race, nationality, ethnicity, disability, neurodiversity, gender identity, age, physical ability, gender reassignment, sexual orientation. We are a disability inclusive employer and encourage disabled people to apply for this role.\nAs a Disability Confident Employer, we offer an interview to applicants with disabilities or long-term conditions who meet the minimum criteria for the role. Please email us at UKI.recruitment@tcs.com if you would like to opt in.\nIf you are an applicant who needs any adjustments to the application process or interview, please contact us at UKI.recruitment@tcs.com with the subject line: “Adjustment Request” or email to jennifer.long@tcs.com request an adjustment. We welcome requests prior to you completing the application and at any stage of the recruitment process.\n\nBeware of Fraudulent offers\nThis is to notify you that TCS does not ask for any sort of payment or security deposit from candidates at any stage of the recruitment process. The firm never sends out job offers from free internet email services like Gmail, Yahoo Mail, and so on. TCS has not authorised any third-party company to collect money on their behalf. As a vigilant job seeker, beware of fraudulent recruitment activity and protect your interests! You can write to UKI.recruitment@tcs.com to report any fraudulent activity.\nDue to the high volume of applications, we will be unable to contact each applicant individually on the status of their application. If you have not received a direct response within 30 days, then it should be deemed unsuccessful on this occasion.\n\nJoin us and do more of what matters. Apply online now.",
+  "job_posted_date": "2025-09-25T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Letterkenny",
+    "city": "letterkenny",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b46a71bba48b64056bf9c3&src=GD_JOB_AD&t=NS&vt=w&cs=1_9d0bfc3a&cb=1759086144822&jobListingId=1009887022708",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Tata-Consultancy-Services-EI_IE13461.11,36.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [
+    "Gives maternity leave and extra unpaid leaves if needed "
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Software Development",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Tata Consultancy Services",
+  "company_headquarters_location": {
+    "city": "mumbai",
+    "unknown": "Mumbai, India"
+  },
+  "company_sizes_str": "10000+ Employees",
+  "company_size": null,
+  "company_website": "https://www.tcs.com/",
+  "company_revenue": "$10+ billion (USD)",
+  "company_description": null,
+  "company_foundation_date": "1968-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/13322/mufg-squareLogo-1746685587484.png",
+  "company_name": "Mitsubishi UFJ Financial Group, Inc.",
+  "job_title": "Power Platform Manager",
+  "job_description": "Company Description\n\n\nMUFG Investor Services is a trusted partner to many of the world’s largest public and private funds, providing asset servicing and operational solutions built for alternatives. With over $1 trillion in client assets under administration, we offer fund administration, banking, payments, fund financing, foreign exchange overlay, corporate and regulatory services, custody, business consulting, and more.\n\nOperating from 17 locations worldwide, we help clients mitigate risk, enhance efficiency, and navigate the operational complexities of today’s investment management landscape. As a division of Mitsubishi UFJ Financial Group (MUFG), one of the world’s largest financial institutions with approximately $3 trillion in assets, we combine deep expertise with the strength and stability of a leading financial institution. To learn more, visit us at www.mufg-investorservices.com.\n\n#LI-Hybrid\n\n\nJob Description\n\n\nYou will lead a cross‑functional Agile team within MUFG Investor Services to design, build, and operate enterprise‑grade solutions on Microsoft Power Platform. You will set the technical direction, own end‑to‑end solution design, and ensure robust delivery practices (DevOps/ALM, governance, security) across multiple business domains in a regulated financial services environment.\n\nReporting to the Executive Director, IT, Head of Business Support and IT Delivery, you will:\n\n * Line‑manage, coach, and develop a squad of Power Platform Engineers, functional consultants, and analysts.\n * Run Agile ceremonies (planning, reviews, retros, daily stand‑ups), drive backlog health, and uphold Definition of Ready/Done.\n * Partner with Product Owners to shape roadmaps, prioritise value, and communicate delivery progress, risks, and dependencies.\n * Own end‑to‑end architecture and solution design for complex Power Platform initiatives, including non‑functional requirements.\n * Define environment strategy, solution layering, and model for re‑use.\n * Integrate with Azure services and external SaaS/line‑of‑business systems via custom connectors/APIs.\n * Lead hands‑on development where needed.\n * Establish code standards, peer reviews, branching strategy, and automated testing.\n * Champion telemetry and observability and performance tuning.\n * Design for SOC 1 / SOC 2 readiness: control mapping, evidence capture, logging/monitoring, and audit trails across environments; coordinate with Internal Audit/External Auditors during reviews.\n * Define standards for environment provisioning, service accounts, connection references, and secrets handling (Key Vault) with strict PII/financial‑data controls.\n * Operate the Power Platform CoE (starter kit extensions), manage solution catalogues, and ensure change control via CAB integrated with ITSM processes and appropriate approvals.\n * Implement robust ALM with Power Platform Pipelines/Azure DevOps/GitHub Actions.\n * Integrate with ITSM toolsets for incident, problem, and change; enforce CAB approvals, maintenance windows, and rollback plans.\n * Oversee SLAs, operational runbooks, on‑call procedures, and release readiness; drive continuous improvement via post‑incident reviews.\n\n#LI-Hybrid\n\n\nQualifications\n\n\nYou Have:\n\n * 7+ years in Microsoft ecosystem with 3–5+ years leading Power Platform delivery in mid/large enterprises.\n * Deep hands‑on expertise in: Power Apps (Canvas & Model‑driven), Dataverse (schema, relationships, security roles), Power Automate (cloud, RPA/desktop), Power Pages, Power BI fundamentals, Custom Connectors, Plugins/PCF (C#/TypeScript), Power Fx.\n * Proven ownership of solution design/architecture including integrations (REST/Graph/SQL), data modelling, and non‑functional requirements.\n * Strong Agile delivery leadership (Scrum/Kanban), backlog management, estimation, story mapping, and dependency/risk management.\n * Production‑grade ALM/DevOps for Power Platform (managed solutions, connection references, environment variables, pipelines, pac CLI, Git branching, automated testing).\n * Governance and security expertise: DLP policies, tenant/environment strategy, role‑based access, auditing, secrets management (Key Vault), and compliance by design.\n\nCertifications (Preferred)\n\n * PL‑600: Power Platform Solution Architect Expert (strongly preferred)\n * PL‑400: Power Platform Developer Associate\n * PL‑200: Power Platform Functional Consultant\n * AZ‑204: Azure Developer and/or AZ‑400: DevOps Engineer\n\n\nAdditional Information\n\n\nWhat’s in it for you to join MUFG Investor Services?\n\nTake a look at our careers site and you’ll find everything you’d expect from a career with the fastest-growing business at one of the world’s largest financial groups. Now take another look. Because it’s how we defy expectations that really defines us. You’ll feel that difference in all kinds of ways. Our vibrant CULTURE. Connected team. Love of innovation, laser client focus, and next-level LEARNING & DEVELOPMENT. Oh, and we really walk the talk when it comes to HYBRID WORKING.\n\nSo, why settle for the ordinary? Apply now for a Brilliantly Different career.\n\nWe thank all candidates for applying; however, only those proceeding to the interview stage will be contacted.\n\nWe are an equal opportunity employer.\n\n",
+  "job_posted_date": "2025-09-12T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b471d3bbc0333433ca6339&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_c7cd01ac&cb=1759086146153&jobListingId=1009874870861",
+  "company_url": "https://glassdoor.com/Overview/Working-at-MUFG-EI_IE13322.11,15.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [
+    "25 days for this level ",
+    "Suffiscient time off for maternity leave "
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Investment & Asset Management",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "MUFG",
+  "company_headquarters_location": {
+    "city": "sydney",
+    "unknown": "Sydney, Australia"
+  },
+  "company_sizes_str": "5001 to 10000 Employees",
+  "company_size": null,
+  "company_website": "https://www.mpms.mufg.com/en/careers/careers-with-us/",
+  "company_revenue": "$2 to $5 billion (USD)",
+  "company_description": null,
+  "company_foundation_date": "1864-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/7900/ukg-ultimate-kronos-group-squareLogo-1661529596167.png",
+  "company_name": "UKG Inc. ",
+  "job_title": "Principal Compliance Operations Analyst",
+  "job_description": "Job Description\n\nJOB ID\n\nPRINC013125\n\nEMPLOYMENT TYPE\n\nRegular\n\nWORK STYLE\n\nhybrid\n\nLOCATION\n\nDublin,IE-L,IrelandKilkenny,N9,Ireland\n\nTRAVEL\n\nUp to 25%\n\nROLE\n\nPrincipal Compliance Operations Analyst\n\n\n\nCompany Overview\n\n\n\n\nWith 80,000 customers across 150 countries, UKG is the largest U.S.-based private software company in the world. And we’re only getting started. Ready to bring your bold ideas and collaborative mindset to an organization that still has so much more to build and achieve? Read on.\n\n\n\n\nAt UKG, you get more than just a job. You get to work with purpose. Our team of U Krewers are on a mission to inspire every organization to become a great place to work through our award-winning HR technology built for all.\n\n\n\n\nHere, we know that you’re more than your work. That’s why our benefits help you thrive personally and professionally, from wellness programs and tuition reimbursement to U Choose — a customizable expense reimbursement program that can be used for more than 200+ needs that best suit you and your family, from student loan repayment, to childcare, to pet insurance. Our inclusive culture, active and engaged employee resource groups, and caring leaders value every voice and support you in doing the best work of your career. If you’re passionate about our purpose — people —then we can’t wait to support whatever gives you purpose. We’re united by purpose, inspired by you.\n\n\n\n\nAbout the role:\n\n\n\n\n\nThe Compliance & Risk Officer is responsible for overseeing UKG's global payroll function to ensure compliance with federal, state, and local regulations and guidelines. This individual contributor position involves assessing and mitigating payroll risks, developing compliance policies and procedures, and collaborating with internal and external stakeholders to enhance payroll processes and systems.\n\nIt is a hybrid position with 3 days a week in our Dublin (WeWork - 2 Dublin Landings) or Kilkenny (IDA Business & Technology Park) office and 2 days a week working from home.\n\nKey Responsibilities:\n\n\n * Ensure payroll practices comply with applicable laws, regulations, and company policies.\n * Responsible for managing overall SOC-1 business control framework and relevant aspects of the SOC-2 and ISO framework.\n * Review and continuously improve our control SOC controls, implementing new controls that add value to our processes and our customers and training Operations teams.\n * Driving the automation of our controls to ensure continuous improvement in compliance and reporting.\n * Manage internal and external audit process.\n * Coordination with CIO to manage dependencies between IT and Business Controls.\n * Coordination with centralized Enterprise Risk, Compliance and Legal teams to manage dependencies and proactively mitigate risk\n * Monitor changes in legislation affecting payroll and work with the business and legal teams implement necessary adjustments.\n * Drive and support the monitoring and tracking of client funds, to ensure clear visibility re status of funds in flight.\n * Develop and oversee enhanced processes in relation to receipting, reporting and risk management in respect of client funds.\n * Identify and implement other compliance and control frameworks that drive value to our customers and the OneView organisation.\n * Continuous assessment, management and reporting on key risks on OneView Operations Risk Register.\n * Develop and maintain payroll compliance policies, procedures, and training programs.\n * Identify, analyze, and assess payroll risks, including fraud prevention.\n * Implement controls and processes to minimize payroll-related risks.\n * Conduct regular audits and assessments of payroll processes and systems.\n * Prepare and present payroll compliance reports to senior management.\n * Lead investigations into payroll discrepancies or compliance issues.\n * Analyze payroll data to identify trends and areas for improvement.\n * Foster a culture of compliance and risk awareness within the payroll department.\n * Facilitate training sessions on payroll compliance for internal stakeholders.\n * Serve as a subject matter expert on payroll risk and compliance for the organization.\n * Evaluate current payroll processes and recommend enhancements to improve efficiency and compliance.\n * Keep abreast of industry best practices and technological advancements in payroll management.\n\n\nQualifications:\n\n\n * Bachelor’s degree in Finance, Accounting, Human Resources, or a related field; Master’s degree preferred.\n * Minimum of 8-10 years of experience in risk, compliance and internal controls management in the payroll industry or similar.\n * Knowledge of payroll regulations, tax laws, and labor laws is preferred.\n * Experience in implementing payroll compliance programs and conducting audits is preferred.\n * Excellent analytical, problem-solving, and decision-making skills.\n * Strong leadership and team management skills.\n\n\nKey Competencies:\n\n\n * Attention to Detail\n * Analytical Thinking\n * Effective Communication\n * Process Improvement\n * Risk Management\n * Team Collaboration\n * Ethical Judgment\n * Influencing Skills\n\n\n\n\nIreland Benefits:\n\n * 25 days annual leave, increasing by one day per year to a maximum of 28 days\n * 26 weeks paid maternity leave & 2 weeks paid paternity leave from start of employment\n * Medical/Dental/Vision coverage provided through Laya Healthcare, including spouse and children up to the age of 25\n * Pension plan through Irish Life, with an employer match of 100% of the employee contributions up to a maximum of 6%\n * Life insurance\n * Group Income Protection\n * U choose program – €325 every quarter to be spent on eligible items such as exercise equipment/membership, pet care, child care, home office set-up etc.\n * Tuition Reimbursement program – up to €4,625 per year\n * Employee Assistance Program available 24/7\n * Adoption assistance, Surrogacy Assistance, Fertility Support, Gender Affirming Support\n\n\n\n\nWhere we’re going\n\n\n\n\nUKG is on the cusp of something truly special. Worldwide, we already hold the #1 market share position for workforce management and the #2 position for human capital management. Tens of millions of frontline workers start and end their days with our software, with billions of shifts managed annually through UKG solutions today. Yet it’s our AI-powered product portfolio designed to support customers of all sizes, industries, and geographies that will propel us into an even brighter tomorrow!\n\n\n\n\nUKG is proud to be an equal opportunity employer and is committed to promoting diversity and inclusion in the workplace, including the recruitment process.\n\n\n\n\nDisability Accommodation\n\nFor individuals with disabilities that need additional assistance at any point in the application and interview process, please email UKGCareers@ukg.com.",
+  "job_posted_date": "2025-09-23T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b475618e36c9d971ce2fcb&src=GD_JOB_AD&t=NS&vt=w&cs=1_74b94712&cb=1759086147206&jobListingId=1009719805471",
+  "company_url": "https://glassdoor.com/Overview/Working-at-UKG-EI_IE7900.11,14.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Enterprise Software & Network Solutions",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "UKG",
+  "company_headquarters_location": {
+    "city": "weston",
+    "unknown": "Weston, United States"
+  },
+  "company_sizes_str": "10000+ Employees",
+  "company_size": null,
+  "company_website": "https://www.ukg.com/",
+  "company_revenue": "$2 to $5 billion (USD)",
+  "company_description": null,
+  "company_foundation_date": "2020-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/680788/malwarebytes-squarelogo-1588611941220.png",
+  "company_name": "Malwarebytes",
+  "job_title": "MSS Analyst",
+  "job_description": "Malwarebytes believes that when people and organizations are free from threats, they are free to thrive. Founded in 2008, CEO Marcin Kleczynski had one mission: to rid the world of malware. Today, Malwarebytes has grown beyond malware remediation to ensuring cyber protection for everyone, providing device protection, privacy, and prevention solutions in the home, on-the-go, at work, or on campus. With threat hunters and innovators across the world, we want great people, like YOU, to join our team!\n\nMalwarebytes is looking for...\nWe want somebody with a real passion of defending the cyberworld. You’ll be part of a team providing professional cybersecurity services for Malwarebytes customers, helping to defend and remediate against all manner of cyber threats. It’s more than a job, it’s a mission.\nMalwarebytes MDR Analysts detect, contain, and remediate advanced threats to protect our customers. You will be primarily focused on real-time incident detection, validation, remediation, and reporting.\n\nWhat You’ll Do:\n * Support 24/7/365 Managed Detection and Response efforts:\n * Monitor and analyze log data and/or alerts generated by Malwarebytes security technologies in real-time; escalate and report validated security incidents to our customers. ]\n * Investigate and validate alerts.\n * Handle incidents as defined in playbooks and standard operating procedures and advise our customers on remediation actions.\n * Escalate difficult or complex issues to more experienced staff, as appropriate.\n * Prepare incident reporting for customers outlining the threat, its characteristics, and possible remediation activities.\n * Provide peer review for incident reporting.\n * Maintain knowledge of current cyber threat actor tools, techniques, and procedures (TTPs).\n * Manage and track customer issues and requests.\n * Identify opportunities for process improvement.\n * Support the Malwarebytes product development team by providing input to continuously improve our products.\n * Partner with cross-functional technical teams to share expertise, research threats, and implement solutions.\n * Compile and document observed threat activity for use by Malwarebytes intelligence analysts.\n * Handle high pressure situations in a productive and professional manner.\n\n\nSkills You’ll Need to Have:\n * 2 or more years of related work experience.\n * Bachelor's Degree required in Cybersecurity, Computer Engineering, Information Security, Computer Science, or a related technical discipline (or 2+ years of related experience).\n * Ability to be self-directed, taking initiative and executing tasks independently.\n * Solid knowledge of Windows, MacOS and Linux environments.\n * Solid knowledge of IP networking and network security fundamentals, including Intrusion Detection.\n * Solid understanding of computer security principles and the cyber security threat landscape, including technical knowledge about the most prevalent vulnerabilities, threats, attack methods, and infection vectors.\n * Excellent verbal and written communication skills and collaborative attitude.\n * Experience working in a team-oriented, collaborative environment with a high level of analytical and problem-solving abilities.\n * Ability to anticipate and respond to changing priorities and operate effectively in a dynamic demand-based environment.\n * Strong customer service and interpersonal skills.\n * Strong technical and troubleshooting skills.\n * Handle high pressure situations in a productive and professional manner.\n * Ability to maintain confidentiality with sensitive data.\n\n\nNice to have skills:\n * Prior experience working in a SOC or Managed Security Service Provider (MSSP) setting is a plus Past work experience in a similar role.\n * Experience/Expertise with SOAR tools highly desired.\n * Applicable Industry Certifications, such as:\n * CompTIA Security+\n * GIAC Certified Incident Handler (GCIH)\n * GIAC Certified Intrusion Analyst (GCIA)\n * Advanced Degree or Academic Certificate in computer security related field.\n * Endpoint detection product experience.\n * Experience and knowledge of public cloud environments, specifically AWS and Azure.\n * Strong understanding of network protocols coupled with experience with web proxies, web application firewalls, and vulnerability assessment tools.\n * Familiarity with common network vulnerability/penetration testing tools.\n\n\nBenefits and Perks:\n * An opportunity to do something great for yourself and the world\n * A great work environment that supports growth, development, and most importantly having fun!\n * Employee Referral Bonus Program\n * Wellness programs",
+  "job_posted_date": "2025-09-11T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Cork",
+    "city": "cork",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b512bb91dbf6c5c56f2fb1&src=GD_JOB_AD&t=NS&vt=w&cs=1_8273087b&cb=1759086187633&jobListingId=1009808397312",
+  "company_url": "https://glassdoor.com/Overview/Working-at-Malwarebytes-EI_IE680788.11,23.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Computer Hardware Development",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Malwarebytes",
+  "company_headquarters_location": {
+    "city": "santa clara",
+    "unknown": "Santa Clara, United States"
+  },
+  "company_sizes_str": "501 to 1000 Employees",
+  "company_size": null,
+  "company_website": "http://www.malwarebytes.com",
+  "company_revenue": "Unknown / Non-Applicable",
+  "company_description": null,
+  "company_foundation_date": "2008-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/5738/partnerre-squarelogo.png",
+  "company_name": "PartnerRe Ltd.",
+  "job_title": "IT Security Analyst",
+  "job_description": "Company Description\n\n\nPartnerRe is a leading, privately owned, multi-line global reinsurer with a reputation of financial stability and strength, and a commitment to rebuilding businesses and communities after risk events around the world.\n\nOur mission is to continue to be a financially stable and predictable business partner, supporting our clients with solutions tailored to their needs, delivering superior returns to our owner, providing rewarding opportunities for our people and making a positive contribution to society. To achieve this, we live by our values of Integrity, Performance, Collaboration, Straightforward Communication and Respect and Care.\n\nCore to The PartnerRe Experience is our global nature. No matter where you sit in the company, you are part of something bigger. Our teams represent our truly international mindset, forging connections across office locations and all levels of the organization and building a network of mutual success. The result is a day-to-day experience that will allow you to:\n\nShape your own career\n\nGrow in a supportive environment\n\nConnect with a community of experts\n\nMake an impact\n\nView Home - PartnerRe Experience e-book to find out more about what it’s like to work at PartnerRe.\n\nWe are always looking for bright, proactive individuals to join our team!\n\nPlease follow our Careers page for all updates on new positions. We look forward to receiving your application.\n\nPartnerRe is an equal opportunities employer.\n\nPlease join our company LinkedIn Page for all updates on new positions that are coming live.\n\n\nJob Description\n\n\nAbout this job:\n\nWe are looking for a passionate IT Security Analyst to join our centralized Security function. You will be embedded in a small international team where your impact really makes a difference. The Security function drives and develops our security framework for PartnerRe worldwide. This framework is built on the 5 core pillars around Identification, Protection, Detection, Response and Recovery.\n\nKey Responsibilities:\n\n * Security monitoring\n * Incident response\n * Detection engineering\n * Security engineering, vulnerability analysis and remediation\n * Risk management and reduction\n * Working on security improvements\n\n\nQualifications\n\n\nAbout you:\n\nTechnical Skills:\n\n * Good knowledge of the following technologies: PowerShell scripting, Active Directory, Entra ID, Azure PaaS & IaaS, networking protocols, Microsoft Defender stack familiarity with DevSecOps, Application security and knowledge of frameworks such as ISO 27001/2, NIST standards and MITRE ATT&CK\n * You have good analytical and documentation skills that you proactively apply in your daily work\n\nSoft Skills:\n\n * Good communication skills\n * Able to collaborate in a culturally diverse environment and different geographical locations and across different teams\n * English fluency with French or German considered a plus\n * Excellent analysis skills\n * Ability to build trust and confidence\n * Adaptable with good documentation skills especially regarding incidents\n * Familiarity with establishing processes\n * You feel comfortable working in a virtual team environment, and you are able to influence without formal authority\n * Work autonomously and drive improvements\n\nWork Experience:\n\n * Three to ten years working in an operational information technology role\n * Minimum of 2 years in an IT security specific role such as a SOC analyst or similar\n\nEducation:\n\n * Ideally, your educational background is in Information Technology, with a focus on Information Security (e.g. a Computer Science or Cyber Security undergraduate or graduate degree)\n * Ideally, you own a security related certification or similar relevant certification\n\n\nAdditional Information\n\n\n#LI-Hybrid\n\n\n\nPartnerRe provides a working environment in which diversity is valued, where all employees feel welcome, respected, and empowered to perform at their best. We invite you to learn more about D&I at PartnerRe.\n\nThank you,\n\nPartnerRe Hiring Team",
+  "job_posted_date": "2025-09-19T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Dublin",
+    "city": "dublin",
+    "country": "ireland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991b51c25a07291855eba0f66&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_2847f43d&cb=1759086190079&jobListingId=1009881639779",
+  "company_url": "https://glassdoor.com/Overview/Working-at-PartnerRe-EI_IE5738.11,20.htm",
+  "job_salary": {
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "pay_period": "hourly",
+    "estimated": true
+  },
+  "job_benefits_tags": [
+    "Good people, great to work here."
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Insurance Carriers",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "PartnerRe",
+  "company_headquarters_location": {
+    "city": "hamilton",
+    "unknown": "Hamilton, Bermuda"
+  },
+  "company_sizes_str": "1001 to 5000 Employees",
+  "company_size": null,
+  "company_website": "https://partnerre.com",
+  "company_revenue": "Unknown / Non-Applicable",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+}]

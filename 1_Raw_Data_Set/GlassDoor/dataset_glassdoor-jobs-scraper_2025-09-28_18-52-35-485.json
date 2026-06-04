@@ -1,0 +1,862 @@
+[{
+  "company_logo": "https://media.glassdoor.com/sql/4621915/selution-squarelogo-1628685830644.png",
+  "company_name": "Selution AG",
+  "job_title": "Security Analyst SOC (m/w)",
+  "job_description": "Deine Schlüsselrolle in unserem Cyber Security Team\n\n\n\n100%\nFestanstellung\nBasel\nDein Standort\n\nUnser höchstes Ziel ist es, die Werte unserer Kunden zu schützen. Unser Cyber Security Intelligence Center (CSIC®) stellt die ganze Managed Incident Response für unseren SOC-Service sicher, spezialisiert auf die Überwachung und Abwehr von Cyber-Angriffen auf die Infrastruktur unserer Kunden. Wir legen sehr grossen Wert auf Eigeninitiative und proaktive Zusammenarbeit.\n\nUm noch schlagkräftiger zu werden, suchen wir Dich als Security Analyst SOC, um unser Team zu verstärken.\n\nWAS DU ERWARTEN DARFST\n\nNebst der Erstellung, Implementierung und Weiterentwicklung von komplexen Use Cases trägst Du die Gesamtverantwortung in der Analyse und der Bearbeitung von Cyber Security Incidents. Du begleitest Kunden bei der Umsetzung der getroffenen Massnahmen. Zu der Weiterentwicklung und der Optimierung der CSIC®-Infrastruktur zeigst Du Initiative. Du arbeitest in spannenden Projekten mit und unterstützt auch in der Abwicklung von sporadischen Major Incidents und Forensik. Dein Fokus liegt auf dem Blue Team, aber im Rahmen eines interdisziplinären Austauschs bist du auch gewillt, ab und an dem Red Team unter die Arme zu greifen. Regelmässiger Pikettdienst schreckt Dich nicht ab.\n\nWAS WIR VON DIR ERWARTEN\n\nEine solide technische Ausbildung (abgeschlossenes Studium im Informatikbereich, CAS/MAS Information Security, Incidents Handler / Security Analyst Zertifizierungen o.ä.), Berufserfahrung in einem Security Operations Center (SOC) ist von Vorteil. Ein breites Basiswissen in den verschiedensten Informationstechnologien (Windows, Linux, Netzwerk usw.) ist zwingend erforderlich. Das Thema Hacking und das Analysieren von Sicherheitslücken fasziniert Dich. Teamfähigkeit, Loyalität und Dein einwandfreier Leumund sind für diese Tätigkeiten enorm wichtig. Deutsch und Englisch beherrschst Du in Wort und Schrift.\n\nUnsere Unterstützung für Deinen Erfolg:\n\nDu bist im Moment einer von vielen, und die festgefahrenen Strukturen geben Dir keinen Raum, Dich weiterzuentwickeln? Du hast Lust, Teil eines erfolgreichen Unternehmens zu sein und Dich hierbei voll einzubringen und es weiter mitzuformen? Und das an einem hochmodernen Arbeitsplatz, mit einer wertvollen Kultur im Team und attraktiven Anstellungskonditionen in einem auf Cyber Security Services spezialisierten Unternehmen? Oder Du kennst jemanden, für den das genau das Richtige wäre? Dann freuen wir uns auf Deine Bewerbungsunterlagen oder den entsprechenden Kontakt. Bis bald!\n\nDein Kontakt:\n\nSarah Obrist, Administration\nhr@selution.ch\n+41 58 531 00 00\n\n\n\nARBEITEN BEI SELUTION\n\nWir sind ein bunt gemischtes Team aus Cyber-Security-Nerds, IT-Enthusiasten und Technik-Liebhabern – aber vor allem sind wir Menschen, die Lösungen für andere Menschen entwickeln.\n\n\n\n\nERLEBE LEGENDÄRE TEAM EVENTS\n\nEin starker Teamgeist ist uns wichtig, weshalb wir regelmässig Team Events an tollen Orten veranstalten.\n\n\nFLEXIBLES ARBEITEN\n\nWir sind fest davon überzeugt, dass Talente Freiraum brauchen, um sich maximal zu entfalten. Ob im modernen Büro oder im Home-Office, bei uns findest Du Flexibilität.\n\n\n\nÜBERNIMM VERANTWORTUNG\n\nBei Selution hast Du deine eigenen Projekte und massgeblichen Einfluss auf die Entwicklung unserer Firma.\n\n\nBRING DICH PERSÖNLICH WEITER\n\nDurch Dein neues Umfeld, intensive Onboardings, Feedbacks & Trainings wirst Du es lieben, in allen Dimensionen zu wachsen.\n\n\n\n… UND VIELES MEHR.\n\n",
+  "job_posted_date": "2025-09-16T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Basel",
+    "city": "basel",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aab3cda2994ac4330f9bce&src=GD_JOB_AD&t=NS&vt=w&cs=1_67e00510&cb=1759085507776&jobListingId=1009711455904",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Selution-EI_IE4621915.11,19.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Selution",
+  "company_headquarters_location": {
+    "city": "münchenstein",
+    "unknown": "Münchenstein, Schweiz"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.selution.ch",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1064512/rieker-squarelogo-1445413887351.png",
+  "company_name": "Rieker",
+  "job_title": "IT-SICHERHEITSEXPERTE (M/W/D) / IT SECURITY ANALYST Thayngen IS International Sourcing AG",
+  "job_description": "MACHEN SIE DEN NÄCHSTEN SCHRITT - GESTALTEN SIE MIT UNS IHRE ZUKUNFT!\n\n\nDie Unternehmensgruppe Rieker ist einer der führenden Schuhhersteller Europas. Zur Verstärkung unseres Teams an unserem Standort in Thayngen suchen wir zum nächstmöglichen Termin Sie als\n\nIT-Sicherheitsexperte (m/w/d) / IT Security Analyst\n\n\n\nIHRE AUFGABEN:\n\n * ISMS-Verantwortung: Steuerung, Optimierung und Weiterentwicklung unseres Information Security Management Systems\n * Sicherheitsprozesse: Aufbau, Integration und kontinuierliche Verbesserung in Geschäfts- und IT-Abläufen\n * Risikomanagement: Identifikation von Bedrohungen, Durchführung von Bewertungen und Umsetzung präventiver Maßnahmen\n * Richtlinien & Compliance: Erstellung, Pflege und Durchsetzung von IT-Sicherheitsrichtlinien gemäß internen Standards\n * Beratung & Reporting: Unterstützung von Geschäftsleitung und Fachbereichen, Erstellung von Reports und KPI-gestützte Wirksamkeitsmessung\n * Security by Design & Awareness: Begleitung von IT-Projekten, Förderung des Sicherheitsbewusstseins durch Trainings und Kampagnen\n * Incident Management: Leitung bei Sicherheitsvorfällen, Koordination von Sofortmaßnahmen und Ursachenanalysen in enger Abstimmung mit einem externen 24/7 SOC\n\n\nDAS BRINGEN SIE MIT:\n\n * Abgeschlossenes Studium der Informatik oder vergleichbare Qualifikation, idealerweise mit Schwerpunkt IT-Security\n * Mehrjährige Berufserfahrung in der Informationssicherheit wünschenswert\n * Breites, fundiertes Fachwissen und Fähigkeit zur praxisnahen Umsetzung\n * Analytische, konzeptionelle Stärke sowie hohe Einsatzbereitschaft und Hands-on-Mentalität\n * Fortlaufendes Interesse an neuen Entwicklungen in der IT-Security\n * Sehr gute Deutsch- und Englischkenntnisse\n\n\nGUTE GRÜNDE FÜR DEINEN SCHRITT ZU UNS:\n\n\n * Langfristige Perspektive in einem etablierten Traditionsunternehmen\n * Motiviertes und kollegiales Team\n * Flache Hierarchien, kurze Entscheidungswege\n * Umfassende Einarbeitung mit Onboarding- und Patenprogramm\n * Mitarbeiterrabatt\n * Firmenfitness Hansefit\n\nDIESEN SCHUH ZIEHEN SIE SICH GERNE AN?\n\nDann bewerben Sie sich jetzt unter Angabe Ihrer Verfügbarkeit und Ihrer Gehaltsvorstellung über unser Online-Bewerbungsformular.\n\nIhre Ansprechpartnerin ist:\n\nPetra Breuning\nPersonalwesen Rieker Gruppe\n\n",
+  "job_posted_date": "2025-09-21T00:00:00",
+  "job_job_types": [],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Thayngen",
+    "city": "thayngen",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aab4cabd006774040daa24&src=GD_JOB_AD&t=NS&vt=w&cs=1_1ef1363f&cb=1759085507966&jobListingId=1009850437496",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Rieker-EI_IE1064512.11,17.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Rieker",
+  "company_headquarters_location": {
+    "city": "thayngen",
+    "unknown": "Thayngen, Schweiz"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.rieker.com",
+  "company_revenue": "500 Millionen bis 1 Milliarde $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1874-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/304531/swissquote-squareLogo-1655108004040.png",
+  "company_name": "Swissquote Bank AG",
+  "job_title": "SOC Manager",
+  "job_description": "Company Description\n\n\nBuilding the bank of tomorrow takes more than skills.\nIt means combining our differences to imagine, discuss, code, develop, test, learn… and celebrate every step together. Share our vibes? Join Swissquote to unleash your potential.\n\nWe are the Swiss Leader in Online Banking and we provide trading, investing and banking services to +500’000 clients, through our performant and secured digital platforms.\n\nOur +1000 employees work in a flexible way, without dress code and in multicultural teams.\nBy having a huge impact on the industry, they are growing their skills portfolio and boosting their career in a fast-pace environment.\n\nWe are all in at Swissquote. As an equal opportunity employer, we welcome candidates from all backgrounds, experiences and perspectives to join our team and contribute to our shared success.\n\nAre you all in? Don’t be shy, apply!\n\n\nJob Description\n\n\nWe are seeking an experienced SOC Manager to lead our internal Blue Team and strengthen the bank’s cyber defense capabilities. This role is key in protecting a diverse IT and cloud environment while driving improvements in threat detection, incident response, threat hunting, and vulnerability management.\n\nAs SOC Manager, you will oversee the day-to-day operations and the strategy of our Security Operations Center, coordinate with our external SOC partner, and collaborate closely with IT and Fraud teams to defend against emerging threats.\n\nYou will also drive the implementation and improvement of security tools, frameworks, and best practices to ensure resilience in a fast-paced, highly regulated financial environment. If you are eager to embrace this challenge, we look forward to receiving your application.\n\nKey Responsibilities\n\nLeadership and Team management\n\n * Lead, mentor, and develop SOC analysts and engineers.\n * Manage team performance, on-call rotations, and operational priorities.\n * Foster a culture of continuous learning, resilience, and collaboration.\n\nSOC Operations\n\n * Oversee real-time monitoring and investigation of security events.\n * Coordinate and manage incident response from detection through recovery.\n * Act as the escalation point for complex incidents and investigations.\n * Ensure high-quality documentation and communication of incidents.\n * Drive proactive threat hunting and forensic investigations.\n * Enhance detection rules, use cases, and playbooks in SIEM/SOAR platforms.\n * Stay ahead of the evolving threat landscape, including financial fraud, APTs, and cybercrime TTPs.\n\nCollaboration and Strategy\n\n * Work closely with Infosec, IT and Fraud teams to align cyber defense with business needs.\n * Partner with the external SOC to ensure effective incident triage and escalation.\n * Engage with cyber authorities, peers and special interest groups.\n * Provide actionable insights and recommendations to senior management.\n * Contribute to vulnerability management programs and security improvement initiatives.\n\n\nQualifications\n\n\nMandatory\n\n * 5+ years of experience in information security and SOC operations\n * Advanced knowledge of technologies such as SIEM, EDR, SOAR, Cloud, Networking, Windows, Linux\n * Understanding of the Cyber Threat Landscape, cybercrime economic model and threat actors\n * Solid analytical and critical thinking abilities\n * Positive attitude and interest in learning new skills\n * Strong French and English communication skills, oral and written\n\nDesired\n\n * Bachelor or Master in Computer Science or similar\n * Certifications such as CEH, CISSP, SANS GIAC\n * Experience with: Microsoft Defender and Sentinel, Elastic, Kibana, OpenCTI, Python, N8N, Kubernetes, Azure\n\n\nAdditional Information\n\n\nSQ2",
+  "job_posted_date": "2025-09-03T00:00:00",
+  "job_job_types": [
+    "FULL_TIME",
+    "TEMPORARY"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Gland",
+    "city": "gland",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aab74c965ef0d5fa52f19a&src=GD_JOB_AD&t=NS&vt=w&ea=1&cs=1_0782f692&cb=1759085508533&jobListingId=1009864512593",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Swissquote-EI_IE304531.11,21.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "La rémunération reste faible même sur 13mois ",
+    "La revue salariale faite annuellement",
+    "Parking sur place gratuit pour les employés"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": true,
+  "job_industry": "Bank- & Kreditwesen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Swissquote",
+  "company_headquarters_location": {
+    "city": "gland",
+    "unknown": "Gland, Schweiz"
+  },
+  "company_sizes_str": "1''001 bis 5''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://www.swissquote.com/",
+  "company_revenue": "100 bis 500 Millionen $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1996-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/755157/axpo-squareLogo-1680691326072.png",
+  "company_name": "Axpo Holding AG",
+  "job_title": "Cyber Security Analyst w/m/d",
+  "job_description": "Pensum 80-100%\n\n\nAls eigenständige Tochter der Axpo Gruppe ist die Axpo Systems AG das Kompetenzzentrum für Telekommunikations-, Cyber Security sowie Datacenter Lösungen im Konzern.\n\nUnsere Kunden haben einen systemrelevanten Auftrag und befinden sich im Segment der kritischen Infrastrukturen. Sie kennen nur den höchstmöglichen Anspruch, denn sie betreiben die systemrelevanten Dienste der Schweiz. Das definiert den Anspruch an Profession, Zuverlässigkeit, Qualitäts- und Sicherheitsstandards und die technische Lösungskompetenz an uns kompromisslos hoch – denn unsere Leistung ermöglicht erst die krisensichere Ausführung dieser unverzichtbaren Dienste.\n\nAls Cyber Security Analyst bringst du deine Fachkenntnisse und dein Engagement zur erfolgreichen Umsetzung und Durchführung bei Axpo Systems ein. In dieser Rolle übernimmst du Verantwortung und genießt die Freiheit und Flexibilität, deine eigenen Ideen und Lösungen einzubringen und umzusetzen.\n\n\n\n\nAufgaben und Verantwortlichkeiten\n\n\n * \n\n * * Du bist Mitglied des internen CSIRT-Ansprechpartners bei Sicherheitsvorfällen\n   * Du definierst und leitest Maßnahmen zur Behebung von Security Incidents ein\n   * Du koordinierst das Security Event Monitoring mit Kunden und externen Partnern\n   * Du überwachst die IT- und OT-Umgebungen mit unseren Security Monitoring Tools, führst Vulnerability Tests und Threat Hunting durch und unterstützt bei Malware und Patch Management\n   * Du bringst dich mit Ideen, Verbesserungsvorschlägen sowie durch die Mitarbeit bei der Definition von SOPs, Playbooks und Use Cases und bei der Bereitstellung zusätzlicher Tools und Automatisierungslösungen in die Weiterentwicklung unseres SOC ein\n   * Du übernimmst bei Bedarf die fachliche Schulung interner Mitarbeitenden und Kunden bezüglich Security-Themen\n   * Du verfolgst die Entwicklungen der Threat Landscape, analysierst Security News Feeds und hältst dich und unsere Unternehmung diesbezüglich auf dem Laufenden\n\n * Profil und Erlebnisse\n\n * * Hochschulabschluss im Bereich Informatik, idealerweise mit Vertiefung in IT-Sicherheit\n   * Erste Berufserfahrung als SOC-Mitarbeiter/Security Analyst und/oder Erfahrung im Umgang mit gängigen Sicherheitstools (SIEM, SOAR, NDR, EDR, etc.)\n   * Fundierte Kenntnisse in den Bereichen Computernetzwerke, Betriebssysteme (Windows, Linux), Protokolle, Threat Hunting, Malware Analyse und Incident Response\n   * Idealerweise grundlegende Erfahrungen mit gängigen Programmier-/Scriptsprachen (Python, Bash, Powershell, etc.)\n   * Interesse an neuen Technologien sowie Bereitschaft, sich in weitere Security-Themen einzuarbeiten und das notwendige Fachwissen zu erwerben\n   * Stark ausgeprägte analytische und konzeptionelle Fähigkeiten gepaart mit hoher Sozialkompetenz, Effizienz und Belastbarkeit\n   * Teamplayer mit einer selbständigen und zuverlässigen Arbeitsweise\n   * Bereitschaft zum Pikettdienst\n   * Gute Deutsch- und Englischkenntnisse\n     \n     \n\n\n\nWir akzeptieren nur Direktbewerbungen.\n\n#AxpoSystemsAG",
+  "job_posted_date": "2025-09-27T00:00:00",
+  "job_job_types": [
+    "TEMPORARY"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Lupfig",
+    "city": "lupfig",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aab824be455cfdb4ebd1bc&src=GD_JOB_AD&t=NS&vt=w&cs=1_e0d73085&cb=1759085508774&jobListingId=1008662121256",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Axpo-EI_IE755157.11,15.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "Most people work strictly 9 to 5, some older employees are having the best life (they do not track time and work maybe 20 hours / week). However, if you want to work flexibly, you are freely able to come late and leave early if everything is done. Also if you have appointments during the day and work late this openly accepted, no peer pressure or any restrictions (apart from the respective supervisor)"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Energie- & Versorgungswirtschaft",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Axpo",
+  "company_headquarters_location": {
+    "city": "baden",
+    "unknown": "Baden, Schweiz"
+  },
+  "company_sizes_str": "1''001 bis 5''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.axpo.com/career",
+  "company_revenue": "5 bis 10 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1914-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/1132227/jems-group-squareLogo-1642674310569.png",
+  "company_name": "JEMS Group",
+  "job_title": "Analyst SOC H/F",
+  "job_description": "A PROPOS DE NOUS\n\nNous sommes le seul industriel de la donnée en Europe. Notre métier est de créer, manager et exploiter le patrimoine data de nos clients.\n\nNous avons la conviction que chaque entreprise peut adopter une démarche innovante de gestion de la donnée et créer des cas d’usage disruptifs en réduisant l'impact écologique et en diminuant la dette technique.\n\nNous comptons plus de 900 collaborateurs en mission chez nos clients grands comptes dans tout secteur d’activité : banque, assurance, santé, énergie, e-commerce, automobile, luxe, retail, transport, agritech…\n\n\nMISSIONS PROPOSÉES\n\nNous recherchons un(e) Analyste SOC capable de détecter et corriger les incidents de sécurité en respectant les process SOC\n\nVous serez en charge de :\n\n * Surveiller les alertes de sécurité à l’aide des outils du SOC (SIEM, EDR, etc.)Analyser et qualifier les incidents de sécurité, avec escalade si nécessaire\n\n * Participer à l’amélioration continue des règles de détection\n\n * Documenter les incidents, les procédures et les rapports d’analyse\n\n * Collaborer avec les équipes IT, Réseau et Sécurité pour une réponse efficace\n\n * Participer aux exercices de gestion de crise et tests de playbook\n\n * Contribuer à l’automatisation des processus SOC (scripts, règles, intégrations)\n\n\nNOTRE PROFIL IDÉAL\n\nVous êtes diplômé(e) d’une école d’ingénieur ou d’un parcours universitaire technique.\n\nEn tant qu'Analyste SOC, vous justifiez d'une expérience confirmée d'au minimum 5 ans dans un environnement SOC et de solides compétences en détection, investigation et réponse aux incidents. Vous maîtrisez des outils comme Splunk, Microsoft Sentinel, QRadar ou équivalent.\n\nVous disposez d'un esprit d'analyse, de rigueur, d'autonomie et du goût pour le travail en équipe. Vous disposez également d'un bon niveau d'anglais technique (oral et écrit). Des certifications en cybersécurité seraient appréciées : CEH, GCIH, ou similaires\n\n\n\nGenève\n\n38,50h\n/semaine\n\nDe 110000€\nà 120000€\n/an\n\nCDI\n\nDevOps/SysOps/Cloud\n\nFrançais\n",
+  "job_posted_date": "2025-09-27T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Genf",
+    "city": "genf",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aab79d9c91c890608427c0&src=GD_JOB_AD&t=NS&vt=w&cs=1_81ae1d6d&cb=1759085508677&jobListingId=1009756319500",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-JEMS-Group-EI_IE1132227.11,21.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "IT-Kundenbetreuung",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "JEMS Group",
+  "company_headquarters_location": {
+    "city": "neuilly-sur-seine",
+    "unknown": "Neuilly-sur-Seine, Frankreich"
+  },
+  "company_sizes_str": "501 bis 1''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://www.jems-group.com",
+  "company_revenue": "25 bis 100 Millionen $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "2002-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/564072/alpiq-squareLogo-1721046897217.png",
+  "company_name": "Alpiq Holding Ltd.",
+  "job_title": "Senior SOC Analyst (all) 100%",
+  "job_description": "Olten - 100% | Unbefristet\n\nAs a Senior SOC Analyst at Alpiq, you will play a critical role in advancing the maturity of our cybersecurity operations. You will be at the forefront of securing a complex environment encompassing IT, OT, and cloud infrastructure. Your expertise will drive improvements across key domains, including Incident Management, Vulnerability Management, Threat Hunting, and Incident Response, while contributing to platform support and engineering efforts.\n\nYou will work closely with the Security Operations Manager and the CISO to ensure robust incident response capabilities, enhance proactive monitoring, and implement strategic cybersecurity tools and frameworks to protect the organization’s critical infrastructure.\n\n\nSchick uns deine Bewerbung\n\nMöchtest du im Energiesektor etwas bewirken? Werde Teil von Alpiq – Deine Energie ist bei uns richtig!\n\n\n\n\n\n\nDeine Aufgaben\n\n * Incident Management and Response: Lead and coordinate incident response efforts, including managing investigations and containing and recovering from security incidents\n * Threat Hunting and Monitoring: Conduct proactive threat hunting across IT and OT, integrating emerging threat actor TTPs into detection workflows and dark web monitoring to mitigate risks\n * Vulnerability Management: Manage vulnerability management tools (e.g., Qualys, Tenable) to monitor, assess, and remediate vulnerabilities through a comprehensive VM lifecycle.\n * Security orchestration: Implement automation to remediate misconfigurations, reduce human error, and streamline daily operations\n * Detection Engineering: Optimize and test security tools and use cases to enhance threat detection, close detection gaps, and align with evolving TTPs and security standards.\n * Governance Support: Assess and improve security controls, while maintaining up-to-date standards and procedures tailored to the Alpiq environment.\n * Security Reporting: Develop dashboards and reports to provide near-real-time visibility into the organization’s risk posture and incident response metrics.\n\nDein Profil\n\n * Bachelor’s degree in IT, Cybersecurity, or a related field; equivalent professional experience considered.\n * Industry-recognized certifications (e.g., CISSP, OSCP, GIAC) are highly desirable or willing to obtain them.\n * Minimum of 6-8 years of hands-on experience in cybersecurity roles, with a focus on operations, incident response, and engineering.\n * Flair for AI topics.\n * Familiarity with regulatory frameworks and compliance requirements.\n * Fluency in English required.\n * Nice to have: Python scripting, programming experience, defending cloud environments with preference for AWS.\n\n#LI-DNI\nDeine Benefits\nWettbewerbsfähiges Gehaltspaket\nMarktorientiertes Gehalt\nWeiterbildungs- und Entwicklungsmöglichkeiten\nVielfältige Möglichkeiten zur beruflichen Weiterentwicklung\nFlexible Arbeitsmodelle\nVerschiedene flexible Arbeitsmodelle\n\n\nKontakt\n\nJessica Arber\njessica.arber@alpiq.com\n\n\n\n\n\n\nInklusion ist das Herzstück von Alpiq\n\nBei Alpiq setzen wir uns für die Schaffung eines integrativen Arbeitsumfelds ein, in dem jeder sein „ganzes Selbst“ zur Arbeit mitbringen und sich geschätzt, respektiert und gehört fühlen kann. Dieses Prinzip ist von zentraler Bedeutung für den Zweck, die Werte und den Führungsansatz unseres Unternehmens. Wir sind fest davon überzeugt, dass Organisationen durch die Einbeziehung von Vielfalt gedeihen. Die Energie jedes Einzelnen ist wichtig, unabhängig von Merkmalen wie Alter, Geschlecht, Nationalität, Sprache, sexueller Orientierung und Identität, Religion, sozialem oder ethnischem Hintergrund oder anderen persönlichen Merkmalen.\n\n\n\n\nDer Datenschutz\n\nBei Alpiq ist der Datenschutz ein wichtiges Thema. Bitte beachte deshalb den entsprechenden Datenschutzhinweis, der im Online-Bewerbungsformular erscheint und detailliert erklärt, zu welchem Zweck wir deine personenbezogenen Daten verarbeiten. Es ist uns ein grosses Anliegen, dich so transparent wie möglich zu informieren und deine Daten nur in fairer Weise zu verarbeiten.",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Olten",
+    "city": "olten",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aab849b2134fad8fa5b77c&src=GD_JOB_AD&t=NS&vt=w&cs=1_ee1dae6f&cb=1759085508824&jobListingId=1009883463558",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-ALPIQ-EI_IE564072.11,16.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Energie- & Versorgungswirtschaft",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "ALPIQ",
+  "company_headquarters_location": {
+    "city": "lausanne",
+    "unknown": "Lausanne, Schweiz"
+  },
+  "company_sizes_str": "1''001 bis 5''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://www.alpiq.com",
+  "company_revenue": "1 bis 5 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "2009-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/2871636/diomedes-security-squarelogo-1568873599250.png",
+  "company_name": "Diomedes Security AG",
+  "job_title": "SOC Threat Analyst (m/w)",
+  "job_description": "Start:\nASAP or upon agreement\nVertragsart:\nPermanent position\nPensum:\n80-100% / Fulltime\nArbeitsort:\nZurich Area\n\nFor our client, a leading supplier of Cyber Security and Network-Solutions in Switzerland, we are looking for a SOC Threat Analyst (m/w).\n\nYour main tasks:\n\n * Analyze events, flows, alerts and perform advanced analysis of potential security incidents\n * Conducting security assessments by performing vulnerability scans\n * Analyzing security breaches to identify the root causes\n * On-call duty for handling of critical security alerts\n * Assist in ensuring security controls are implemented according to best practices\n\nYour profile:\n\n * Completed IT apprenticeship with at least 1 year of professional experience (IT Security of advantage), Bachelor's degree with practical experience\n * First experience in security analysis and IT advantageous\n * Good basic knowledge of Linux / Unix OS, Windows, firewall rules, policy and network routinely desired\n * Experience with SIEM tools and security technologies, such as QRadar, Service Now, Kibana, Tenable, FireEye, Defender, Tripwire or similar\n * Experience working with customers via phone, email or other corporate communications methods\n * Good verbal and written communication skills in German and English\n\nIhre Perspektiven:\n\n * Varied and interesting tasks\n * The chance to use your technical and process skills for challenging projects\n * Learn from a highly specialized team of experts\n * Work with great professionals in a relaxed environment\n * Enjoy attractive benefits and working conditions including home-office\n * Get support for further education, certificates and learning\n * Use the tech lab to explore new ideas\n * Enjoy the freedom to do things your way\n\n\nINTERESSIERT?\n\nWir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form.\n\n\n\nYulia Dorling\nHead of Recruiting - Cyber Security\n+41 79 367 14 48\nyulia.dorling@diomedes-security.ch",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME",
+    "TEMPORARY"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Zürich",
+    "city": "zürich",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aab8be857ff0b13247ffbb&src=GD_JOB_AD&t=NS&vt=w&cs=1_370d0160&cb=1759085508956&jobListingId=1006267800432",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Diomedes-Security-EI_IE2871636.11,28.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Diomedes Security",
+  "company_headquarters_location": {
+    "city": "feusisberg",
+    "unknown": "Feusisberg, Schweiz"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.diomedes-security.ch",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/564072/alpiq-squareLogo-1721046897217.png",
+  "company_name": "Alpiq Holding Ltd.",
+  "job_title": "Senior SOC Analyst (all) 100%",
+  "job_description": "Olten - 100% | A durée indéterminée\n\nAs a Senior SOC Analyst at Alpiq, you will play a critical role in advancing the maturity of our cybersecurity operations. You will be at the forefront of securing a complex environment encompassing IT, OT, and cloud infrastructure. Your expertise will drive improvements across key domains, including Incident Management, Vulnerability Management, Threat Hunting, and Incident Response, while contributing to platform support and engineering efforts.\n\nYou will work closely with the Security Operations Manager and the CISO to ensure robust incident response capabilities, enhance proactive monitoring, and implement strategic cybersecurity tools and frameworks to protect the organization’s critical infrastructure.\n\n\nEnvoie-nous ta candidature\n\nTu veux faire la différence dans le secteur de l'énergie ? Fais partie d'Alpiq - ton énergie compte !\n\n\n\n\n\n\nTes responsabilités\n\n * Incident Management and Response: Lead and coordinate incident response efforts, including managing investigations and containing and recovering from security incidents\n * Threat Hunting and Monitoring: Conduct proactive threat hunting across IT and OT, integrating emerging threat actor TTPs into detection workflows and dark web monitoring to mitigate risks\n * Vulnerability Management: Manage vulnerability management tools (e.g., Qualys, Tenable) to monitor, assess, and remediate vulnerabilities through a comprehensive VM lifecycle.\n * Security orchestration: Implement automation to remediate misconfigurations, reduce human error, and streamline daily operations\n * Detection Engineering: Optimize and test security tools and use cases to enhance threat detection, close detection gaps, and align with evolving TTPs and security standards.\n * Governance Support: Assess and improve security controls, while maintaining up-to-date standards and procedures tailored to the Alpiq environment.\n * Security Reporting: Develop dashboards and reports to provide near-real-time visibility into the organization’s risk posture and incident response metrics.\n\nTon profil\n\n * Bachelor’s degree in IT, Cybersecurity, or a related field; equivalent professional experience considered.\n * Industry-recognized certifications (e.g., CISSP, OSCP, GIAC) are highly desirable or willing to obtain them.\n * Minimum of 6-8 years of hands-on experience in cybersecurity roles, with a focus on operations, incident response, and engineering.\n * Flair for AI topics.\n * Familiarity with regulatory frameworks and compliance requirements.\n * Fluency in English required.\n * Nice to have: Python scripting, programming experience, defending cloud environments with preference for AWS.\n\n#LI-DNI\nTes avantages\nSalaire compétitif\nSalaire orienté vers le marché\nPossibilités de formation et de développement\nDiverses possibilités de développement professionnel\nModèles de travail flexibles\nDifférents modèles de travail flexibles\n\n\nContact\n\nJessica Arber\njessica.arber@alpiq.com\n\n\n\n\n\n\nL'inclusion est au cœur d'Alpiq\n\nChez Alpiq, nous nous engageons à créer un environnement de travail inclusif dans lequel chacun peut être pleinement soi-même au travail et se sentir valorisé, respecté et écouté. Ce principe est au cœur de notre mission, des valeurs et de l'approche managériale de notre entreprise. Nous sommes fermement convaincus que les organisations prospèrent grâce à l'inclusion de la diversité. L'énergie de chacun compte, quelle que soit sa spécificité, notamment l’âge, le genre, la nationalité, la langue, l’orientation et l’identité sexuelles, la religion, l’origine sociale ou ethnique, ou toute autre caractéristique personnelle.\n\n\n\n\nProtection des données\n\nChez Alpiq, la protection des données est un sujet important. C'est pourquoi nous vous prions de prendre connaissance de la note d'information correspondante sur la protection des données, qui apparaît dans le formulaire de candidature en ligne et qui explique en détail dans quel but nous traitons vos données personnelles. Il nous tient à cœur de vous informer de manière aussi transparente que possible et de ne traiter vos données que de manière loyale.",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Olten",
+    "city": "olten",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aabbd096362e3b9c2c1cfe&src=GD_JOB_AD&t=NS&vt=w&cs=1_fdf15c41&cb=1759085509849&jobListingId=1009883465374",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-ALPIQ-EI_IE564072.11,16.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Energie- & Versorgungswirtschaft",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "ALPIQ",
+  "company_headquarters_location": {
+    "city": "lausanne",
+    "unknown": "Lausanne, Schweiz"
+  },
+  "company_sizes_str": "1''001 bis 5''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://www.alpiq.com",
+  "company_revenue": "1 bis 5 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "2009-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/4075/orange-squarelogo-1411420090097.png",
+  "company_name": "Orange",
+  "job_title": "System and Datacenter Engineer",
+  "job_description": "SOME HIGHLIGHTS\n\n\n\n * Being part of an international company yet with local presence\n\n   \n\n * Build a safer digital society together with us\n\n\n\n\nWORKING AS A SYSTEM AND DATACENTER ENGINEER\n\nOrange Cyberdefense Switzerland fully aligns with Orange Cyberdefense’s vision to become the leading cybersecurity and secure infrastructure provider in Switzerland. Our mission: to deliver specialized expertise in cybersecurity, covering all aspects related to infrastructure, networks, data centers, and cloud.\n\nSurrounded by specialists, we combine strong technical expertise with great flexibility to meet the needs of organizations of all sizes, including the smallest. Our Swiss roots, with locally present teams, enable us to be close to our clients, providing personalized and responsive support.\n\nWe currently employ more than 100 engineers capable of addressing our customers’ cybersecurity and infrastructure needs, from daily operations to strategic decision making. Relying on a global team of over 3,100 experts, along with Security Operations Centers (SOC), CyberSOC, CSIRT, and CERT, we offer comprehensive, certified solutions recognized by leading analysts such as Gartner, Forrester, and IDC. Our unique Threat Intelligence leverages more than 500 sources to focus on real threats, while ensuring compliance with worldwide regulations.\n\nIn order to strengthen our delivery capabilities, we are currently looking for a System and Datacenter Engineer to join our Integration department.\n\nYOUR MAIN TASKS\n\nAs a technical expert, you will be involved in various projects, designing and implementing infrastructure solutions, especially focused on the following technologies: Nutanix, VMWare, Netapp, Veeam, etc. Your tasks will include design, deployment, administration, fine tuning and optimization of these infrastructure solutions.\n\nIn this position, you will take part in activities such as:\n\n\n\n * Architecture, design, implementation and audit of virtualization, backup and storage solutions\n\n   \n\n * Equipment configuration and deployment\n\n   \n\n * Contribution to pre-sales activities\n\n   \n\n * Project management\n\n   \n\n * L3 support\n\n   \n\n * Customer consulting and advice\n\n   \n\n * Training and certifications\n\n\n\n\nWHAT WE EXPECT OF YOU\n\n\n\n * You hold a bachelor’s Degree or equivalent and already have professional experience in the virtualization and/or backup and/or storage and/or Microsoft Administration fields.\n\n   \n\n * You have a solid understanding of virtualization, backup and storage principles, protocols and technologies as well as common enterprise infrastructures.\n\n   \n\n * You are willing to learn and evolve in a technically sharp and interesting environment, dealing with challenging and stimulating issues and can demonstrate strong analytical and problem-solving skills.\n\n   \n\n * You are capable of monitoring systems trends and considering specific customers’ requirements in order to deliver advanced configurations and ensure that our solutions are designed and implemented to the highest standards.\n\n   \n\n * You have good spoken and written communication skills and can write useful documentation and reports. You can demonstrate initiative and work on projects with minimal supervision. Also, you are a team player with an open mind and a constructive mindset.\n\n   \n\n * You are fluent in French and are proficient in English. German knowledge is a plus.\n\n   \n\n * You are Swiss Resident, have a driving license.\n\n\n\n\n\n\nCONTRAT\n\nCDI\n\nEligible au télétravail",
+  "job_posted_date": "2025-09-26T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Morges",
+    "city": "morges",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aabc3da301c3663f9a018f&src=GD_JOB_AD&t=NS&vt=w&cs=1_3f5abcd4&cb=1759085509864&jobListingId=1009888627290",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Orange-EI_IE4075.11,17.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "avantage très occasionnel et limité dans le temps "
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Telekommunikationsdienstleistungen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Orange",
+  "company_headquarters_location": {
+    "city": "brüssel",
+    "unknown": "Brüssel, Königreich Belgien"
+  },
+  "company_sizes_str": "Mehr als 10''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://orange.jobs/site/fr-home/",
+  "company_revenue": "Mehr als 10 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1994-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/564072/alpiq-squareLogo-1721046897217.png",
+  "company_name": "Alpiq Holding Ltd.",
+  "job_title": "Senior SOC Analyst (all) 100%",
+  "job_description": "Olten - 100% | Permanent\n\nAs a Senior SOC Analyst at Alpiq, you will play a critical role in advancing the maturity of our cybersecurity operations. You will be at the forefront of securing a complex environment encompassing IT, OT, and cloud infrastructure. Your expertise will drive improvements across key domains, including Incident Management, Vulnerability Management, Threat Hunting, and Incident Response, while contributing to platform support and engineering efforts.\n\nYou will work closely with the Security Operations Manager and the CISO to ensure robust incident response capabilities, enhance proactive monitoring, and implement strategic cybersecurity tools and frameworks to protect the organization’s critical infrastructure.\n\n\nSend us your application\n\nAre you looking to make an impact in the energy sector? Become part of Alpiq - your energy matters!\n\n\n\n\n\n\nYour main responsibilities\n\n * Incident Management and Response: Lead and coordinate incident response efforts, including managing investigations and containing and recovering from security incidents\n * Threat Hunting and Monitoring: Conduct proactive threat hunting across IT and OT, integrating emerging threat actor TTPs into detection workflows and dark web monitoring to mitigate risks\n * Vulnerability Management: Manage vulnerability management tools (e.g., Qualys, Tenable) to monitor, assess, and remediate vulnerabilities through a comprehensive VM lifecycle.\n * Security orchestration: Implement automation to remediate misconfigurations, reduce human error, and streamline daily operations\n * Detection Engineering: Optimize and test security tools and use cases to enhance threat detection, close detection gaps, and align with evolving TTPs and security standards.\n * Governance Support: Assess and improve security controls, while maintaining up-to-date standards and procedures tailored to the Alpiq environment.\n * Security Reporting: Develop dashboards and reports to provide near-real-time visibility into the organization’s risk posture and incident response metrics.\n\nYour profile\n\n * Bachelor’s degree in IT, Cybersecurity, or a related field; equivalent professional experience considered.\n * Industry-recognized certifications (e.g., CISSP, OSCP, GIAC) are highly desirable or willing to obtain them.\n * Minimum of 6-8 years of hands-on experience in cybersecurity roles, with a focus on operations, incident response, and engineering.\n * Flair for AI topics.\n * Familiarity with regulatory frameworks and compliance requirements.\n * Fluency in English required.\n * Nice to have: Python scripting, programming experience, defending cloud environments with preference for AWS.\n\nYour benefits\nCompetitive salary package\nMarket-oriented salary\nTraining and development\nDiverse opportunities for career growth\nFlexible work models\nVarious flexible work models\n\n\nContact\n\nJessica Arber\njessica.arber@alpiq.com\n\n\n\n\n\n\nInclusion is at the heart of Alpiq\n\nAt Alpiq, we are committed to creating an inclusive work environment, where everyone can bring their ‘whole selves’ to work and feel valued, respected, and heard. This principle is central to our company’s purpose, values, and leadership approach. We strongly believe that organizations thrive through the inclusion of diversity. Everyone’s energy matters regardless of characteristics, such as age, gender, nationality, language, sexual orientation and identity, religion, social or ethnic background or any other personal traits.\n\n\n\n\nData protection\n\nAt Alpiq, data privacy is an important topic. Please therefore take note of the corresponding Privacy Notice that appears in the online application form and explains in detail the purpose for which we process your personal data. It is of great concern to us to inform you as transparently as possible and process your data only in a fair manner.",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Olten",
+    "city": "olten",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aabccfa8d17836a7b819cf&src=GD_JOB_AD&t=NS&vt=w&cs=1_6b166b14&cb=1759085510059&jobListingId=1009883463577",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-ALPIQ-EI_IE564072.11,16.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Energie- & Versorgungswirtschaft",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "ALPIQ",
+  "company_headquarters_location": {
+    "city": "lausanne",
+    "unknown": "Lausanne, Schweiz"
+  },
+  "company_sizes_str": "1''001 bis 5''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "https://www.alpiq.com",
+  "company_revenue": "1 bis 5 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "2009-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "Zync Group",
+  "job_title": "TIER 1 SOC ANALYST",
+  "job_description": "I’m collaborating with an exciting Consultancy, with an influx of projects and innovative company culture, they are always striving to be the best Consultancy in the DACH region!\n\nI am searching for a Tier 1 SOC Analyst, with benefits on offer such as incredibly flexible remote working options and a salary of 70-100k CHF which is far above the market average!\n\nIf you would like to learn more about this job, send me your CV: dhillon@zyncgroup.io\n\nResponsibilities:\n\nAs a Tier 1 SOC Analyst you will respond to threats and escalate issues to Tier 2 analysts. Also you will work with other experts in the team, providing advice to customers on SOC/SIEM topics.\n\nAlso, you will have the opportunity to train and develop your skills in SOC/SIEM, specifically in tools such as SentinelOne, Tenable and Elastic. Also, you will become very familiar with EDR/XDR systems, and there is potential for you to progress to a Tier 2 SOC Analyst\n\n\nSkill Requirements:\n\n * 2+ years experience working in a SOC\n * Experience with any SIEM tools: SentinelOne, Elastic, Tenable\n * Business fluent German and English speaking.\n\n\nWhat’s on offer:\n\n * A structured onboarding process customized to meet your specific needs.\n * Engaging and personalized development opportunities.\n * Way above market average salary package of up to 100k CHF\n * Regular team events all year round.\n * Many more…\n\n\nTier 1 SOC Analyst – Germany (Hybrid) – 70-100k CHF – 5839\n\n\n\n\n\nCONTACT CONSULTANT\n\nDHILLON SINGH\nDHILLON@ZYNCGROUP.IO\n+4921190760032\n\n",
+  "job_posted_date": "2025-09-25T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Zürich",
+    "city": "zürich",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aabdc493922987238fd958&src=GD_JOB_AD&t=NS&vt=w&cs=1_4500d2b2&cb=1759085510221&jobListingId=1009650482394",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Zync-EI_IE8262634.11,15.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Zync",
+  "company_headquarters_location": {
+    "city": "manchester",
+    "unknown": "Manchester, Vereinigtes Königreich"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.zyncgroup.io",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/2871636/diomedes-security-squarelogo-1568873599250.png",
+  "company_name": "Diomedes Security AG",
+  "job_title": "SOC Security Analyst (m/w)",
+  "job_description": "Start:\nSofort oder nach Vereinbarung\nVertragsart:\nUnbefristete Festanstellung\nPensum:\n80-100%\nArbeitsort:\nVaduz, Lichtenstein\n\nFür unseren Kunden, Europas führendes Technologieunternehmen im Bereich Detection & Response mit Standorten in Wien (Österreich) und Vaduz (Liechtenstein), suchen wir eine/n SOC Security Analyst (m/w).\n\nIhre Hauptaufgaben:\n\n * Durchführung von Analysen sicherheitsrelevanter Ereignisse\n * Analyse von Vorfällen, Schwachstellen, Attacken und neuen sowie sich abzeichnenden Gefahren für Kunden\n * Erweiterung der automatisierten Korrelation und Erkennung von Sicherheitsproblemen\n * Mitarbeit bei Erweiterung einer umfassenden Security und Risk Knowledge Base\n * Enge Kooperation mit anderen Security Spezialisten\n\nIhr Profil:\n\n * Mehrjährige Berufserfahrung im IT-Security Bereich\n * Erfahrung mit Schwachstellen-Scans, Intrusion Detection Systemen und SIEM\n * Erfahrung mit den gängigsten Betriebssystemen, speziell mit Linux und Netzwerk Infrastruktur\n * Gute Kenntnisse in den gängigen Script- und Programmiersprachen (Bash, Python)\n * Fliessende Deutsch- sowie sehr gute Englischkenntnisse in Wort und Schrift\n\nIhre Perspektiven:\n\n * Interessantes, internationales Arbeitsumfeld mit langfristiger Perspektive\n * Weiterbildung und Kompetenzentwicklung sowie regelmässige Feedback-Sessions\n * Sehr kollegiales und teamorientiertes Umfeld\n\n\n\n\n\nINTERESSIERT?\n\nWir freuen uns auf Ihre aussagekräftigen Bewerbungsunterlagen in elektronischer Form.\n\n\n\nYulia Dorling\nHead of Recruiting - Cyber Security\n+41 79 367 14 48\nyulia.dorling@diomedes-security.ch",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME",
+    "TEMPORARY"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Schweiz",
+    "city": "schweiz",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aabda6959b901ba84cf66d&src=GD_JOB_AD&t=NS&vt=w&cs=1_e87e09d5&cb=1759085510271&jobListingId=1006267800415",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Diomedes-Security-EI_IE2871636.11,28.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Diomedes Security",
+  "company_headquarters_location": {
+    "city": "feusisberg",
+    "unknown": "Feusisberg, Schweiz"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.diomedes-security.ch",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/602813/postfinance-squarelogo-1443624982748.png",
+  "company_name": "PostFinance AG",
+  "job_title": "Senior SOC Analyst (w/m/d)",
+  "job_description": "80-100%\n\nmit Erfahrung und noch viel mehr Pioniergeist\n\nDu suchst keinen Job, sondern eine Berufung. Du willst etwas bewirken, Verantwortung tragen und mit einem mutigen Team neue Wege im digitalen Banking gehen? Geh deinen Weg mit uns!\n\nUnser gemeinsames Ziel\n\nAls Senior SOC Analyst übernimmst du eine zentrale Rolle in der Weiterentwicklung und strategischen Ausrichtung unseres Blue Teams. Gemeinsam mit dem Leiter IT Security und anderen Stakeholdern treibst du unsere Cyber-Abwehr voran. Zusammen mit deinen neuen Kolleginnen und Kollegen sorgst du als Teil unseres Blue Teams (7x24 mit Pikettdienst) dafür, dass unsere IT-Systeme vor Cyberangriffen geschützt werden. Dabei überwachst du Systeme und Netzwerke, erkennst Bedrohungen frühzeitig und leitest geeignete Massnahmen ein. Deine Erkenntnisse kommunizierst du klar und verständlich - sowohl intern als auch gegenüber externen Stakeholdern.\n\nDas kannst du bewirken\n\n\n\n * Du treibst die Weiterentwicklung des Blue Teams voran, bringst Trends und neue Tools ein und optimierst unsere Detection- und Response-Fähigkeiten\n * Du begleitest Audits und Compliance-Prüfungen, bereitest Unterlagen vor und stellst die Einhaltung regulatorischer Anforderungen sicher\n * Du unterstützt das Team fachlich, gibst dein Wissen weiter und förderst den Austausch. Du hilfst bei der Einarbeitung neuer Teammitglieder und trägst zur kontinuierlichen Weiterentwicklung der Teamkompetenzen bei\n * Du übernimmst die fachliche Koordination bei kritischen Sicherheitsvorfällen und sorgst für eine strukturierte Kommunikation mit anderen IT-Teams, dem Management und externen Partnern\n * Du schätzt Risiken ein, ordnest Bedrohungslagen verständlich ein und ergänzt das Team mit deinem Fachwissen\n * Du analysierst Sicherheitsvorfälle und Logdaten, erkennst Bedrohungen frühzeitig und leitest passende Gegenmassnahmen ein\n\n\n\nDas bringst du mit\n\n\n\n * Abgeschlossenes Studium in Informatik, Cyber Security oder eine vergleichbare Ausbildung, ergänzt durch relevante Zertifizierungen (z. B. CISSP, CISM, GIAC, CAS, MAS)\n * Mehrjährige Erfahrung im Bereich IT-Security, idealerweise im SOC-Umfeld, sowie fundiertes technisches Know-how in Netzwerksicherheit, Log-Analyse und Incident Response\n * Vertrautheit mit gängigen Security-Frameworks (z. B. MITRE ATT&CK, NIST, ISO 27001) und praktische Erfahrung im Umgang mit SIEM-, EDR- und SOAR-Systemen\n * Analytisches Denken, Kommunikationsstärke und die Fähigkeit, komplexe Sachverhalte adressatengerecht darzustellen\n * Verantwortungsbewusstsein, Teamorientierung und die Bereitschaft, Wissen durch Mentoring einzubringen\n * Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift\n\n\n\nGehaltsrange\n\nDein Bruttolohn wird zwischen 130'000 und 145'000 pro Jahr (100% Pensum) liegen und ist abhängig von deiner Erfahrung noch verhandelbar. Zusätzlich kannst du einen variablen Lohnanteil von bis zu 8,3% deines Jahresgehalts erhalten.\n\nDarum startest du mit uns\n\n\n\n * Bei PostFinance arbeiten alle auf Augenhöhe zusammen, unabhängig von Führungsstufen.\n * Vorteilhafte Kinder- und Ausbildungszulagen, Halbtax oder Anteil GA, Vorzugszins auf Hypotheken, gebührenfreie Konten, Kreditkarte, Depots und vielfältige Personalgutscheine.\n * Sechs Wochen Ferien und Option auf unbezahlten Urlaub.\n * Vielfältige Möglichkeiten, um weiterzukommen, sowie Chancen zur Aus- und Weiterbildung auf allen Stufen.\n * Moderne Arbeitsplätze, flexible Arbeitszeiten und in vielen Bereichen auch Homeoffice.\n\n\n\nDeine Bewerbung bearbeitet:\n\nUmberto Verde People Attraction Manager\n\nHast du Fragen zur Stelle?\n\nJosé-Luis Berger Co-Leiter IT-Security\n\n+41 78 747 99 55\n\nArbeitsort\n\nBern / Homeoffice\n\nBerufserfahrung\n\nBerufserfahrene\n\nReferenznummer\n\n71713",
+  "job_posted_date": "2025-09-24T00:00:00",
+  "job_job_types": [
+    "FULL_TIME",
+    "PART_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Bern",
+    "city": "bern",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aabdbab9018d86585a2a0a&src=GD_JOB_AD&t=NS&vt=w&cs=1_de0838a6&cb=1759085510195&jobListingId=1009885560010",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-PostFinance-EI_IE602813.11,22.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "Jedes Team entscheidet selbst wie Home Office gehandhabt werden soll"
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Bank- & Kreditwesen",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "PostFinance",
+  "company_headquarters_location": {
+    "city": "bern",
+    "unknown": "Bern, Schweiz"
+  },
+  "company_sizes_str": "1''001 bis 5''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.postfinance.ch",
+  "company_revenue": "5 bis 10 Milliarden $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1906-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "Zync Group",
+  "job_title": "TIER 2 SOC ANALYST",
+  "job_description": "I’m collaborating with an exciting Consultancy, with an influx of projects and innovative company culture, they are always striving to be the best Consultancy in the DACH region!\n\nI am searching for a Tier 2 SOC Analyst, with benefits on offer such as incredibly flexible remote working options and a salary of 100-130k CHF, which is far above the market average!\n\nIf you would like to learn more about this job, send me your CV: dhillon@zyncgroup.io\n\nResponsibilities:\nAs a Tier 2 SOC Analyst you will be consulting customers on EDR, XDR and Cloud monitoring solutions. Also, you will provide advice for customers on SIEM tools such as Tenable, SentinelOne and Elastic. Ultimately you must be able to develop and maintain customer relationships.\n\nAlongside this you will be involved in the detection and response of threats, as well as developing the inhouse software.\n\nYou will have the opportunity to train and develop your skills in SOC/SIEM, specifically in tools such as SentinelOne, Tenable and Elastic. Also, you will become very familiar with EDR/XDR systems.\n\n\nSkill Requirements:\n\n * 3+ years experience working in a SOC\n * Experience with any SIEM tools: SentinelOne, Elastic, Tenable\n\nExperience with EDR/XDR and Cloud monitoring solutions\n\n * Business fluent German and English speaking.\n\n\nWhat’s on offer:\n\n * A structured onboarding process customized to meet your specific needs.\n * Engaging and personalized development opportunities.\n * Way above market average salary package of up to 130k CHF\n * Regular team events all year round.\n * Many more…\n\n\nTier 2 SOC Analyst – Germany (Hybrid) – 100-130k CHF – 5840\n\n\n\n\n\nCONTACT CONSULTANT\n\nDHILLON SINGH\nDHILLON@ZYNCGROUP.IO\n+4921190760032\n\n",
+  "job_posted_date": "2025-09-25T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Zürich",
+    "city": "zürich",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991aac5f996ce956efc7ffc38&src=GD_JOB_AD&t=NS&vt=w&cs=1_3d4bfa9f&cb=1759085512407&jobListingId=1009650482401",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Zync-EI_IE8262634.11,15.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Zync",
+  "company_headquarters_location": {
+    "city": "manchester",
+    "unknown": "Manchester, Vereinigtes Königreich"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.zyncgroup.io",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": null,
+  "company_name": "Avantec AG",
+  "job_title": "Senior Cyber Security Analyst & Incident Responder 80-100%",
+  "job_description": "Tagtäglich wird in den Medien über Cyberwar, Hacker-Angriffe und Datendiebstahl berichtet. Unternehmen rüsten auf, um sich vor kriminellen Angriffen zu schützen. Dafür brauchen sie smarte und erfahrene Experten, die sich auf dem Gebiet der IT-Security bestens auskennen. Willst Du Dich auf die Seite der Guten schlagen und Cyber Crime den Kampf ansagen? Dann bist Du bei uns goldrichtig!\n\n\nWIR SUCHEN ERFAHRENE CYBER SENIOR SECURITY ANALYSTEN FÜR UNSER CYBER DEFENSE TEAM\n\n\n\nDu hast die Möglichkeit, dich im Zukunftsbusiness der Cyber Security weiterzuentwickeln und mit einem motivierten Team die Security Services der AVANTEC weiter auszubauen. Bist du smart, motiviert und bereit, viel Neues zu lernen, Gas zu geben und einen hervorragenden Job zu machen? Dann bewirb Dich jetzt bei uns. Wir möchten diese spannende Stelle per sofort oder nach Vereinbarung besetzen.\n\n\nWAS DEINE AUFGABE IST.\n\n\n\nDu bist Teil des Cyber Defense Teams, Deine Verantwortung umfasst:\n\n * Analyse und Behandlung von Security Events unserer Kunden inklusive tiefergehender Root-Cause Analysen sowie Einleitung von Security Incident Response Massnahmen zur Schadensbegrenzung\n * Übernahme der 24/7 Bereitschaft als Eskalationsstelle für kritische Vorfälle\n * Rollout unserer Cyber Defense Services und darunterliegender Technologien (zum Beispiel Hunters, Crowdstrike, Defender, Vectra, Cribl) sowie Integration in die AVANTEC Cyber Defense Toolchain\n * Definition, Pflege und kontinuierliche Erweiterung von Playbooks und Runbooks, um optimal vorbereitet zu sein\n * Umsetzung von Engineering Aktivitäten zum Ausbau der Cyber Defense Toolchain wie die Anbindung neuer Schnittstellen oder die Entwicklung neuer SOAR Use Cases\n * Unterstützung beim Aufbau neuer Security Services von der Konzeption über das Engineering bis hin zum stabilen Betrieb\n * Interpretation von Threat Intelligence sowie aktive Durchführung von Threat Hunting in Kundenumgebungen\n * Regelmässige Durchführung von Config Reviews und Health Checks in Kundenumgebungen zur Sicherstellung eines hohen Standards\n * Kontinuierliche Verbesserung zentraler Abläufe, Prozesse und Tools zur Erhöhung der Effizienz und Effektivität\n * Sicherstellung einer hohen Kundenzufriedenheit durch professionellen und lösungsorientierten Umgang mit Anliegen\n\n\nWAS DU MITBRINGST.\n\n\n\nCyber Security fasziniert Dich? Du willst Dich in dieser spannenden Branche weiterentwickeln und zusammen mit uns die führenden Schweizer Firmen vor Cyber-Bedrohungen schützen? Du bist smart, motiviert, begeisterungsfähig und bereit, Neues zu lernen? Dann haben wir den richtigen Job für Dich.\n\nAufbauend auf einer fundierten technischen Ausbildung (HF/FH/Uni oder vergleichbar) und mindestens 3-5 Jahren Berufserfahrung im Bereich Cyber Defense/SOC fühlst Du Dich bereit für diese spannende Aufgabe. Bei Interesse kannst du weiterführende Verantwortung bei der eingesetzten Toolchain übernehmen (Erfahrung mit Python von Vorteil).\n\nIndustrie Zertifizierung, GIAC Certified Forensic Analyst (GCFA), GIAC Continuous Monitoring (GMON) von Vorteil.\n\nDu bist ein Teamplayer und kommunizierst gut und gerne mit Kunden wie auch Mitarbeitenden – sowohl in Deutsch als auch in Englisch.\n\nWir sind kundennah, unkompliziert und schätzen schnelle Entscheidungswege – deswegen suchen wir eine eigenverantwortliche Persönlichkeit, die mitdenkt und sich engagiert. In Deiner selbstständigen Arbeitsweise bist Du es gewohnt, lösungsorientiert zu denken.\n\nWir bauen auf Kontinuität: über 40% der AVANTEC-Mitarbeitenden arbeiten bereits länger als 10 Jahre bei uns. Das schätzen unsere Kunden und wir als Team sehr. Darum ist es uns wichtig, dass Du Dir vorstellen kannst, längerfristig bei AVANTEC zu arbeiten. Dafür bieten wir Dir ein tolles Arbeitsumfeld und die idealen Entwicklungsmöglichkeiten.\n\n\nWAS WIR DIR BIETEN.\n\n\n\nWir bieten ein erfahrenes und fachlich hochqualifiziertes Team. Durch die langjährige Betriebszugehörigkeit unserer Mitarbeitenden sind wir bestens aufeinander eingespielt und setzen höchste Qualitätsansprüche an unsere Arbeit.\n\nAVANTEC investiert nicht nur interne Ressourcen in die Ausbildung der Mitarbeitenden, sondern kommt auch für externe produkte- und fachbezogene Ausbildungen auf. Bei AVANTEC hast Du nie ausgelernt – genauso wenig wie in der IT-Security, die sich tagtäglich weiterentwickelt.\n\nUnser flexibles Arbeitszeitmodell erlaubt es Dir, diese Stelle mit einer berufsbegleitenden Weiterbildungen zu kombinieren oder Dein Familienleben mit dem Beruf erfolgreich unter einen Hut zu bringen. Denkst Du mit und willst weiterkommen? Wir werden Dich tatkräftig dabei unterstützen.\n\nWir bieten Dir attraktive Anstellungsbedingungen inkl. erfolgsbasierte Entschädigung (Bonus) und 6 Wochen Ferien. Zudem verfügen wir über eine moderne und flexible Home-Office-Regelung.\n\n\nWIE ES IST, BEI AVANTEC ZU ARBEITEN.\n\n\n\nProfessionalität und Kollegialität sind für uns das Wichtigste. Wir wachsen seit vielen Jahren stetig, dennoch legen wir grossen Wert auf einen persönlichen Umgang: Sei das beim Apéro, beim Ping-Pong-Spielen, beim gemeinsamen Mittagessen oder beim jährlichen Firmenweekend inkl. Begleitung – letztes Mal in München. Bei AVANTEC bist Du Teil eines Teams, das gerne zusammenarbeitet, einander schätzt und sich auf Augenhöhe begegnet – Engineers, Kundenbetreuer, Backoffice und Geschäftsleitung. Wir wollen gemeinsam etwas erreichen und einen Job haben, der Spass macht.\n\n\nDU WILLST EIN AVANTECIE WERDEN?\n\n\n\nDann sende uns bitte Deine vollständigen Bewerbungsunterlagen inkl. Lebenslauf per E-Mail. Wir freuen uns, Dich kennen zu lernen!\n\nKontaktperson:\nHerr Christian Grob\nTel. 044 457 13 13\ngrob@avantec.ch (PGP) (X.509)\n\nAnmerkung: Direktbewerbungen werden bevorzugt und priorisiert behandelt. Bewerbung via Head-Hunter finden nur in Ausnahmefällen Berücksichtigung.\n\n\nÜBER AVANTEC.\n\n\n\nAVANTEC AG in Zürich ist der führende Schweizer IT-Security-Integrator und -Lösungsanbieter. Seit 1995 entwickelt sich AVANTEC kerngesund und erfolgreich. Wir sind stolz auf unsere ausgezeichnete Marktpositionierung und wollen sie auch in Zukunft optimal weiterentwickeln. Seit 2020 gehört AVANTEC zur Grapha-Gruppe. Zusammen mit den Grapha-Unternehmen haben wir ambitionierte Ziele, unser bestehendes IT-Security-Portfolio mit umfangreichen Angeboten im Bereich Managed Security Services zu ergänzen.\n\nUnsere Mitarbeitenden haben uns für das Jahr 2025 bereits zum vierten Mal in Folge als Top Company auf kununu ausgezeichnet. Das heisst, sie haben uns mit ihren Bewertungen unter die rund fünf Prozent der beliebtesten Arbeitgeber gewählt.\n\nErfahre hier mehr: www.avantec.ch/arbeiten-bei-avantec/.\n\n",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "TEMPORARY"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Zürich",
+    "city": "zürich",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ab3a7ea68060a3fc802e1c&src=GD_JOB_AD&t=NS&vt=w&cs=1_fd6f7ed3&cb=1759085542256&jobListingId=1009883572233",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Avantec-Switzerland-EI_IE9766416.11,30.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Avantec(Switzerland)",
+  "company_headquarters_location": {
+    "city": "zürich",
+    "unknown": "Zürich, Schweiz"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.avantec.ch",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/4567450/it-di-visions-squarelogo-1629285027041.png",
+  "company_name": "IT Di-Visions AG",
+  "job_title": "Security Analyst SOC (m/w/d)",
+  "job_description": "Festanstellung\n\n\nWas du erwarten darfst:\n\n * Nebst der Erstellung, Implementierung und Weiterentwicklung von komplexen Use Cases trägst Du die Gesamtverantwortung in der Analyse und der Bearbeitung von Cyber Security Incidents. Du begleitest Kunden bei der Umsetzung der getroffenen Massnahmen. Zu der Weiterentwicklung und der Optimierung der CSIC®-Infrastruktur zeigst Du Initiative. Du arbeitest in spannenden Projekten mit und unterstützt auch in der Abwicklung von sporadischen Major Incidents und Forensik. Dein Fokus liegt auf dem Blue Team, aber im Rahmen eines interdisziplinären Austauschs bist du auch gewillt, ab und an dem Red Team unter die Arme zu greifen. Regelmässiger Pikettdienst schreckt Dich nicht ab.\n\nWas wir von Dir erwarten:\n\n * Eine solide technische Ausbildung (abgeschlossenes Studium im Informatikbereich, CAS/MAS Information Security, Incidents Handler / Security Analyst Zertifizierungen o.ä.),\n * Berufserfahrung in einem Security Operations Center (SOC) ist von Vorteil.\n * Ein breites Basiswissen in den verschiedensten Informationstechnologien (Windows, Linux, Netzwerk usw.) ist zwingend erforderlich.\n * Das Thema Hacking und das Analysieren von Sicherheitslücken fasziniert Dich.\n * Teamfähigkeit, Loyalität und Dein einwandfreier Leumund sind für diese Tätigkeiten enorm wichtig.\n * Deutsch und Englisch beherrschst Du in Wort und Schrift.\n\nUnsere Unterstützung für Deinen Erfolg:\n\n * Du bist im Moment einer von vielen, und die festgefahrenen Strukturen geben Dir keinen Raum, Dich weiterzuentwickeln? Du hast Lust, Teil eines erfolgreichen Unternehmens zu sein und Dich hierbei voll einzubringen und es weiter mitzuformen? Und das an einem hochmodernen Arbeitsplatz, mit einer wertvollen Kultur im Team und attraktiven Anstellungskonditionen in einem auf Cyber Security Services spezialisierten Unternehmen? Oder Du kennst jemanden, für den das genau das Richtige wäre? Dann freuen wir uns auf Deine Bewerbungsunterlagen oder den entsprechenden Kontakt. Bis bald!\n\nSprache/n:\n\n * Deutsch: Verhandlungssicher\n\n\n\n\nKontakt:\n\nAls freundliche und dynamische IT-Personalberatung ist IT Di-Visions AG bei namhaften Kunden in der gesamten Schweiz sehr erfolgreich etabliert. Wir vermitteln IT-Experten sowohl für Projekte auf Zeit, als auch für Stellen auf Dauer.\n\nHerr Anj Carter steht Ihnen bei fachlichen Fragen unter der Tel. Nr. 044 213 20 30 gerne zur Verfügung.\n\n\n\n\nIT Di-Visions AG\nBahnhofstrasse 63\n8001 Zürich\naca@di-visions.ch\nTel +41 44 213 20 30\nFax +41 44 213 20 31",
+  "job_posted_date": "2025-09-17T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Zürich",
+    "city": "zürich",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ab3c9bac5340ec45b4396a&src=GD_JOB_AD&t=NS&vt=w&cs=1_21d254c2&cb=1759085542678&jobListingId=1009781639840",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-IT-Di-Visions-EI_IE4567450.11,24.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "IT Di-Visions",
+  "company_headquarters_location": {
+    "city": "zürich",
+    "unknown": "Zürich, Schweiz"
+  },
+  "company_sizes_str": "Unbekannt",
+  "company_size": null,
+  "company_website": "www.di-visions.ch",
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/579512/om-pharma-squarelogo-1636118197323.png",
+  "company_name": "Om Pharma",
+  "job_title": "Cybersecurity Analyst (100%) - Geneva",
+  "job_description": "Location: Meyrin, Geneva, CH\nDivision:\nDivision: IT\nJob Type: Permanent role\n\n\n\n\nWe are recruiting a Cybersecurity Analyst based at our headquarters and production site in Geneva. Reporting to the Infrastructure and Security Manager and working in close collaboration with external providers and internal technical collaborators, your mission is to manage vulnerabilities and cyber incidents while ensuring the overall security of OM Pharma.\n\nYour main responsibilities are as follows:\n\n * Assess and remediate security vulnerabilities identified by our tools, Security Operations Center (SOC), and audit findings\n * Serve as the first responder to cybersecurity incidents, including malware infections, data breaches, DDoS attacks, and insider threats\n * Conduct regular vulnerability scans and penetration testing to identify risks across systems, applications, and infrastructure (hybrid)\n * Collaborate with cross-functional teams, stakeholders, and external partners or vendors to develop and implement remediation plans and conduct joint vulnerability assessments\n * Investigate security incidents to determine scope, impact, and root cause and take appropriate action\n * Stay updated on the latest security threats, vulnerabilities, and emerging trends, and apply this knowledge to strengthen OM Pharma's security posture\n * Contribute to the development and implementation of security policies, procedures, and controls\n * Conduct security awareness training sessions for employees, fostering a culture of security and promoting best practices\n\n\n\nTo carry out this mission, we are looking for a person with the following profile:\n\n * Bachelor’s or Master’s degree in Computer Sciences, Cybersecurity or a related field (relevant IT certifications in Cybersecurity a plus)\n * 3-5 years of experience in Security Operations, Incident Response, Threat Intelligence (ideally within the pharmaceutical industry or another regulated industry)\n * Proven experience in vulnerability assessments, penetration testing, and remediation activities\n * Strong knowledge of cybersecurity principles and tools, including cloud and Microsoft 365 security\n * Solid understanding of networks, operating systems, and major cloud platforms (AWS, Azure, GCP)\n * Familiarity with incident response processes\n * Knowledge of GxP requirements and project management methodologies (an asset)\n * Fluency in both French and English\n\n\n\nYou are a dynamic, organized, and solution-focused team player who thrives in fast-paced environments. Driven by an entrepreneurial mindset, you take initiative and maintain a positive “can-do” attitude. You communicate effectively, ensuring information is shared promptly and transparently across teams. Thanks to your interpersonal skills and adaptability, you build strong collaborative relationships with cross-functional teams and manage diverse stakeholders with ease. Above all, you are passionate about IT security and energized by new challenges and innovations.\n\n\nAre you interested in this opportunity? Apply as soon as possible and join OM Pharma!\n\n\n\n\n\nABOUT US\n\nOM Pharma is a global Geneva-based biopharmaceutical company. It is a leader in the prevention of recurrent respiratory and urinary tract infections and is also active in the treatment of vascular diseases.\nIt operates worldwide through a strong network of international partners and invests its profits in R&D to develop microbial derived immunotherapeutic products to treat acute and chronic immunological disorders resulting from inflammation and infections.\nThe company strives to improve the quality of life of patients around the world by providing access to better treatment of immunological imbalances.\n\nFor more information, visit the website: ompharma.com.\n\n",
+  "job_posted_date": "2025-09-08T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Schweiz",
+    "city": "schweiz",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ab5549a50a83481fbb98d3&src=GD_JOB_AD&t=NS&vt=w&cs=1_a2d61021&cb=1759085549403&jobListingId=1009869179259",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-Om-Pharma-EI_IE579512.11,20.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Biotechnologie & Arzneimittel",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "Om Pharma",
+  "company_headquarters_location": {
+    "city": "bengaluru",
+    "unknown": "Bengaluru, Indien"
+  },
+  "company_sizes_str": "1 bis 50 Mitarbeiter",
+  "company_size": null,
+  "company_website": null,
+  "company_revenue": "Unbekannt/Nicht zutreffend",
+  "company_description": null,
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+},
+{
+  "company_logo": "https://media.glassdoor.com/sql/142523/iata-squarelogo-1562079114984.png",
+  "company_name": "International Air Transport Association",
+  "job_title": "Cybersecurity Incident Response Manager",
+  "job_description": "Employment Type: Permanent\nContract Duration:\n\n\n\nWhy you will love working here\n\nAt IATA, we represent over 350 airlines worldwide, striving to make aviation safer, smarter, more sustainable, and inclusive.\n\n * \n   Our Values are not just words on a page - they are the energy behind everything we do: ONE IATA - We collaborate across teams, TRUSTED - We do the right thing, INNOVATIVE - We make tomorrow better, INCLUSIVE - We embrace diverse perspectives.\n * With over 30,000 courses available, we believe in continuous learning and support your growth in an ever-changing industry.\n * Diversity, equity, and inclusion are our priorities. We are certified by the Equal Salary Foundation, offering equal pay and family-friendly policies.\n * We encourage community involvement through volunteering and strive to make tomorrow better for aviation and our communities. We offer time off so you can support causes important to you.\n * We promote work-life balance with flexible work options, including remote and hybrid work, a generous 'work from abroad' policy, and you get your birthday off!\n\n\n\n\nAbout the team you are joining\n\nWorking within the CyberSecurity team in the Information & Data division, this role will report to the Senior Manager Information Security. This role is responsible for detecting, analyzing, and responding to cybersecurity incidents and threats across IATA. This hands-on role involves investigating alerts, coordinating incident response actions, and contributing to the development of incident response procedures. The ideal candidate is detail-oriented, technically strong, and capable of performing in multi-cloud environments to protect IATA critical systems and data\n\nWhat your day would be like\n\nAct as the first responder to cybersecurity incidents including malware infections, data breaches, DDoS attacks, and insider threats\nMonitor and triage security alerts from various sources including SIEM, IDS/IPS, EDR, firewalls, and threat intelligence feeds\nInvestigate security incidents across IATA to determine scope, impact, and root cause and respond accordingly\nContain and remediate incidents in collaboration with SOC, architecture, infrastructure, and application teams\nDocument incidents and produce incident reports with timelines, findings, and recommendations\nDevelop and maintain incident response runbooks and playbooks\nParticipate in threat hunting and proactive analysis to detect emerging threats\nOwn continuous improvement of incident detection and response capabilities\nMeet regularly with 3rd party suppliers to ensure any incident remediation plans are implemented and reviewed\nCoordinate and manage incident response activities\nEnsure security incident handling process is documented and followed\nConduct post-incident reviews and recommend security enhancements\nInvestigate and respond to fraud reports\nProvide regular reports and dashboards to CISO\nLiaise with the vulnerability analyst to identify all vulnerabilities potentially exploitable during an incident\nWork with data security architect to implement various protocols and technologies\nStay updated on the latest threat trends, attack techniques, and mitigation strategies\nCoordinate information sharing activities with industry groups, government agencies, and other groups\nCoordinate with technical teams, third parties or law enforcement during major incidents if necessary.\n\n\nWe would love to hear from you if you have\n\nMaster’s degree in computer science, Engineering, Cybersecurity or a related field, or equivalent experience.\nFive years of experience in Security Operations, Incident Response, or Threat Intelligence.\nStrong knowledge of security event analysis, malware behavior, and attack vectors.\nFamiliarity with MITRE ATT&CK, cyber kill chain, and threat intelligence tools.\nKnowledge of incident response frameworks (e.g., NIST 800-61, SANS).\nExperience working with SIEM platforms (e.g., Splunk) and EDR solutions (e.g., CrowdStrike).\nStrong knowledge of Cybersecurity principles, practices, and technologies such as; SSE, CASB, DLP, Email Security, AWS security, O365 security.\nUnderstanding of networking concepts, operating systems, and cloud environments (AWS, Azure, GCP).\nRelevant IT certification (Security+, CISSP, GIAC, ECIH, OSCP, CEH, etc.) is an asset.\nKnowledge of ISO 27001:2013 / PCI-DSS / SOC2.\nStrong problem-solving, analytical, and communication skills.\n\n\n\nTravel Required: 10\n\n\n\nLearn more about IATA’s role in the industry, our benefits, and the team at iata/careers/. We are looking forward to hearing from you!",
+  "job_posted_date": "2025-09-22T00:00:00",
+  "job_job_types": [
+    "FULL_TIME"
+  ],
+  "job_levels": null,
+  "job_language": null,
+  "job_location": {
+    "unknown": "Genf",
+    "city": "genf",
+    "country": "switzerland",
+    "zip": null
+  },
+  "job_url": "https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019991ab6a578770c1029a2c3c26&src=GD_JOB_AD&t=NS&vt=w&cs=1_620cdd22&cb=1759085554393&jobListingId=1009819047122",
+  "company_url": "https://glassdoor.com/Überblick/Arbeit-bei-IATA-EI_IE142523.11,15.htm",
+  "job_salary": {
+    "currency": "CHF",
+    "currency_symbol": "₣",
+    "pay_period": "hourly",
+    "estimated": false
+  },
+  "job_benefits_tags": [
+    "The calculation of the contribution is based on 120% of the employee’s gross salary using the  parameters based on age and nationality."
+  ],
+  "job_shifts_and_schedule_tags": null,
+  "job_sponsored": false,
+  "job_industry": "Vereine & Verbände",
+  "job_poster_first_name": null,
+  "job_poster_last_name": null,
+  "job_poster_linkedin_profile_url": null,
+  "company_short_name": "IATA",
+  "company_headquarters_location": {
+    "city": "montreal",
+    "unknown": "Montreal, Kanada"
+  },
+  "company_sizes_str": "1''001 bis 5''000 Mitarbeiter",
+  "company_size": null,
+  "company_website": "www.iata.org",
+  "company_revenue": "100 bis 500 Millionen $ (USD)",
+  "company_description": null,
+  "company_foundation_date": "1945-01-01T00:00:00.000Z",
+  "company_tag_line": null,
+  "company_linkedin_follower_count": null,
+  "company_industries": null,
+  "company_locations": null
+}]
